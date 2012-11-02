@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="bjorsq : GitHub user page for Peter Edwards" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/inlinemultiselect.examples.css">
+
+    <title>bjorsq: jquery.inlinemultiselect</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://raw.github.com/bjorsq/inlinemultiselect/master/jquery.inlinemultiselect.js" type="text/javascript"></script>
+    <script src="javascripts/inlinemultiselect.examples.js" type="text/javascript"></script>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/bjorsq/inlinemultiselect">View on GitHub</a>
+
+          <h1 id="project_title">inlinemultiselect</h1>
+          <h2 id="project_tagline">A plugin that converts multiple &lt;select&gt; into editable, inline lists.</h2>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p>This jQuery plugin is based on original code to create checkbox lists from multiple select elements by Kae Verens at:</p>
+        <ul><li><a href="http://verens.com/archives/2005/04/27/son-of-multiselect/">http://verens.com/archives/2005/04/27/son-of-multiselect/</a></li></ul>
+        <p>The plugin was originally hosted on Google code, and had been left there for some time without modification. Thanks to <a href="http://verens.com/">Kae Verens</a> for his contributions to the plugin, both in the original code and in his modifications and suggestions for enhancements. Thanks also to <a href="http://code.google.com/u/105883549409158776589/">goodladybird</a> for identifying a bug and making me aware of internationalisation issues.</p>
+
+        <h4>Code examples</h4>
+        <p>In this example, the two lists are initialised using the default options. The first list already has an option pre-selected to show how the <code>triggerPopup</code> option is used to indicate what can be done with the lists (<strong>[Change...]</strong> when there are already options selected, and <strong>[Choose...]</strong> when none are selected). The second option replaces the inline list with the text <strong>[All options selected]</strong>, which may be useful for very long lists.</p>
+        <p class="example">For starters, I will have 
+        <select name="firstSelect[]" multiple="multiple" class="normal">
+          <option value="1.1" selected="selected">Option 1.1</option>
+          <option value="1.2">Option 1.2</option>
+          <option value="1.3">Option 1.3</option>
+          <option value="1.4">Option 1.4</option>
+          <option value="1.5">Option 1.5</option>
+          <option value="1.6">Option 1.6</option>
+          <option value="1.7">Option 1.7</option>
+          <option value="1.8">Option 1.8</option>
+          <option value="1.9">Option 1.9</option>
+          <option value="1.10">Option 1.10</option>
+          <option value="1.11">Option 1.11</option>
+          <option value="1.12">Option 1.12</option>
+        </select>
+        , followed by  
+        <select name="secondSelect[]" multiple="multiple" class="replaceall">
+          <option value="2.1">Option 2.1</option>
+          <option value="2.2">Option 2.2</option>
+          <option value="2.3">Option 2.3</option>
+          <option value="2.4">Option 2.4</option>
+          <option value="2.5">Option 2.5</option>
+          <option value="2.6">Option 2.6</option>
+          <option value="2.7">Option 2.7</option>
+          <option value="2.8">Option 2.8</option>
+          <option value="2.9">Option 2.9</option>
+          <option value="2.10">Option 2.10</option>
+          <option value="2.11">Option 2.11</option>
+          <option value="2.12">Option 2.12</option>
+        </select>
+         then I'm done.</p>
+        <h4>Limiting the number of choices</h4>
+        <p>This example shows how a list can have a maximum number of possible options selected</p>
+        <p>I can only choose three from this list: 
+        <select name="thirdSelect[]" multiple="multiple" class="limit">
+          <option value="3.1" selected="selected">Option 3.1</option>
+          <option value="3.2">Option 3.2</option>
+          <option value="3.3">Option 3.3</option>
+          <option value="3.4">Option 3.4</option>
+          <option value="3.5">Option 3.5</option>
+          <option value="3.6">Option 3.6</option>
+          <option value="3.7">Option 3.7</option>
+          <option value="3.8">Option 3.8</option>
+          <option value="3.9">Option 3.9</option>
+          <option value="3.10">Option 3.10</option>
+          <option value="3.11">Option 3.11</option>
+          <option value="3.12">Option 3.12</option>
+        </select>
+        .</p>
+        <h4>Disabled options and disabled select lists</h4>
+        <p>This example has some of the options disabled:</p>
+        <p>I can't choose option 4.2 or 4.4. from this list:
+        <select name="fourthSelect[]" multiple="multiple" class="normal">
+          <option value="4.1" selected="selected">Option 4.1</option>
+          <option value="4.2" disabled="disabled">Option 4.2</option>
+          <option value="4.3">Option 4.3</option>
+          <option value="4.4" disabled="disabled">Option 4.4</option>
+          <option value="4.5">Option 4.5</option>
+          <option value="4.6">Option 4.6</option>
+          <option value="4.7" selected="selected">Option 4.7</option>
+          <option value="4.8">Option 4.8</option>
+          <option value="4.9" selected="selected">Option 4.9</option>
+          <option value="4.10">Option 4.10</option>
+          <option value="4.11">Option 4.11</option>
+          <option value="4.12">Option 4.12</option>
+        </select>
+        .</p>
+        <p>This example has the whole select list disabled:</p>
+        <p>I can't choose any from this list (options 5.2 and 5.4 are pre-selected):
+        <select name="fifthSelect[]" multiple="multiple" disabled="disabled" class="normal">
+          <option value="5.1">Option 5.1</option>
+          <option value="5.2" selected="selected">Option 5.2</option>
+          <option value="5.3">Option 5.3</option>
+          <option value="5.4" selected="selected">Option 5.4</option>
+          <option value="5.5">Option 5.5</option>
+          <option value="5.6">Option 5.6</option>
+          <option value="5.7">Option 5.7</option>
+          <option value="5.8">Option 5.8</option>
+          <option value="5.9">Option 5.9</option>
+          <option value="5.10">Option 5.10</option>
+          <option value="5.11">Option 5.11</option>
+          <option value="5.12">Option 5.12</option>
+        </select>
+        .</p>
+        <h4>Using images to trigger popups</h4>
+        <p>You can include any HTML in the triggers for the popups - this example shows the triggers as buttons (using CSS)</p>
+        <p>the first doesn't have any options selected to start with: 
+        <select name="sixthSelect[]" multiple="multiple" class="imagelink">
+          <option value="6.1">Option 6.1</option>
+          <option value="6.2">Option 6.2</option>
+          <option value="6.3">Option 6.3</option>
+          <option value="6.4">Option 6.4</option>
+          <option value="6.5">Option 6.5</option>
+          <option value="6.6">Option 6.6</option>
+          <option value="6.7">Option 6.7</option>
+          <option value="6.8">Option 6.8</option>
+          <option value="6.9">Option 6.9</option>
+          <option value="6.10">Option 6.10</option>
+          <option value="6.11">Option 6.11</option>
+          <option value="6.12">Option 6.12</option>
+        </select>
+        , the second has some options pre-selected:
+        <select name="seventhSelect[]" multiple="multiple" class="imagelink">
+          <option value="7.1">Option 7.1</option>
+          <option value="7.2" selected="selected">Option 7.2</option>
+          <option value="7.3">Option 7.3</option>
+          <option value="7.4" selected="selected">Option 7.4</option>
+          <option value="7.5">Option 7.5</option>
+          <option value="7.6">Option 7.6</option>
+          <option value="7.7">Option 7.7</option>
+          <option value="7.8">Option 7.8</option>
+          <option value="7.9">Option 7.9</option>
+          <option value="7.10">Option 7.10</option>
+          <option value="7.11">Option 7.11</option>
+          <option value="7.12">Option 7.12</option>
+        </select>
+        , and the third is disabled:
+        <select name="eighthSelect[]" multiple="multiple" disabled="disabled" class="imagelink">
+          <option value="8.1">Option 8.1</option>
+          <option value="8.2" selected="selected">Option 8.2</option>
+          <option value="8.3">Option 8.3</option>
+          <option value="8.4" selected="selected">Option 8.4</option>
+          <option value="8.5">Option 8.5</option>
+          <option value="8.6">Option 8.6</option>
+          <option value="8.7">Option 8.7</option>
+          <option value="8.8">Option 8.8</option>
+          <option value="8.9">Option 8.9</option>
+          <option value="8.10">Option 8.10</option>
+          <option value="8.11">Option 8.11</option>
+          <option value="8.12">Option 8.12</option>
+        </select>
+        .</p>
+        <h4>Using different delimiters in the lists</h4>
+        <p>You can use different delimiters in the lists generated by specifying them in the global options <code>separator</code> and <code>endSeparator</code>.</p>
+        <p>In this example, the separator is a semicolon, and the end separator is '; and':
+        <select name="ninthSelect[]" multiple="multiple" class="semicolon">
+          <option value="9.1">Option 9.1</option>
+          <option value="9.2" selected="selected">Option 9.2</option>
+          <option value="9.3">Option 9.3</option>
+          <option value="9.4" selected="selected">Option 9.4</option>
+          <option value="9.5">Option 9.5</option>
+          <option value="9.6" selected="selected">Option 9.6</option>
+          <option value="9.7">Option 9.7</option>
+          <option value="9.8" selected="selected">Option 9.8</option>
+          <option value="9.9">Option 9.9</option>
+          <option value="9.10">Option 9.10</option>
+          <option value="9.11">Option 9.11</option>
+          <option value="9.12">Option 9.12</option>
+        </select>
+        .</p>
+        <p>You can also achieve more finely-grained control by using the hashes <code>separatorSpecial</code> and <code>endSeparatorSpecial</code>. Here you specify the name of the select list as the hash key, and the separator/end separator as the value.</p>
+        <p>In this example, the list has the same settings as the one above, but the end separator is set to '; and finally':
+        <select name="tenthSelect[]" multiple="multiple" class="semicolon">
+          <option value="10.1">Option 10.1</option>
+          <option value="10.2" selected="selected">Option 10.2</option>
+          <option value="10.3">Option 10.3</option>
+          <option value="10.4" selected="selected">Option 10.4</option>
+          <option value="10.5">Option 10.5</option>
+          <option value="10.6">Option 10.6</option>
+          <option value="10.7" selected="selected">Option 10.7</option>
+          <option value="10.8">Option 10.8</option>
+          <option value="10.9">Option 10.9</option>
+          <option value="10.10">Option 10.10</option>
+          <option value="10.11" selected="selected">Option 10.11</option>
+          <option value="10.12">Option 10.12</option>
+        </select>
+        .</p>
+        <h4>Showing and hiding the buttons to select all, none and reset</h4>
+        <p>The buttons in the top bar of the options popup are all present by default (except when the number of options is limited - see the above example), but can be hidden using the <code>showAllLink</code>, <code>showNoneLink</code> and <code>showResetLink</code> options.</p>
+        <p>In the following example, only the reset and none links are enabled (<code>showAllLink</code> is set to <strong>false</strong>):
+        <select name="eleventhSelect[]" multiple="multiple" class="noall">
+          <option value="11.1">Option 11.1</option>
+          <option value="11.2" selected="selected">Option 11.2</option>
+          <option value="11.3">Option 11.3</option>
+          <option value="11.4" selected="selected">Option 11.4</option>
+          <option value="11.5">Option 11.5</option>
+          <option value="11.6">Option 11.6</option>
+          <option value="11.7" selected="selected">Option 11.7</option>
+          <option value="11.8">Option 11.8</option>
+          <option value="11.9">Option 11.9</option>
+          <option value="11.10">Option 11.10</option>
+          <option value="11.11" selected="selected">Option 11.11</option>
+          <option value="11.12">Option 11.12</option>
+        </select>
+        .</p>
+        <h4>Adding a callback to the click/change event</h4>
+        <p>You can add a callback function to the click/change event of a checkbox to perform additional processing to either the checkboxes in the group, or use the values from the checkboxes in the group elsewhere in the page. The function takes a single argument which is an array containing objects representing all the checkboxes in the group. Each of these objects has the following properties set:</p>
+        <dl>
+        <dt>id</dt>
+        <dd>auto-generated ID of the new checkbox element</dd>
+        <dt>title</dt>
+        <dd>originally the text of the <code>&lt;option&gt;</code> element</dd>
+        <dt>value</dt>
+        <dd>originally the value of the <code>&lt;option&gt;</code> element</dd>
+        <dt>name</dt>
+        <dd>originally, the name of the multiple <code>&lt;select&gt;</code></dd>
+        <dt>checked</dt>
+        <dd>boolean value representing the checked state of the checkbox</dd>
+        </dl>
+        <p>The callback function will be executed in the context of the checkbox whose click/change event has been triggered, so <code><strong>this</strong></code> will refer to the checkbox element.</p>
+        <p>In the following example, the callback function simply displays the parameters and context in which it is called below the list:
+        <select name="twelfthSelect[]" multiple="multiple" class="withcallback">
+          <option value="12.1">Option 12.1</option>
+          <option value="12.2">Option 12.2</option>
+          <option value="12.3">Option 12.3</option>
+          <option value="12.4">Option 12.4</option>
+          <option value="12.5">Option 12.5</option>
+          <option value="12.6">Option 12.6</option>
+          <option value="12.7">Option 12.7</option>
+          <option value="12.8">Option 12.8</option>
+          <option value="12.9">Option 12.9</option>
+          <option value="12.10">Option 12.10</option>
+          <option value="12.12">Option 12.11</option>
+          <option value="12.12">Option 12.12</option>
+        </select>.</p>
+        <div id="optiondump"><p>No options selected</p></div>
+        <p>A more practical example uses the list as a filtering mechanism for other elements on the page (the reason the callback function was added to the plugin in the first place).</p>
+        <p>In this example, the list items below the multiple select have different classes, and the multiple select is used to show/hide items in the list according to those classes. Initially no items are shown.</p>
+        <p>Show items tagged with:
+        <select name="tagselect[]" multiple="multiple" class="tagfilter">
+          <option value="quick">quick</option>
+          <option value="brown">brown</option>
+          <option value="lazy">lazy</option>
+          <option value="sticky">sticky</option>
+        </select>.</p>
+        <ul id="thinglist">
+          <li class="quick brown">Fox</li>
+          <li class="lazy">Dog</li>
+          <li class="sticky brown">Stick</li>
+          <li class="brown">Cow</li>
+        </ul>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
