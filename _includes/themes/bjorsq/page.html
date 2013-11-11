@@ -8,59 +8,49 @@
     <section>
       <div class="container">
         <div class="row">
-          <div class="span9">
-            {% if page.submenu %}
-            <div class="span3 page-submenu">
-              <h4>Contents</h4>
-              <ul>
-              {% for item in page.submenu %}
-                <li><a href="#{{ item.anchr }}">{{ item.title }}</a></li>
-              {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
-        
+          <div class="col-md-8">
+       
             {{content}}
 
           </div>
 
-          <div class="span3 sidebar">
+          <div class="col-md-4 sidebar">
             <nav role="navigation">
             {% if page.title == 'Wordpress Plugins' or page.category == 'plugins' %}
-				<ul class="page-sidenav">
+				<ul class="nav nav-pills nav-stacked">
 				{% for item in site.categories.plugins do %}
 					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }} "><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
 				{% endfor %}
 				</ul>
             {% endif %}
             {% if page.title == 'UoL Wordpress Theme' or page.category == 'theme' %}
-				<ul class="page-sidenav">
+				<ul class="nav nav-pills nav-stacked">
 				{% for item in site.categories.theme do %}
 					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }}"><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
 				{% endfor %}
 				</ul>
 			{% endif %}
             {% if page.title == 'Custom Themes' or page.category == 'customthemes' %}
-				<ul class="page-sidenav">
+				<ul class="nav nav-pills nav-stacked">
 				{% for item in site.categories.customthemes do %}
 					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }}"><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
 				{% endfor %}
 				</ul>
 			{% endif %}
             {% if page.title == 'Help' or page.category == 'help' %}
-				<ul class="page-sidenav">
+				<ul class="nav nav-pills nav-stacked">
 				{% for item in site.categories.help do %}
 					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }}"><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
 				{% endfor %}
 				</ul>
 			{% endif %}
-			</nav>
-			<p><a href="https://github.com/bjorsq" title="bjorsq on GitHub" class="btn btn-block">bjorsq on GitHub</a></p>
+        <ul class="nav nav-pills nav-stacked">
+			     <li><a href="https://github.com/bjorsq" title="bjorsq on GitHub" class="btn btn-block">bjorsq on GitHub</a></li>
 			{% if page.githuburl %}
-			<p><a href="{{ page.githuburl }}" title="{{ page.title }} on GitHub" class="btn btn-block">{{ page.title }} on GitHub</a></p>
+			<li><a href="{{ page.githuburl }}" title="{{ page.title }} on GitHub" class="btn btn-block">{{ page.title }} on GitHub</a></li>
 			{% endif %}
       {% if page.downloadurl %}
-      <p><a href="{{ page.downloadurl }}" title="Download {{ page.title }}" class="btn btn-block btn-primary">Download {{ page.title }}</a></p>
+      <li><a href="{{ page.downloadurl }}" title="Download {{ page.title }}" class="btn btn-block btn-primary">Download {{ page.title }}</a></li>
       {% endif %}
             </nav>
           </div>

@@ -3,7 +3,6 @@
 permalink: /:categories/:title 
 
 exclude: ["README.md"]
-auto: false
 pygments: true
 
 # Themes are encouraged to use these universal variables 
