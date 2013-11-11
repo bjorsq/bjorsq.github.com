@@ -1,0 +1,3 @@
+/*! Github scripts */
+jQuery(function($){
+});
