@@ -5990,6 +5990,98 @@ td.visible-print {
     display: none !important;
   }
 }
+/**
+ * inlinemultiselect styles
+ */
+div.selectWrapper {
+  position: absolute;
+  width: 200px;
+  height: 120px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  display: none;
+  background-color: #eef;
+  border: 1px solid #69c;
+  font: 1em sans-serif;
+  z-index: 10;
+  /* control link at the top of the list (all, none, reset, close) */
+  /* container for actual list of options/checkboxes */
+}
+div.selectWrapper a.selectControl {
+  display: block;
+  width: 42px;
+  text-decoration: none;
+  float: right;
+  border: 1px solid #69c;
+  color: #393;
+  padding: 1px 2px;
+  font-size: 12px;
+  line-height: 12px;
+  margin: 1px 1px 0 0;
+  background-color: #fff;
+  text-align: center;
+}
+div.selectWrapper a.selectControl:hover,
+div.selectWrapper a.selectControl:visited:hover {
+  color: #fff;
+  background-color: #6699cc;
+}
+div.selectWrapper div.listWrapper {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 200px;
+  height: 100px;
+  overflow: auto;
+  background-color: #fff;
+  border-top: 1px solid #69c;
+  text-align: left;
+  /* list of options/checkboxes */
+  /* labels next to checkboxes */
+  /* label appearance when checkbox is checked */
+  /* label appearance when checkbox is unchecked */
+  /* label appearance when checkbox is disabled */
+  /* label appearance when checkbox is unchecked, enabled and the mouse is hovering */
+  /* checkbox */
+}
+div.selectWrapper div.listWrapper ul,
+div.selectWrapper div.listWrapper ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: #fff;
+}
+div.selectWrapper div.listWrapper label {
+  display: block;
+  cursor: pointer;
+  padding: 3px 3px 3px 25px;
+  border-bottom: 1px solid #eef;
+  background: #fff;
+}
+div.selectWrapper div.listWrapper label.boxChecked {
+  line-height: 1em;
+  background: #69c;
+  color: #fff;
+  font-weight: bold;
+}
+div.selectWrapper div.listWrapper label.boxUnchecked {
+  line-height: 1em;
+  background: #fff;
+  color: #000;
+  font-weight: normal;
+}
+div.selectWrapper div.listWrapper label.boxDisabled {
+  background: #eee;
+  color: #666;
+  font-style: italic;
+}
+div.selectWrapper div.listWrapper label.boxHover {
+  background: #ddf;
+}
+div.selectWrapper div.listWrapper input.listBox {
+  margin: -1px 5px 0 -20px;
+}
 #main-header {
   position: relative;
   z-index: 2;
@@ -6024,72 +6116,18 @@ td.visible-print {
   left: 0;
   background: url(../img/header-pattern.png) repeat center center;
 }
-.page-sidenav {
-  width: 100%;
-  margin: 0 0 30px 0;
-  padding: 0;
-  list-style: none;
-  background-color: #fff;
-  border-radius: 6px;
+.navbar-brand {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+  background: transparent url(../img/header-brand.png) no-repeat 15px 15px;
+  width: 55px;
+  height: 40px;
 }
-.page-sidenav > li > a {
-  display: block;
-  margin: 0 0 -1px;
-  padding: 8px 14px;
-  border: 1px solid #a88e5f;
-  color: #634817;
-}
-.page-sidenav > li > a:hover {
-  text-decoration: none;
-  background-color: #f5f5f5;
-}
-.page-sidenav > li:first-child > a {
-  border-top-right-radius: 6px;
-  border-top-left-radius: 6px;
-}
-.page-sidenav > li:last-child > a {
-  border-bottom-right-radius: 6px;
-  border-bottom-left-radius: 6px;
-}
-.page-sidenav > .active > a {
-  position: relative;
-  z-index: 2;
-  padding: 9px 15px;
-  background-color: #f5f5f5;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
-  -webkit-box-shadow: 'inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1)';
-  box-shadow: 'inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1)';
-}
-/* Chevrons */
-.page-sidenav .icon-chevron-right {
-  float: right;
-  margin-top: 2px;
-  margin-right: -6px;
-  opacity: .25;
-}
-.page-sidenav a:hover .icon-chevron-right,
-.page-sidenav .active .icon-chevron-right,
-.page-sidenav .active a:hover .icon-chevron-right {
-  opacity: .5;
-}
-.page-sidenav.affix {
-  top: 40px;
-}
-.page-sidenav.affix-bottom {
-  position: absolute;
-  top: auto;
-  bottom: 270px;
-}
-#shortcode_generator_src {
-  width: 100%;
-}
-.page-submenu {
-  float: right;
-  padding: 9px 15px;
-  border: 1px solid #cfcfcf;
-  border-radius: 6px;
-  -webkit-box-shadow: '0 1px 4px rgba(0,0,0,.065)';
-  box-shadow: '0 1px 4px rgba(0,0,0,.065)';
+.affix {
+  top: 56px;
 }
 a.to-top {
   float: right;

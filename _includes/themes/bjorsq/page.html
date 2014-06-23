@@ -1,60 +1,45 @@
-    <header id="main-header">
-      <div class="container">
-        <h1>{{page.title}}</h1>
-        <p class="lead">{{page.tagline}}</p>
-      </div>
-    </header>
+		<header id="main-header">
+			<div class="container">
+				<h1>{{page.title}}</h1>
+				<p class="lead">{{page.tagline}}</p>
+			</div>
+		</header>
 
-    <section>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-       
-            {{content}}
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-9">
+			 
+						{{content}}
 
-          </div>
+					</div>
 
-          <div class="col-md-4 sidebar">
-            <nav role="navigation">
-            {% if page.title == 'Wordpress Plugins' or page.category == 'plugins' %}
-				<ul class="nav nav-pills nav-stacked">
-				{% for item in site.categories.plugins do %}
-					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }} "><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
-				{% endfor %}
-				</ul>
+					<div class="col-md-3 sidebar">
+						<nav role="navigation" data-spy="affix" data-offset-top="167" data-offset-bottom="10">
+
+            {% if page.sections %}
+							<ul class="nav nav-pills nav-stacked" id="section-navbar">
+							{% for section in page.sections %}
+								<li><a href="#{{ section.anchor }}">{{ section.title }}</a></li>
+							{% endfor %}
+							</ul>
+              <script>jQuery(function($){$('body').scrollspy({target:'#section-navbar'});});</script>
+						{% endif %}
+
+            {% if page.githuburl or page.downloadurl %}
+              <ul class="nav nav-pills nav-stacked">
+			         {% if page.githuburl %}
+			         <li><a href="{{ page.githuburl }}" title="{{ page.title }} on GitHub" class="github">{{ page.title }} on GitHub</a></li>
+			         {% endif %}
+			         {% if page.downloadurl %}
+			         <li><a href="{{ page.downloadurl }}" title="Download {{ page.title }}" class="github">Download {{ page.title }}</a></li>
+			         {% endif %}
+							</ul>
             {% endif %}
-            {% if page.title == 'UoL Wordpress Theme' or page.category == 'theme' %}
-				<ul class="nav nav-pills nav-stacked">
-				{% for item in site.categories.theme do %}
-					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }}"><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
-				{% endfor %}
-				</ul>
-			{% endif %}
-            {% if page.title == 'Custom Themes' or page.category == 'customthemes' %}
-				<ul class="nav nav-pills nav-stacked">
-				{% for item in site.categories.customthemes do %}
-					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }}"><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
-				{% endfor %}
-				</ul>
-			{% endif %}
-            {% if page.title == 'Help' or page.category == 'help' %}
-				<ul class="nav nav-pills nav-stacked">
-				{% for item in site.categories.help do %}
-					<li{% if page.title == item.title %} class="active"{% endif %}><a href="{{ item.url }}" title="{{ item.tagline }}"><i class="icon-chevron-right"></i> {{ item.title }}</a></li>
-				{% endfor %}
-				</ul>
-			{% endif %}
-        <ul class="nav nav-pills nav-stacked">
-			     <li><a href="https://github.com/bjorsq" title="bjorsq on GitHub" class="btn btn-block">bjorsq on GitHub</a></li>
-			{% if page.githuburl %}
-			<li><a href="{{ page.githuburl }}" title="{{ page.title }} on GitHub" class="btn btn-block">{{ page.title }} on GitHub</a></li>
-			{% endif %}
-      {% if page.downloadurl %}
-      <li><a href="{{ page.downloadurl }}" title="Download {{ page.title }}" class="btn btn-block btn-primary">Download {{ page.title }}</a></li>
-      {% endif %}
-            </nav>
-          </div>
 
-        </div>
-      </div>
-    </section>
+						</nav>
+					</div>
+
+				</div>
+			</div>
+		</section>

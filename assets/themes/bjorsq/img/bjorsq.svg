@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="bjorsq.svg"
-   inkscape:export-filename="/home/pete/GitHub/bjorsq.github.com/assets/themes/bjorsq/img/bjorsq.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/pete/GitHub/bjorsq.github.com/assets/themes/bjorsq/img/header-brand.png"
+   inkscape:export-xdpi="2.1613917"
+   inkscape:export-ydpi="2.1613917">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="57.711358"
+     inkscape:cx="303.05154"
      inkscape:cy="354.58907"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -56,38 +56,13 @@
      id="layer1"
      transform="translate(0,-52.362183)">
     <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#777777;stroke-width:291.03503417999996827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;opacity:0.76170213"
-       id="path3023"
-       sodipodi:cx="477.85715"
-       sodipodi:cy="336.42856"
-       sodipodi:rx="322.14285"
-       sodipodi:ry="322.14285"
-       d="m 800,336.42856 c 0,177.91458 -144.22827,322.14285 -322.14285,322.14285 -177.91459,0 -322.14286,-144.22827 -322.14286,-322.14285 0,-177.91459 144.22827,-322.142854 322.14286,-322.142854 C 655.77173,14.285706 800,158.51397 800,336.42856 z"
-       transform="matrix(0.72156258,0,0,0.72156258,152.71411,147.72702)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#777777;stroke-width:291.03503417999996827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;opacity:0.76170213"
-       id="path3023-5"
-       sodipodi:cx="477.85715"
-       sodipodi:cy="336.42856"
-       sodipodi:rx="322.14285"
-       sodipodi:ry="322.14285"
-       d="m 800,336.42856 c 0,177.91458 -144.22827,322.14285 -322.14285,322.14285 -177.91459,0 -322.14286,-144.22827 -322.14286,-322.14285 0,-177.91459 144.22827,-322.142854 322.14286,-322.142854 C 655.77173,14.285706 800,158.51397 800,336.42856 z"
-       transform="matrix(0.72156258,0,0,0.72156258,154.57918,472.19667)" />
-    <rect
-       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.89330328000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-       id="rect2985-1"
-       width="278.79453"
-       height="998.08649"
-       x="721.00018"
-       y="53.293438" />
-    <rect
-       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.89249539000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
-       id="rect2985"
-       width="278.29025"
-       height="998.08728"
-       x="0.80339164"
-       y="53.145271" />
+       id="path3805-8"
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:45.50899886999999921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       d="m 466.63749,1030.6487 c 135.93656,0 268.47476,-183.26979 268.47476,-353.87497 0,-170.6052 -134.2374,-308.20739 -292.26364,-308.20739 -158.02628,0 -174.116,86.1392 -174.116,86.1392 L 264.75292,77.819728 24.843683,75.943528 24.522483,1030.7521 z M 532.56394,75.984071 c -135.93657,0 -264.47474,171.269859 -264.47474,341.875019 0,170.60519 130.23736,314.20738 288.26362,314.20738 158.02628,0 174.41676,-100.17795 176.116,-98.26103 1.69919,1.9169 1.97969,397.00766 1.97969,397.00766 l 243.90927,-2.1238 -1.67888,-952.808618 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccccccssscccc"
+       inkscape:export-xdpi="6.8370023"
+       inkscape:export-ydpi="6.8370023"
+       inkscape:export-filename="/home/pete/GitHub/bjorsq.github.com/assets/themes/bjorsq/img/icons/favicon-mono.png" />
   </g>
 </svg>
