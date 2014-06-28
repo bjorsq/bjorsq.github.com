@@ -30,7 +30,7 @@ You can also set upgrade constants on production servers to prevent Wordpress as
 Show Errors
 -----------
 
-Add the following to `.htaccess`
+Add the following to .htaccess
 
 ```
 php_flag display_startup_errors on
@@ -47,11 +47,11 @@ php_value error_reporting -1
 php_value log_errors_max_len 0
 ```
 
-You could also enable logging to a file - more details here (as well as an example of an `.htaccess` file for production environments)
+You could also enable logging to a file - more details here (as well as an example of an .htaccess file for production environments)
 
 [Advanced PHP Error Handling via htaccess](<a href="http://perishablepress.com/advanced-php-error-handling-via-htaccess)
 
-Wordpress also has some debugging features which can be enabled using a plugin or by adding the following to `wp-config.php`
+Wordpress also has some debugging features which can be enabled using a plugin or by adding the following to wp-config.php
 
 ```
 define('WP_DEBUG', true);
