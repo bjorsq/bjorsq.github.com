@@ -47,7 +47,7 @@ Add the following to .htaccess
 
 You could also enable logging to a file - more details here (as well as an example of an .htaccess file for production environments)
 
-[Advanced PHP Error Handling via htaccess](<a href="http://perishablepress.com/advanced-php-error-handling-via-htaccess)
+[Advanced PHP Error Handling via htaccess](http://perishablepress.com/advanced-php-error-handling-via-htaccess)
 
 Wordpress also has some debugging features which can be enabled using a plugin or by adding the following to wp-config.php
 
