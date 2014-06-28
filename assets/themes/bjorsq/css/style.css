@@ -4219,11 +4219,11 @@ p.meta {
   font-style: italic;
 }
 .rss-icon {
-  display: inline-block;
+  display: block;
   width: 24px;
   height: 24px;
   float: left;
-  margin-right: 1em;
+  margin-right: 12px;
   background: #ffffff url(../img/icons/rss.png) no-repeat left top;
   font: 0/0 a;
   color: transparent;
