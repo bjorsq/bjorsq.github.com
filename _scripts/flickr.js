@@ -9,7 +9,7 @@
 			albumQueryURL = flickrURL+'&method=flickr.photosets.getList&jsoncallback=?',
 			albumContentsURL = flickrURL+'&method=flickr.photosets.getPhotos&jsoncallback=?&photoset_id=',
 
-		showAlbums = function(resp)
+		showAlbums = function()
 		{
 			var albums = $('#flickr').data('albums');
 			if ( albums != 'undefined' && albums.length ) {
@@ -19,6 +19,10 @@
 					albums_html += '<div class="album"><a href="#" class="photoset-link" data-photoset-id="'+albums[i].id+'"><img src="'+image_url+'"></a><h4><a href="#" class="photoset-link" data-photoset-id="'+albums[i].id+'">'+albums[i].title._content+'</a></h4></div>'; 
 				}
 				$('#flickr').empty().html(albums_html);
+				$('p.lead').html('photos');
+				if (history.pushState) {
+					history.pushState({'page':'albums'});
+				}
 			}
 		},
 		showPhotos = function(photoset_id)
@@ -33,6 +37,10 @@
 				}
 				$('#flickr').empty().html(photos_html);
 				$('.photo-link').fancybox();
+				if (history.pushState) {
+					history.pushState({'photoset':photoset_id});
+				}
+				doCrumb(photoset_id);
 			}
 		},
 		getAlbums = function()
@@ -58,11 +66,37 @@
 			} else {
 				showPhotos(photoset_id);
 			}
+		},
+		doCrumb = function(photoset_id)
+		{
+			var albums = $('#flickr').data('albums');
+			if ( albums != 'undefined' && albums.length ) {
+				for (var i = 0; i < albums.length; i++) {
+					if (albums[i].id == photoset_id) {
+						$('p.lead').html('<a href="#" class="return">photos</a> &raquo; '+albums[i].title._content);
+					}
+				}
+			}
 		};
 		$('#flickr').on('click', '.photoset-link', function(e){
 			e.preventDefault();
 			getPhotos($(this).data('photoset-id'));
-		})
+		});
+		$('p.lead').on('click', '.return', function(e){
+			e.preventDefault();
+			showAlbums();
+		});
+		window.onpopstate = function(event) {
+  			if ( event.state ) {
+  				console.log(event.state);
+  				if ( event.state.photoset ) {
+  					showPhotos(event.state.photoset);
+  				}
+  				if (event.state.page && event.state.page == 'albums') {
+  					showAlbums();
+  				}
+  			}
+		};
 
 		/* get the Albums */
 		getAlbums();
