@@ -32,27 +32,24 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">bjorsq</a>
+          <a class="navbar-brand" href="/">bjorsq</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li>
-              <a href="http://bjorsq.net">home</a>
+            <li{% if page.title == 'photos' %} class="active"{% endif %}>
+              <a href="/photos">photos</a>
             </li>
-            <li>
-              <a href="http://bjorsq.net/photos">photos</a>
+            <li{% if page.title == 'videos' %} class="active"{% endif %}>
+              <a href="/videos">videos</a>
             </li>
-            <li>
-              <a href="http://bjorsq.net/videos">videos</a>
+            <li{% if page.title == 'podcast' %} class="active"{% endif %}>
+              <a href="/podcast">music</a>
             </li>
-            <li>
-              <a href="http://bjorsq.net/recipes">recipes</a>
+            <li{% if page.category == 'recipes' %} class="active"{% endif %}>
+              <a href="/recipes">recipes</a>
             </li>
-            <li>
-              <a href="http://bjorsq.net/blog">blog</a>
-            </li>
-            <li class="active">
-              <a href="https://github.com/bjorsq">Github</a>
+            <li{% if page.title == 'curriculum vitae' %} class="active"{% endif %}>
+              <a href="/cv/">CV</a>
             </li>
           </ul>
         </div>
@@ -68,7 +65,7 @@
       </div>
     </footer>
 
-    <script src="{{ ASSET_PATH }}/js/scripts.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/script.min.js"></script>
     {% include JB/analytics %}
     
   </body>

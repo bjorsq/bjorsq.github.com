@@ -1,0 +1,20 @@
+		<header id="main-header">
+			<div class="container">
+				<h1>bjorsq</h1>
+				<p class="lead">{{page.title}}</p>
+			</div>
+		</header>
+
+		<section>
+			<div class="container">
+			{% if site.data.podcast %}
+				{% for episode in site.data.podcast %}
+				<div class="podcast">
+					<a href="https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}"><img src="https://dl.dropboxusercontent.com/u/5104625/podcast/artwork/{{ episode.file }}.jpg" class="cover"></a>
+					<h4><a href="https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}">{{ episode.title }}</a></h4>
+					<p>{{ episode.description | markdownify }}</p>
+				</div>
+				{% endfor %}
+			{% endif %}	
+			</div>
+		</section>

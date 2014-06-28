@@ -1,0 +1,29 @@
+{
+  "name": "bjorsq",
+  "version": "0.0.1",
+  "description": "bjorsq.net jekyll powered site hosted on Github pages",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bjorsq/bjorsq.github.com.git"
+  },
+  "author": "Peter Edwards <pete@bjorsq.net>",
+  "authoruri": "http://bjorsq.net",
+  "license": "MIT",
+  "licenseuri": "http://opensource.org/licenses/MIT",
+  "bugs": {
+    "url": "https://github.com/bjorsq/bjorsq.github.com/issues"
+  },
+  "homepage": "https://github.com/bjorsq/bjorsq.github.com",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-jekyll": "*",
+    "grunt-banner": "*"
+  },
+  "dependencies": {
+    "dev": "~0.1.3"
+  }
+}

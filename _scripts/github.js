@@ -1,4 +1,5 @@
 /*! Github scripts */
+
 jQuery(function($){
 
 	/* inlinemultiselect */

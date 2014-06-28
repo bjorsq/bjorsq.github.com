@@ -2,8 +2,8 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:title 
 
-exclude: ["README.md"]
-pygments: true
+exclude: ["README.md", "package.json", "Gruntfile.js", "node_modules"]
+highlighter: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -14,6 +14,14 @@ author :
   name : Peter Edwards
   email : pete@bjorsq.net
   github : bjorsq
+
+flickr :
+  id : 124957192@N06
+  key : 12a222d6e3f55d6a4cfbce4220bace55
+  secret : 925a3c179f5885e8 
+
+categories: ['blog', 'recipes']
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
