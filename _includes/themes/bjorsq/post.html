@@ -33,17 +33,6 @@
           </div>
 
           <div class="col-md-3">
-          <h4>Categories</h4>
-          <ul>
-          {% for post in site.categories %}
-            <li><a href="/{{ post[0] }}/">{{ post[0] }}</a></li>
-          {% endfor %}
-          </ul>
-          <h4>Tags</h4>
-          <ul class="tag_box">
-            {% assign tags_list = site.tags %}
-            {% include JB/tags_list %}
-          </ul>
 
           </div>
 
