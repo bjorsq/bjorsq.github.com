@@ -7,7 +7,7 @@ permalink: cv/index.html
 Objectives
 ----------
 
-I am currently working part-time (0.5) at the University of Leeds as the web developer for the [Faculty of Education, Social Sciences and Law](http://www.essl.leeds.ac.uk), and part time (0.5) as a developer within the [Faculty of Performance, Visual Arts and Communications](http://www.pvac.leeds.ac.uk/). I'm also the technical director of the company e-2.org limited, whose current activities largely consist of working on the websites (http://healthylunch.org.uk) and (http://www.ianritchiearchitects.co.uk)
+I am currently working part-time (0.5) at the University of Leeds as the web developer for the [Faculty of Education, Social Sciences and Law](http://www.essl.leeds.ac.uk), and part time (0.5) as a developer within the [Faculty of Performance, Visual Arts and Communications](http://www.pvac.leeds.ac.uk/). I'm also the technical director of the company e-2.org limited, whose current activities largely consist of working on the websites [healthylunch.org.uk](http://healthylunch.org.uk) and [ianritchiearchitects.co.uk](http://www.ianritchiearchitects.co.uk).
 
 I am always looking for a new position in which I am encouraged to learn new skills, and utilise my current abilities on creative and interesting projects. One particular area where I wish to develop my skills the application of Agile methodologies to problem solving and software development.
 
@@ -18,13 +18,13 @@ Skills
 
 ### Programming:
 
-* PHP (12 years)
+* PHP (15 years)
 * Perl (11 years)
 * ASP (3 years)
-* JavaScript (15 years)
-* XHTML/HTML (15 years)
-* CSS (12 years)
-* XML/SVG (10 years)
+* JavaScript (17 years)
+* XHTML/HTML (17 years)
+* CSS (14 years)
+* XML/SVG (12 years)
 * Flash/ActionScript (5 years)
 
 ### Software:
@@ -44,8 +44,8 @@ I have a broad range of programming skills utilising several different web techn
 
 I am currently developing my skills in the use of PHP frameworks and the Wordpress API, and using jQuery extensively in the web applications I develop to increase their responsiveness and interactivity in an unobtrusive, accessible and standards-compliant way.
 
-Intersts
---------
+Interests
+---------
 
 My main personal interests are in art, music and literature. I have published a small run of cassettes containing sounds produced by manipulating samples using a computer and have also had a small piece of music featured on a 12" vinyl E.P.. I love to read, and my main fields of interest are 20th Century fiction, music and art. I also try to keep abreast of developments in contemporary art and visit galleries regularly.
 
