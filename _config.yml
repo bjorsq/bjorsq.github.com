@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:title 
 
-exclude: ["README.md", "package.json", "Gruntfile.js", "node_modules"]
+exclude: ["README.md", "package.json", "Gruntfile.js", "node_modules", "CNAME"]
 highlighter: true
 markdown: kramdown
 
