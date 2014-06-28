@@ -17,7 +17,7 @@ Enable Filesystem upgrades
 
 By default, Wordpress performs updates using FTP credentials - put this into your wp-config.php to enable direct writes to the filesystem:
 
-```PHP
+```
 define('FS_METHOD', 'direct');
 define('FS_CHMOD_DIR', (0755 &amp; ~ umask()));
 define('FS_CHMOD_FILE', (0644 &amp; ~ umask()));
@@ -32,7 +32,7 @@ Show Errors
 
 Add the following to `.htaccess`
 
-```apache
+```
 php_flag display_startup_errors on
 php_flag display_errors on
 php_flag html_errors on
@@ -53,7 +53,7 @@ You could also enable logging to a file - more details here (as well as an examp
 
 Wordpress also has some debugging features which can be enabled using a plugin or by adding the following to `wp-config.php`
 
-```PHP
+```
 define('WP_DEBUG', true);
 ```
 
