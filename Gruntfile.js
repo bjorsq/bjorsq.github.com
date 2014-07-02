@@ -15,7 +15,7 @@ module.exports = function(grunt) {
 					//'_scripts/alert.js', 
 					//'_scripts/button.js',
 					//'_scripts/carousel.js', 
-					//'_scripts/collapse.js', 
+					'_scripts/collapse.js', 
 					//'_scripts/dropdown.js', 
 					'_scripts/flickr.js', 
 					//'_scripts/github.js', 
@@ -24,7 +24,7 @@ module.exports = function(grunt) {
 					//'_scripts/scrollspy.js', 
 					//'_scripts/tab.js', 
 					//'_scripts/tooltip.js', 
-					//'_scripts/treansition.js',
+					'_scripts/treansition.js',
 					'_scripts/fancybox/source/jquery.fancybox.pack.js',
 					'_scripts/fancybox/source/helpers/jquery.fancybox-media.js',
 					'_scripts/bjorsq.js'

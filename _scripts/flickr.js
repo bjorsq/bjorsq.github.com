@@ -97,7 +97,6 @@
   				}
   			}
 		};
-
 		/* get the Albums */
 		getAlbums();
 	}

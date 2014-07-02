@@ -14,5 +14,3 @@ Want to go somewhere else?
 * [Archie's info](http://archies.info)
 * [Sally Barker](http://sallybarker.org)
 
-
-
