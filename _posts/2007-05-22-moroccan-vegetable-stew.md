@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moroccan vegetable stew
-excerpt: If you are fortunate enough to own a *tagine*, you can cook this in one and be all authentic, otherwise, just use a regular saucepan. A thick and fragrant stew heady with spices, apricots, and lemon zest, but with its protein coming from chickpeas instead of meat.
+excerpt: A thick and fragrant stew heady with spices, apricots, and lemon zest, but with its protein coming from chickpeas instead of meat.
 category: recipes
 tags: [mains]
 image: moroccan-vegetable-stew.jpg

@@ -3631,48 +3631,44 @@ a.to-top:after {
   color: #009999;
 }
 /* Literal.Number.Integer.Long */
-.vimeo_wall .clip {
+.content .clip,
+.content .album,
+.content .episode,
+.content .recipe {
   float: left;
-  width: 220px;
   padding: 10px;
   margin: 1em;
-  height: 240px;
   background: #efefef;
   border: 1px solid #ccc;
-  border-radius: 5px;
-}
-#flickr .album {
-  float: left;
-  width: 170px;
-  padding: 10px;
-  margin: 1em;
-  height: 240px;
-  background: #efefef;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-.podcast {
-  width: 280px;
-  float: left;
-  margin-right: 20px;
-  margin-top: 20px;
-  height: 240px;
   overflow: hidden;
-  background: #efefef;
-  border: 1px solid #ccc;
   border-radius: 5px;
-  padding: 10px;
+  height: 240px;
 }
-.podcast img.cover {
-  float: right;
-  margin-left: 1em;
-  width: 120px;
-  height: auto;
-}
-.podcast h4 {
+.content .clip h4,
+.content .album h4,
+.content .episode h4,
+.content .recipe h4 {
   margin-top: 1em;
 }
-.content {
+.content .clip {
+  width: 220px;
+}
+.content .album {
+  width: 170px;
+}
+.content .episode {
+  width: 280px;
+}
+.content .episode img.cover {
+  float: right;
+  margin-left: 1em;
+  width: 100px;
+  height: auto;
+}
+.content .recipe {
+  width: 220px;
+}
+.pagecontent {
   width: 90%;
   max-width: 760px;
 }
@@ -3680,6 +3676,7 @@ p.meta {
   margin-bottom: 0;
   color: #999;
   font-style: italic;
+  font-size: 0.9em;
 }
 .rss-icon {
   display: block;

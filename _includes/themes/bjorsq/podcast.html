@@ -9,14 +9,16 @@
 		<section>
 			<div class="container">
 			{% if site.data.podcast %}
+				<div id="podcast" class="content">
 				{% for episode in site.data.podcast %}
-				<div class="podcast">
-					<a href="https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}"><img src="https://dl.dropboxusercontent.com/u/5104625/podcast/artwork/{{ episode.file }}.jpg" class="cover"></a>
-					<h4><a href="https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}">{{ episode.title }}</a></h4>
-					<p class="meta">Posted on {{ episode.date | date_to_long_string}}</p>
-					<p>{{ episode.description | markdownify }}</p>
-				</div>
+					<div class="episode">
+						<h4><a href="https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}">{{ episode.title }}</a></h4>
+						<a href="https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}"><img src="https://dl.dropboxusercontent.com/u/5104625/podcast/artwork/{{ episode.file }}.jpg" class="cover"></a>
+						<p class="meta">Posted on {{ episode.date | date_to_long_string}}</p>
+						<p>{{ episode.description | markdownify }}</p>
+					</div>
 				{% endfor %}
+				</div>
 			{% endif %}	
 			</div>
 		</section>
