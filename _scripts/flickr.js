@@ -4,12 +4,14 @@
  * using the Flickr API
  */
 (function($){
-	if ( $('#flickr').length ) {
-		var flickrURL = 'https://api.flickr.com/services/rest/?api_key=12a222d6e3f55d6a4cfbce4220bace55&format=json&user_id=124957192@N06',
-			albumQueryURL = flickrURL+'&method=flickr.photosets.getList&jsoncallback=?',
-			albumContentsURL = flickrURL+'&method=flickr.photosets.getPhotos&jsoncallback=?&photoset_id=',
+	var flickrURL = 'https://api.flickr.com/services/rest/?api_key=12a222d6e3f55d6a4cfbce4220bace55&format=json&user_id=124957192@N06',
+		albumQueryURL = flickrURL+'&method=flickr.photosets.getList&jsoncallback=?',
+		albumContentsURL = flickrURL+'&method=flickr.photosets.getPhotos&jsoncallback=?&photoset_id=',
+		photoQueryURL = flickrURL+'&method=flickr.photos.getSizes&nojsoncallback=1&photo_id=';
 
-		showAlbums = function()
+	if ( $('#flickr').length ) {
+
+		var showAlbums = function()
 		{
 			var albums = $('#flickr').data('albums');
 			if ( albums != 'undefined' && albums.length ) {
@@ -99,5 +101,26 @@
 		};
 		/* get the Albums */
 		getAlbums();
+	}
+	if ($('.recipe-photo').length) {
+		$('.recipe-photo').each(function(){
+			if ($(this).data('photo-id') !== '') {
+				var c = $(this);
+				$.getJSON(photoQueryURL+$(this).data('photo-id'), function(data){
+					if (data.stat == 'ok') {
+						var thumb_url, large_url;
+						$.each(data.sizes.size, function(){
+							if (this.label == c.data('thumbsize')) {
+								thumb_url = this.source;
+							} else if (this.label == "Large") {
+								large_url = this.source;
+							} 
+						});
+						c.append('<a href="'+large_url+'" title="'+c.data('title')+'"><img src="'+thumb_url+'" /></a>');
+					}
+				});
+			}
+		});
+		$('.recipe-photo a').fancybox();
 	}
 })(jQuery);

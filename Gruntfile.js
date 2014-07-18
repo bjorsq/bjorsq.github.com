@@ -17,7 +17,6 @@ module.exports = function(grunt) {
 					//'_scripts/carousel.js', 
 					'_scripts/collapse.js', 
 					//'_scripts/dropdown.js', 
-					'_scripts/flickr.js', 
 					//'_scripts/github.js', 
 					//'_scripts/modal.js', 
 					//'_scripts/popover.js', 
@@ -27,6 +26,7 @@ module.exports = function(grunt) {
 					'_scripts/treansition.js',
 					'_scripts/fancybox/source/jquery.fancybox.pack.js',
 					'_scripts/fancybox/source/helpers/jquery.fancybox-media.js',
+					'_scripts/flickr.js', 
 					'_scripts/bjorsq.js'
 				],
 				// the location of the resulting JS file
@@ -99,11 +99,11 @@ module.exports = function(grunt) {
 		watch: {
 			less: {
 				files: ['_less/*.less'],
-				tasks: ['less:theme', 'less:site', 'less:dev']
+				tasks: ['less:theme', 'less:site', 'less:dev', 'jekyll:comp']
 			},
 			uglify: {
 				files: ['_scripts/*.js'],
-				tasks: ['concat:js', 'uglify:theme', 'uglify:site']
+				tasks: ['concat:js', 'uglify:theme', 'uglify:site', 'jekyll:comp']
 			},
 			jekyll: {
 				files: ['_includes/themes/bjorsq/*.html', '_layouts/*.html', '_posts/**/*.md', '*.md'],

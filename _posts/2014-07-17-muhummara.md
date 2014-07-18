@@ -3,6 +3,7 @@ layout: post
 title: Muhammara
 excerpt: Anatolian breakfast
 category: recipes
+photo_id: 14498918180
 tags: [dips]
 ---
 

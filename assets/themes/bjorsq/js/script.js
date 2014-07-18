@@ -177,109 +177,7 @@
   })
 
 }(jQuery);
-;/**
- * Flickr interface using jQuery
- * gets a set of albums from Flickr, and provides a means to browse the photos in them
- * using the Flickr API
- */
-(function($){
-	if ( $('#flickr').length ) {
-		var flickrURL = 'https://api.flickr.com/services/rest/?api_key=12a222d6e3f55d6a4cfbce4220bace55&format=json&user_id=124957192@N06',
-			albumQueryURL = flickrURL+'&method=flickr.photosets.getList&jsoncallback=?',
-			albumContentsURL = flickrURL+'&method=flickr.photosets.getPhotos&jsoncallback=?&photoset_id=',
-
-		showAlbums = function()
-		{
-			var albums = $('#flickr').data('albums');
-			if ( albums != 'undefined' && albums.length ) {
-				var albums_html = '';
-				for (var i = 0; i < albums.length; i++) {
-					image_url = 'https://farm'+albums[i].farm+'.staticflickr.com/'+albums[i].server+'/'+albums[i].primary+'_'+albums[i].secret+'_q.jpg';
-					albums_html += '<div class="album"><a href="#" class="photoset-link" data-photoset-id="'+albums[i].id+'"><img src="'+image_url+'"></a><h4><a href="#" class="photoset-link" data-photoset-id="'+albums[i].id+'">'+albums[i].title._content+'</a></h4></div>'; 
-				}
-				$('#flickr').empty().html(albums_html);
-				$('p.lead').html('photos');
-				if (history.pushState) {
-					history.pushState({'page':'albums'});
-				}
-			}
-		},
-		showPhotos = function(photoset_id)
-		{
-			var photos = $('#flickr').data(photoset_id);
-			if ( photos != 'undefined' && photos.length) {
-				var photos_html = '';
-				for (var i = 0; i < photos.length; i++) {
-					image_url = 'https://farm'+photos[i].farm+'.staticflickr.com/'+photos[i].server+'/'+photos[i].id+'_'+photos[i].secret+'_b.jpg';
-					thumb_url = 'https://farm'+photos[i].farm+'.staticflickr.com/'+photos[i].server+'/'+photos[i].id+'_'+photos[i].secret+'_q.jpg';
-					photos_html += '<div class="album"><a href="'+image_url+'" rel="gallery" class="photo-link" data-photo-id="'+photos[i].id+'"><img src="'+thumb_url+'"></a><h4>'+photos[i].title+'</h4></div>'; 
-				}
-				$('#flickr').empty().html(photos_html);
-				$('.photo-link').fancybox();
-				if (history.pushState) {
-					history.pushState({'photoset':photoset_id});
-				}
-				doCrumb(photoset_id);
-			}
-		},
-		getAlbums = function()
-		{
-			var albumCache = $('#flickr').data('albums');
-			if ( ! albumCache ) {
-				$.getJSON(albumQueryURL, function(data){
-					$('#flickr').data('albums', data.photosets.photoset);
-					showAlbums();
-				});
-			} else {
-				showAlbums();
-			}
-		},
-		getPhotos = function(photoset_id)
-		{
-			var photoCache = $('#flickr').data(photoset_id);
-			if ( ! photoCache ) {
-				$.getJSON(albumContentsURL+photoset_id, function(data){
-					$('#flickr').data(photoset_id, data.photoset.photo);
-					showPhotos(photoset_id);
-				});
-			} else {
-				showPhotos(photoset_id);
-			}
-		},
-		doCrumb = function(photoset_id)
-		{
-			var albums = $('#flickr').data('albums');
-			if ( albums != 'undefined' && albums.length ) {
-				for (var i = 0; i < albums.length; i++) {
-					if (albums[i].id == photoset_id) {
-						$('p.lead').html('<a href="#" class="return">photos</a> &raquo; '+albums[i].title._content);
-					}
-				}
-			}
-		};
-		$('#flickr').on('click', '.photoset-link', function(e){
-			e.preventDefault();
-			getPhotos($(this).data('photoset-id'));
-		});
-		$('p.lead').on('click', '.return', function(e){
-			e.preventDefault();
-			showAlbums();
-		});
-		window.onpopstate = function(event) {
-  			if ( event.state ) {
-  				console.log(event.state);
-  				if ( event.state.photoset ) {
-  					showPhotos(event.state.photoset);
-  				}
-  				if (event.state.page && event.state.page == 'albums') {
-  					showAlbums();
-  				}
-  			}
-		};
-		/* get the Albums */
-		getAlbums();
-	}
-})(jQuery);;/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+;/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
 (function(s,H,f,w){var K=f("html"),q=f(s),p=f(H),b=f.fancybox=function(){b.open.apply(this,arguments)},J=navigator.userAgent.match(/msie/i),C=null,t=H.createTouch!==w,u=function(a){return a&&a.hasOwnProperty&&a instanceof f},r=function(a){return a&&"string"===f.type(a)},F=function(a){return r(a)&&0<a.indexOf("%")},m=function(a,d){var e=parseInt(a,10)||0;d&&F(a)&&(e*=b.getViewport()[d]/100);return Math.ceil(e)},x=function(a,b){return m(a,b)+"px"};f.extend(b,{version:"2.1.5",defaults:{padding:15,margin:20,
 width:800,height:600,minWidth:100,minHeight:100,maxWidth:9999,maxHeight:9999,pixelRatio:1,autoSize:!0,autoHeight:!1,autoWidth:!1,autoResize:!0,autoCenter:!t,fitToView:!0,aspectRatio:!1,topRatio:0.5,leftRatio:0.5,scrolling:"auto",wrapCSS:"",arrows:!0,closeBtn:!0,closeClick:!1,nextClick:!1,mouseWheel:!0,autoPlay:!1,playSpeed:3E3,preload:3,modal:!1,loop:!0,ajax:{dataType:"html",headers:{"X-fancyBox":!0}},iframe:{scrolling:"auto",preload:!0},swf:{wmode:"transparent",allowfullscreen:"true",allowscriptaccess:"always"},
 keys:{next:{13:"left",34:"up",39:"left",40:"up"},prev:{8:"right",33:"down",37:"right",38:"down"},close:[27],play:[32],toggle:[70]},direction:{next:"left",prev:"right"},scrollOutside:!0,index:0,type:null,href:null,content:null,title:null,tpl:{wrap:'<div class="fancybox-wrap" tabIndex="-1"><div class="fancybox-skin"><div class="fancybox-outer"><div class="fancybox-inner"></div></div></div></div>',image:'<img class="fancybox-image" src="{href}" alt="" />',iframe:'<iframe id="fancybox-frame{rnd}" name="fancybox-frame{rnd}" class="fancybox-iframe" frameborder="0" vspace="0" hspace="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen'+
@@ -523,6 +421,131 @@ b=20===a[0].offsetTop||15===a[0].offsetTop;a.remove();return b}());f.extend(b.de
 	};
 
 }(jQuery));;/**
+ * Flickr interface using jQuery
+ * gets a set of albums from Flickr, and provides a means to browse the photos in them
+ * using the Flickr API
+ */
+(function($){
+	var flickrURL = 'https://api.flickr.com/services/rest/?api_key=12a222d6e3f55d6a4cfbce4220bace55&format=json&user_id=124957192@N06',
+		albumQueryURL = flickrURL+'&method=flickr.photosets.getList&jsoncallback=?',
+		albumContentsURL = flickrURL+'&method=flickr.photosets.getPhotos&jsoncallback=?&photoset_id=',
+		photoQueryURL = flickrURL+'&method=flickr.photos.getSizes&nojsoncallback=1&photo_id=';
+
+	if ( $('#flickr').length ) {
+
+		var showAlbums = function()
+		{
+			var albums = $('#flickr').data('albums');
+			if ( albums != 'undefined' && albums.length ) {
+				var albums_html = '';
+				for (var i = 0; i < albums.length; i++) {
+					image_url = 'https://farm'+albums[i].farm+'.staticflickr.com/'+albums[i].server+'/'+albums[i].primary+'_'+albums[i].secret+'_q.jpg';
+					albums_html += '<div class="album"><a href="#" class="photoset-link" data-photoset-id="'+albums[i].id+'"><img src="'+image_url+'"></a><h4><a href="#" class="photoset-link" data-photoset-id="'+albums[i].id+'">'+albums[i].title._content+'</a></h4></div>'; 
+				}
+				$('#flickr').empty().html(albums_html);
+				$('p.lead').html('photos');
+				if (history.pushState) {
+					history.pushState({'page':'albums'});
+				}
+			}
+		},
+		showPhotos = function(photoset_id)
+		{
+			var photos = $('#flickr').data(photoset_id);
+			if ( photos != 'undefined' && photos.length) {
+				var photos_html = '';
+				for (var i = 0; i < photos.length; i++) {
+					image_url = 'https://farm'+photos[i].farm+'.staticflickr.com/'+photos[i].server+'/'+photos[i].id+'_'+photos[i].secret+'_b.jpg';
+					thumb_url = 'https://farm'+photos[i].farm+'.staticflickr.com/'+photos[i].server+'/'+photos[i].id+'_'+photos[i].secret+'_q.jpg';
+					photos_html += '<div class="album"><a href="'+image_url+'" rel="gallery" class="photo-link" data-photo-id="'+photos[i].id+'"><img src="'+thumb_url+'"></a><h4>'+photos[i].title+'</h4></div>'; 
+				}
+				$('#flickr').empty().html(photos_html);
+				$('.photo-link').fancybox();
+				if (history.pushState) {
+					history.pushState({'photoset':photoset_id});
+				}
+				doCrumb(photoset_id);
+			}
+		},
+		getAlbums = function()
+		{
+			var albumCache = $('#flickr').data('albums');
+			if ( ! albumCache ) {
+				$.getJSON(albumQueryURL, function(data){
+					$('#flickr').data('albums', data.photosets.photoset);
+					showAlbums();
+				});
+			} else {
+				showAlbums();
+			}
+		},
+		getPhotos = function(photoset_id)
+		{
+			var photoCache = $('#flickr').data(photoset_id);
+			if ( ! photoCache ) {
+				$.getJSON(albumContentsURL+photoset_id, function(data){
+					$('#flickr').data(photoset_id, data.photoset.photo);
+					showPhotos(photoset_id);
+				});
+			} else {
+				showPhotos(photoset_id);
+			}
+		},
+		doCrumb = function(photoset_id)
+		{
+			var albums = $('#flickr').data('albums');
+			if ( albums != 'undefined' && albums.length ) {
+				for (var i = 0; i < albums.length; i++) {
+					if (albums[i].id == photoset_id) {
+						$('p.lead').html('<a href="#" class="return">photos</a> &raquo; '+albums[i].title._content);
+					}
+				}
+			}
+		};
+		$('#flickr').on('click', '.photoset-link', function(e){
+			e.preventDefault();
+			getPhotos($(this).data('photoset-id'));
+		});
+		$('p.lead').on('click', '.return', function(e){
+			e.preventDefault();
+			showAlbums();
+		});
+		window.onpopstate = function(event) {
+  			if ( event.state ) {
+  				console.log(event.state);
+  				if ( event.state.photoset ) {
+  					showPhotos(event.state.photoset);
+  				}
+  				if (event.state.page && event.state.page == 'albums') {
+  					showAlbums();
+  				}
+  			}
+		};
+		/* get the Albums */
+		getAlbums();
+	}
+	if ($('.recipe-photo').length) {
+		$('.recipe-photo').each(function(){
+			if ($(this).data('photo-id') !== '') {
+				var c = $(this);
+				$.getJSON(photoQueryURL+$(this).data('photo-id'), function(data){
+					if (data.stat == 'ok') {
+						var thumb_url, large_url;
+						$.each(data.sizes.size, function(){
+							if (this.label == c.data('thumbsize')) {
+								thumb_url = this.source;
+							} else if (this.label == "Large") {
+								large_url = this.source;
+							} 
+						});
+						c.append('<a href="'+large_url+'" title="'+c.data('title')+'"><img src="'+thumb_url+'" /></a>');
+					}
+				});
+			}
+		});
+		$('.recipe-photo a').fancybox();
+	}
+})(jQuery);;/**
  * bjorsq.net javascript
  */
 
