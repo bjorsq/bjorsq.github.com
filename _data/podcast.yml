@@ -2,6 +2,31 @@
 ---
 # bjorsq podcast
 -
+  title: "Keith Jarrett - Pardon My Rags"
+  description: "From the album &ldquo;El Juicio&rdquo; (The Judgement), 1975"
+  file: "Keith-Jarrett-Pardon-My-Rags.mp3"
+  date: "2014-08-02"
+-
+  title: "Fanfare Ciocărlia - Sîrba de la laşi.mp3"
+  description: "From their second album &ldquo;Baro Biao - World Wide Wedding&rdquo;, 1999"
+  file: "Fanfare-Ciocărlia-Sîrba-de-la-laşi.mp3"
+  date: "2014-07-26"
+-
+  title: "Fanfare Ciocărlia - Tiganeasca"
+  description: "From their second album &ldquo;Baro Biao - World Wide Wedding&rdquo;, 1999"
+  file: "Fanfare-Ciocărlia-Tiganeasca.mp3"
+  date: "2014-07-19"
+-
+  title: "Taraf de Haïdouks"
+  description: "From the 1991 album &ldquo;Musiques de Tziganes de Roumanie&rdquo;"
+  file: "Taraf-de-Haidouks-Sirba-lui-Mitica-Gindac.mp3"
+  date: "2014-07-12"
+-
+  title: "Taraf de Haïdouks"
+  description: "From the 1991 album &ldquo;Musiques de Tziganes de Roumanie&rdquo;"
+  file: "Taraf-de-Haidouks-Sirba-de-la-Golasci.mp3"
+  date: "2014-07-05"
+-
   title: "Didjeridu Solo a Trial And a Crying Child"
   description: "From [Australia: Songs of the Aborigines and Traditional Music of Papua New Guniea](http://www.amazon.com/gp/product/B000008D1N/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000008D1N&linkCode=as2&tag=bjorsqnet-20) (1963)"
   file: "Didjeridu-Solo-a-Trial-And-a-Crying-Child-.mp3"
@@ -426,4 +451,4 @@
   description: "From *Guinée: Percussions et Chants Malinké* (Vol. 1)"
   file: "Famoudou-Konaté-Kadan.mp3"
   date: "2012-11-21 00:00:00"
-...
+
