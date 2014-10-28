@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quorn curry
-excerpt: staple
+excerpt: Creamy mild curry with tomatoes and coconut
 category: recipes
 photo_id: 
 tags: [mains]
