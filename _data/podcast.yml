@@ -2,6 +2,16 @@
 ---
 # bjorsq podcast
 -
+  title: "Camarón de la Isla - Canastera"
+  description: "Camarón and Paco de Lucia from the album &ldquo;Canastera&rdquo;, 1972"
+  file: "Camarón-Canastera.mp3"
+  date: "2014-09-13"
+-
+  title: "Camarón de la Isla - La andan hablando"
+  description: "Camarón, Paco de Lucia and Ramon de Algeciras from the album &ldquo;Cada vez que nos miramos&rdquo;, 1970"
+  file: "Camarón-La-andan-hablando.mp3"
+  date: "2014-09-06"
+-
   title: "Rubén González - Fabiando"
   description: "From the album &ldquo;Hecho en Cuba&rdquo;, 2002"
   file: "Rubén-González-Fabiando.mp3"
