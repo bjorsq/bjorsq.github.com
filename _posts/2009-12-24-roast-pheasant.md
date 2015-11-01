@@ -24,7 +24,7 @@ method
 ------
 
 1. Wash and dry pheasant. Chop back bacon and Parma ham finely. Chop sage and combine with a little salt, pepper, lemon rind and the chopped bacon and ham.
-2. Preheat oven to 220&deg;C (425&deg;F) Gas Mark 7.
+2. Preheat oven to 220&deg;C / 425&deg;F / gas mark 7.
 3. Rub pheasant inside with salt, then fill with stuffing and sew up.
 4. Heat oil in roasting pan. Brown pheasant well on all sides, lay breast side up in pan and cover breast with streaky bacon rashers.
 5. Roast pheasant on lowest oven shelf for 40 minutes, basting frequently with wine and pan juices.

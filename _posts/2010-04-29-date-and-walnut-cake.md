@@ -42,7 +42,7 @@ ingredients
 method
 ------
 
-1. Pre-heat the oven to gas mark 4, 350&deg;F (180&deg;C).
+1. Pre-heat the oven to 180&deg;C / 350&deg;F / gas mark 4.
 2. In a small bowl, pour 8 fl oz (225 ml) boiling water over the dates. Add the bicarbonate of soda, then the butter and stir until the butter has melted. Leave to cool.
 3. Sift the flour with the salt and spices.
 4. Beat the egg in a large bowl, add the sugar and beat well again, then add the cooled date mixture and all the other cake ingredients.

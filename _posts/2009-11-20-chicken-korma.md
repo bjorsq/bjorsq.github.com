@@ -34,7 +34,7 @@ method
 
 1. Cut the chicken breasts into bite sized chunks
 2. Mix the chicken with the ginger, garlic and yogurt. Cover and marinade for 12 hours or in the fridge overnight. If you can't spare the time, just marinade for as long as you can.
-3. Heat the ghee&#47;oil in a pan.
+3. Heat the ghee / oil in a pan.
 4. Add the cumin seeds, ground coriander, ground black pepper, turmeric and garam masala and stir fry for about 1 minute over a low heat.
 5. Turn up the heat, add the onion and chilli and stir fry for 10 minutes.
 6. Add the chicken and the marinade and continue to stir fry for another 10 minutes.

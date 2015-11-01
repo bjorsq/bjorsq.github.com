@@ -32,7 +32,7 @@ method
 ------
 
 1. Soak the rice noodles in a bowl of hot water for 25 minutes.
-2. While the noodles are soaking, prepare the vegetables. Peel and thinly slice the shallots and onion. Slice the spring onions at a slight angle into 2.5cm&#47;1in lengths. Seed and finely chop the chillies.
+2. While the noodles are soaking, prepare the vegetables. Peel and thinly slice the shallots and onion. Slice the spring onions at a slight angle into 2.5cm / 1in lengths. Seed and finely chop the chillies.
 3. When the noodles have soaked for 25 minutes, drain well in a colander or sieve. Discard the water.
 4. Heat a wok over high heat. When it is hot, add the oil. When it is very hot and slightly smoking, add the shallots, onion, spring onions, chillies and garlic, and stir-fry for one minute.
 5. Add the rice noodles, fish sauce, rice wine or sherry, lime juice, soy sauce, pepper, sugar and vegetarian oyster sauce, and continue to stir-fry for two minutes, mixing well.

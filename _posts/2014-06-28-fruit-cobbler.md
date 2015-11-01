@@ -31,4 +31,4 @@ method
 4. Rub in the butter (chilled) or whizz up in the food processor until you get a breadcrumb texture.
 5. Add a little (1tsp) water to the mixture so you can work it.
 6. make small (3cm) balls, flatten slightly and press into the demerara sugar. Place the little scones on top of the fruit in a nice pattern (sugar side up).
-7. bake in the oven for 30 minutes at 180&deg;C / gas 4
+7. bake in the oven for 30 minutes at 180&deg;C / 350&deg;F  / gas 4

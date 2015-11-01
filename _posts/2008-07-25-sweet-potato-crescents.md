@@ -30,5 +30,5 @@ method
 3. Shallow fry the pepper until soft, then add the chilli, garlic and sweet potato and fry for a while longer.
 4. Add the coriander and spring onion, season and leave to cool.
 5. Roll out the dough into thin discs about 8cm&#47;4in across, place a heaped teaspoon of the sweet potato mixture in the middle, and seal into a cornish pasty shape using a little water to make it stick.
-6. Bake in a moderate oven (180&deg;C 350&deg;F gas 4) for 20 minutes, or until golden brown.
+6. Bake in a moderate oven (180&deg;C  / 350&deg;F  / gas mark 4) for 20 minutes, or until golden brown.
 

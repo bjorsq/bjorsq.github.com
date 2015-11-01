@@ -23,7 +23,7 @@ ingredients
 method
 ------
 
-1. Pre-heat the oven to 160&deg;C / gas 4.
+1. Pre-heat the oven to 160&deg;C / 325&deg;F / gas 4.
 2. Crush the digestive biscuits (put them in a plastic bag and whack it with a rolling pin)
 3. Melt the butter in a pan, and add the digestive biscuits
 4. Grease and line a 9-inch round cake tin with greaseproof paper
@@ -31,6 +31,6 @@ method
 6. Place in the oven and bake for 10 minutes, then remove and cool
 7. Mix all the other ingredients together in a bowl and whip them all up to a creamy texture
 8. Pour into the cake tin
-9. Bake in the oven for 20 minutes, then reduce the heat to 90&degC/gas 2 and bake for a further 30 minutes.
+9. Bake in the oven for 20 minutes, then reduce the heat to 100&deg;C / 200&deg;F / gas 1 and bake for a further 30 minutes.
 10. Switch off the oven, open the oven door and let the cheesecake cool slowly in the oven for an hour or so.
 
