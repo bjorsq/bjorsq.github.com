@@ -1,6 +1,22 @@
 %YAML 1.1
 ---
 # bjorsq podcast
+
+-
+  title: "El-Conjunto-Tierra-Blanca-de-Chico-Barcelata-Maria-Chuchena.mp3
+  description: "Mexican harp from The Folklore of Mexico, Volume 3"
+  file: "El-Conjunto-Tierra-Blanca-de-Chico-Barcelata-Maria-Chuchena.mp3
+  date: "2015-11-02"
+-
+  title: "James Tenney - Harmonium No.3"
+  description: "From Susan Allen 'postcards from heaven' for three harps (tuned apart for just intonation)"
+  file: "James-Tenney-Harmonium-No.3.mp3"
+  date: "2015-11-02"
+-
+  title: "El Mariachi Tenochtitlan de Heriberto Aceves - La Negra"
+  description: "From The Folklore of Mexico, Volume 1 (vinyl rip)"
+  file: "El-Mariachi-Tenochtitlan-de-Heriberto-Aceves-La-Negra.mp3
+  date: "2015-11-02"
 -
   title: "James Tenney - Chromatic Canon (1980-83)"
   description: "From the album &ldquo;U.S. Choice&rdquo; by piano duet Double Edge (Edmund Niemann &amp; Nurit Tilles)"
