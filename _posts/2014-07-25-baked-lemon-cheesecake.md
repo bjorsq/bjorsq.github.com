@@ -11,7 +11,8 @@ ingredients
 -----------
 
 * 100g butter
-* 150g Digestive biscuits
+* 100g Digestive biscuits
+* 50g Ginger nut biscuits
 * 3 x 300g/11oz packs of full-fat soft cheese
 * 200g golden caster sugar
 * 1&frac12; tsp vanilla extract
@@ -24,7 +25,7 @@ method
 ------
 
 1. Pre-heat the oven to 160&deg;C / 325&deg;F / gas 4.
-2. Crush the digestive biscuits (put them in a plastic bag and whack it with a rolling pin)
+2. Crush the digestive biscuits and ginger nuts (put them in a plastic bag and whack it with a rolling pin)
 3. Melt the butter in a pan, and add the digestive biscuits
 4. Grease and line a 9-inch round cake tin with greaseproof paper
 5. Press the biscuit base evenly into the bottom of the tin
