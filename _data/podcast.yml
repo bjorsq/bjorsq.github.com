@@ -1,545 +1,772 @@
-%YAML 1.1
 ---
 # bjorsq podcast
-
--
-  title: "El-Conjunto-Tierra-Blanca-de-Chico-Barcelata-Maria-Chuchena.mp3"
+- 
+  date: "2016-01-03"
+  description: "From the album “Natalia y el Diablo” [1981]"
+  file: Juan-Vicente-Torrealba-Barinas.mp3
+  google_art_id: 0B2L5eVrXbcDKM0pLaEZ2RDdwbXM
+  google_mp3_id: 0B2L5eVrXbcDKR3BEcV8yTXRja1k
+  title: "Juan Vicente Torrealba - Barinas"
+- 
+  date: "2016-01-03"
+  description: "From the compilation album “19 Grandes Exitos”"
+  file: Juan-Vicente-Torrealba-Mosaic-Llanero.mp3
+  google_art_id: 0B2L5eVrXbcDKa05tSkVRSVl2Vmc
+  google_mp3_id: 0B2L5eVrXbcDKcEhOM3JtSEx4Vlk
+  title: "Juan Vicente Torrealba - Mosaic Llanero"
+- 
+  date: "2015-11-02"
   description: "Mexican harp from The Folklore of Mexico, Volume 3"
-  file: "El-Conjunto-Tierra-Blanca-de-Chico-Barcelata-Maria-Chuchena.mp3"
+  file: El-Conjunto-Tierra-Blanca-de-Chico-Barcelata-Maria-Chuchena.mp3
+  google_art_id: 0B2L5eVrXbcDKdHJhQlRWbnhjVmc
+  google_mp3_id: 0B2L5eVrXbcDKSFpIR3czbzhEa1E
+  title: "El Conjunto Tierra Blanca de Chico Barcelata - Maria Chuchena"
+- 
   date: "2015-11-02"
--
+  description: "From Susan Allen “postcards from heaven” for three harps (tuned apart for just intonation)"
+  file: James-Tenney-Harmonium-No.3.mp3
+  google_art_id: 0B2L5eVrXbcDKbzRtRkVKdnd1a0E
+  google_mp3_id: 0B2L5eVrXbcDKSVgzX3F4UGcyLWc
   title: "James Tenney - Harmonium No.3"
-  description: "From Susan Allen 'postcards from heaven' for three harps (tuned apart for just intonation)"
-  file: "James-Tenney-Harmonium-No.3.mp3"
+- 
   date: "2015-11-02"
--
-  title: "El Mariachi Tenochtitlan de Heriberto Aceves - La Negra"
   description: "From The Folklore of Mexico, Volume 1 (vinyl rip)"
-  file: "El-Mariachi-Tenochtitlan-de-Heriberto-Aceves-La-Negra.mp3"
-  date: "2015-11-02"
--
-  title: "James Tenney - Chromatic Canon (1980-83)"
-  description: "From the album &ldquo;U.S. Choice&rdquo; by piano duet Double Edge (Edmund Niemann &amp; Nurit Tilles)"
-  file: "James-Tenney-Chromatic-Canon.mp3"
+  file: El-Mariachi-Tenochtitlan-de-Heriberto-Aceves-La-Negra.mp3
+  google_art_id: 0B2L5eVrXbcDKbTJBdnphNGVaOTA
+  google_mp3_id: 0B2L5eVrXbcDKUWlNMmVrdW5Xb3c
+  title: "El Mariachi Tenochtitlan de Heriberto Aceves - La Negra"
+- 
   date: "2014-11-15"
--
-  title: "Eliades Ochoa - Teje que teje"
-  description: "Eliades Ochoa with Cuarteto Patria from the album &ldquo;Son de Oriente&rdquo;, 2001"
-  file: "Eliades-Ochoa-Teje-que-teje.mp3"
+  description: "From the album “U.S. Choice” by piano duet Double Edge (Edmund Niemann & Nurit Tilles)"
+  file: James-Tenney-Chromatic-Canon.mp3
+  google_art_id: 0B2L5eVrXbcDKV2lza25GeFVkdmc
+  google_mp3_id: 0B2L5eVrXbcDKLW1PS1c0UUE5T28
+  title: "James Tenney - Chromatic Canon (1980-83)"
+- 
   date: "2014-11-08"
--
-  title: "Arnold Schoenberg - Suite Op.29 - III Thema mit variationen"
-  description: "Ensemble InterContemporain with Pierre Boulez"
-  file: "Arnold-Schoenberg-Suite-op.29-iii-thema-mit-variationen.mp3"
+  description: "Eliades Ochoa with Cuarteto Patria from the album “Son de Oriente”, 2001"
+  file: Eliades-Ochoa-Teje-que-teje.mp3
+  google_art_id: 0B2L5eVrXbcDKNG1XczZFbUZJYUE
+  google_mp3_id: 0B2L5eVrXbcDKS3IzS3ZraXlZb0k
+  title: "Eliades Ochoa - Teje que teje"
+- 
   date: "2014-11-01"
--
-  title: "Kálmán Balogh - Vizeses-szirba (Waterfall Sirba)"
-  description: "From &ldquo;Kálmán Balogh &amp; The Gipsy Cimbalom Band - AromA&ldquo;, 2003"
-  file: "Kalman-Balogh-Vizeses-szirba.mp3"
+  description: "Ensemble InterContemporain with Pierre Boulez"
+  file: Arnold-Schoenberg-Suite-op.29-iii-thema-mit-variationen.mp3
+  google_art_id: 0B2L5eVrXbcDKUWR4N0JUaFhhdkE
+  google_mp3_id: 0B2L5eVrXbcDKQVliVlNUUmc4NUU
+  title: "Arnold Schoenberg - Suite Op.29 - III Thema mit variationen"
+- 
   date: "2014-10-25"
--
-  title: "Glen Velez - Bendir"
-  description: "From the album &ldquo;Internal Combustion&rdquo; with Layne Redmond, 1985"
-  file: "Glen-Velez-Bendir.mp3"
+  description: "From “Kálmán Balogh & The Gipsy Cimbalom Band - AromA“, 2003"
+  file: Kalman-Balogh-Vizeses-szirba.mp3
+  google_art_id: 0B2L5eVrXbcDKc3dvekJIcVVxUWM
+  google_mp3_id: 0B2L5eVrXbcDKcjI3Tl9qQ2V3UUU
+  title: "Kálmán Balogh - Vizeses-szirba (Waterfall Sirba)"
+- 
   date: "2014-10-18"
--
-  title: "Eliades Ochoa - Quel lio compay Andres"
-  description: "From the album &ldquo;Cuidadito Compay Gallo... Que Llego el Perico&rdquo;, 2001"
-  file: "Eliades-Ochoa-Quel-lio-compay-Andres.mp3"
+  description: "From the album “Internal Combustion” with Layne Redmond, 1985"
+  file: Glen-Velez-Bendir.mp3
+  google_art_id: 0B2L5eVrXbcDKT1Q0dElFYWlVVUk
+  google_mp3_id: 0B2L5eVrXbcDKZVFnUUh2Nno0WDg
+  title: "Glen Velez - Bendir"
+- 
   date: "2014-10-11"
--
-  title: "Johann Sebastian Bach - Goldberg Variations Nr.28"
-  description: "Played by Karl Richter (harpsichord)"
-  file: "Johann-Sebastian-Bach-Goldberg-Variations-nr.28.mp3"
+  description: "From the album “Cuidadito Compay Gallo... Que Llego el Perico”, 2001"
+  file: Eliades-Ochoa-Quel-lio-compay-Andres.mp3
+  google_art_id: 0B2L5eVrXbcDKSWowLXBsRGRPRFE
+  google_mp3_id: 0B2L5eVrXbcDKelNTWExZd01BRTA
+  title: "Eliades Ochoa - Quel lio compay Andres"
+- 
   date: "2014-10-04"
--
-  title: "Paco de Lucía and Ramón de Algeciras - Alma Llanera"
-  description: "From &ldquo;Dos guitarras flamencas en América Latina&rdquo; (Two Flamenco Guitars in Latin America) - the second of four collaboration albums by Paco de Lucía and Ramón de Algeciras."
-  file: "Paco-de-Lucía-Ramón-de-Algeciras-Alma-Llanera.mp3"
+  description: "Played by Karl Richter (harpsichord)"
+  file: Johann-Sebastian-Bach-Goldberg-Variations-nr.28.mp3
+  google_art_id: 0B2L5eVrXbcDKZTFBVG9mWkJRaDg
+  google_mp3_id: 0B2L5eVrXbcDKUkNRUGpSb0N6Q2s
+  title: "Johann Sebastian Bach - Goldberg Variations Nr.28"
+- 
   date: "2014-09-27"
--
-  title: "Paco de Lucía and Ramón de Algeciras - Pepa Banderas"
-  description: "From &ldquo;Canciones andaluzas para 2 guitarras&rdquo; (Andalusian Songs for 2 Guitars) - the first of four collaboration albums by Paco de Lucía and Ramón de Algeciras."
-  file: "Paco-de-Lucía-Ramón-de-Algeciras-Pepa-Banderas.mp3"
+  description: "From “Dos guitarras flamencas en América Latina” (Two Flamenco Guitars in Latin America) - the second of four collaboration albums by Paco de Lucía and Ramón de Algeciras."
+  file: Paco-de-Lucía-Ramón-de-Algeciras-Alma-Llanera.mp3
+  google_art_id: 0B2L5eVrXbcDKTl80bjdDMUFVb3c
+  google_mp3_id: 0B2L5eVrXbcDKVzNNbU5xa0RfNXc
+  title: "Paco de Lucía and Ramón de Algeciras - Alma Llanera"
+- 
   date: "2014-09-20"
--
-  title: "Camarón de la Isla - Canastera"
-  description: "Camarón and Paco de Lucia from the album &ldquo;Canastera&rdquo;, 1972"
-  file: "Camarón-Canastera.mp3"
+  description: "From “Canciones andaluzas para 2 guitarras” (Andalusian Songs for 2 Guitars) - the first of four collaboration albums by Paco de Lucía and Ramón de Algeciras."
+  file: Paco-de-Lucía-Ramón-de-Algeciras-Pepa-Banderas.mp3
+  google_art_id: 0B2L5eVrXbcDKWUZPSlNoR21vTDg
+  google_mp3_id: 0B2L5eVrXbcDKVzI4dHJTUXAyYkE
+  title: "Paco de Lucía and Ramón de Algeciras - Pepa Banderas"
+- 
   date: "2014-09-13"
--
-  title: "Camarón de la Isla - La andan hablando"
-  description: "Camarón, Paco de Lucia and Ramon de Algeciras from the album &ldquo;Cada vez que nos miramos&rdquo;, 1970"
-  file: "Camarón-La-andan-hablando.mp3"
+  description: "Camarón and Paco de Lucia from the album “Canastera”, 1972"
+  file: Camarón-Canastera.mp3
+  google_art_id: 0B2L5eVrXbcDKb05yaUplWWFmeVU
+  google_mp3_id: 0B2L5eVrXbcDKWU5idkxZNU45UWs
+  title: "Camarón de la Isla - Canastera"
+- 
   date: "2014-09-06"
--
-  title: "Rubén González - Fabiando"
-  description: "From the album &ldquo;Hecho en Cuba&rdquo;, 2002"
-  file: "Rubén-González-Fabiando.mp3"
+  description: "Camarón, Paco de Lucia and Ramon de Algeciras from the album “Cada vez que nos miramos”, 1970"
+  file: Camarón-La-andan-hablando.mp3
+  google_art_id: 0B2L5eVrXbcDKYjlQLVFjQkhUQ00
+  google_mp3_id: 0B2L5eVrXbcDKQUpXN2t6QUFGMFU
+  title: "Camarón de la Isla - La andan hablando"
+- 
   date: "2014-08-30"
--
-  title: "Rubén González - Pa&lsquo; Gozar"
-  description: "From the album &ldquo;Chanchullo&rdquo;, 2000"
-  file: "Rubén-González-Pa-Gozar.mp3"
+  description: "From the album “Hecho en Cuba”, 2002"
+  file: Rubén-González-Fabiando.mp3
+  google_art_id: 0B2L5eVrXbcDKN2tyOHc3SDUzeUk
+  google_mp3_id: 0B2L5eVrXbcDKWE5IZHROWHZBM2M
+  title: "Rubén González - Fabiando"
+- 
   date: "2014-08-23"
--
-  title: "Keith Jarrett - Pardon My Rags"
-  description: "From the album &ldquo;El Juicio&rdquo; (The Judgement), 1975"
-  file: "Keith-Jarrett-Pardon-My-Rags.mp3"
+  description: "From the album “Chanchullo”, 2000"
+  file: Rubén-González-Pa-Gozar.mp3
+  google_art_id: 0B2L5eVrXbcDKTy02cUZMSjM5d1U
+  google_mp3_id: 0B2L5eVrXbcDKUmlXVERITHQtbms
+  title: "Rubén González - Pa‘ Gozar"
+- 
   date: "2014-08-16"
--
-  title: "Tito Puente - Babarabatiri"
-  description: "From the album &ldquo;The Best of the Sixties&rdquo;, recorded in 1969"
-  file: "Tito-Puente-Babarabatiri.mp3"
+  description: "From the album “El Juicio” (The Judgement), 1975"
+  file: Keith-Jarrett-Pardon-My-Rags.mp3
+  google_art_id: 0B2L5eVrXbcDKaENhX3RXc2lGakk
+  google_mp3_id: 0B2L5eVrXbcDKU2cwSlY5b0hEeXM
+  title: "Keith Jarrett - Pardon My Rags"
+- 
   date: "2014-08-09"
--
-  title: "Fanfare Ciocărlia - Sîrba de la laşi"
-  description: "From their second album &ldquo;Baro Biao - World Wide Wedding&rdquo;, 1999"
-  file: "Fanfare-Ciocărlia-Sîrba-de-la-laşi.mp3"
+  description: "From the album “The Best of the Sixties”, recorded in 1969"
+  file: Tito-Puente-Babarabatiri.mp3
+  google_art_id: 0B2L5eVrXbcDKRHJtT1lDYUI1eTA
+  google_mp3_id: 0B2L5eVrXbcDKb1BHOUsxckJFeDQ
+  title: "Tito Puente - Babarabatiri"
+- 
   date: "2014-08-02"
--
-  title: "George Russell - Concerto For Billy The Kid"
-  description: "From &ldquo;The Complete Bluebird recordings&rdquo;, recorded in 1956"
-  file: "George-Russell-Concerto-For-Billy-The-Kid.mp3"
+  description: "From their second album “Baro Biao - World Wide Wedding”, 1999"
+  file: Fanfare-Ciocărlia-Sîrba-de-la-laşi.mp3
+  google_art_id: 0B2L5eVrXbcDKUXlpd3JPNGpQWkU
+  google_mp3_id: 0B2L5eVrXbcDKZDVNSlY5RUtmdDQ
+  title: "Fanfare Ciocărlia - Sîrba de la laşi"
+- 
   date: "2014-07-26"
--
-  title: "Fanfare Ciocărlia - Tiganeasca"
-  description: "From their second album &ldquo;Baro Biao - World Wide Wedding&rdquo;, 1999"
-  file: "Fanfare-Ciocărlia-Tiganeasca.mp3"
+  description: "From “The Complete Bluebird recordings”, recorded in 1956"
+  file: George-Russell-Concerto-For-Billy-The-Kid.mp3
+  google_art_id: 0B2L5eVrXbcDKX25GWGwwQnRCT2M
+  google_mp3_id: 0B2L5eVrXbcDKOE5zdnc3SlZFVWs
+  title: "George Russell - Concerto For Billy The Kid"
+- 
   date: "2014-07-19"
--
-  title: "Taraf de Haïdouks - Sirba lui Mitica Gindac"
-  description: "From the 1991 album &ldquo;Musiques de Tziganes de Roumanie&rdquo;"
-  file: "Taraf-de-Haidouks-Sirba-lui-Mitica-Gindac.mp3"
+  description: "From their second album “Baro Biao - World Wide Wedding”, 1999"
+  file: Fanfare-Ciocărlia-Tiganeasca.mp3
+  google_art_id: 0B2L5eVrXbcDKNHdlMzlkYmZ0VFU
+  google_mp3_id: 0B2L5eVrXbcDKNU9QWlBrOXhEWlk
+  title: "Fanfare Ciocărlia - Tiganeasca"
+- 
   date: "2014-07-12"
--
-  title: "Taraf de Haïdouks - Sirba de la Golasci"
-  description: "From the 1991 album &ldquo;Musiques de Tziganes de Roumanie&rdquo;"
-  file: "Taraf-de-Haidouks-Sirba-de-la-Golasci.mp3"
+  description: "From the 1991 album “Musiques de Tziganes de Roumanie”"
+  file: Taraf-de-Haidouks-Sirba-lui-Mitica-Gindac.mp3
+  google_art_id: 0B2L5eVrXbcDKZXNoOTFHNkQ5Zkk
+  google_mp3_id: 0B2L5eVrXbcDKTFVCWGVmOHUwTjQ
+  title: "Taraf de Haïdouks - Sirba lui Mitica Gindac"
+- 
   date: "2014-07-05"
--
-  title: "Didjeridu Solo a Trial And a Crying Child"
+  description: "From the 1991 album “Musiques de Tziganes de Roumanie”"
+  file: Taraf-de-Haidouks-Sirba-de-la-Golasci.mp3
+  google_art_id: 0B2L5eVrXbcDKbGpQeGRVbDBSV2c
+  google_mp3_id: 0B2L5eVrXbcDKS21MSlZoMmZYdU0
+  title: "Taraf de Haïdouks - Sirba de la Golasci"
+- 
+  date: "2014-06-28"
   description: "From [Australia: Songs of the Aborigines and Traditional Music of Papua New Guniea](http://www.amazon.com/gp/product/B000008D1N/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000008D1N&linkCode=as2&tag=bjorsqnet-20) (1963)"
-  file: "Didjeridu-Solo-a-Trial-And-a-Crying-Child-.mp3"
-  date: "2014-06-28 00:00:00"
--
-  title: "Concerto For 2 Violins, Strings & Continuo In D Minor ('Double') II. Largo ma non tanto"
+  file: Didjeridu-Solo-a-Trial-And-a-Crying-Child-.mp3
+  google_art_id: 0B2L5eVrXbcDKb2J6NC1UbU5FTGs
+  google_mp3_id: 0B2L5eVrXbcDKNFZ2N1l5dmVDdlk
+  title: "Didjeridu Solo a Trial And a Crying Child"
+- 
+  date: "2014-06-21"
   description: "Excellent recording by Cafe Zimmermann from their series [Concerts avec plusieurs instruments](http://www.amazon.com/gp/product/B005IQXUQW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005IQXUQW&linkCode=as2&tag=bjorsqnet-20)"
-  file: "Concerto-For-2-Violins-Strings-Continuo-In-D-Minor-II-Largo-ma-non-tanto.mp3"
-  date: "2014-06-21 00:00:00"
--
-  title: "Tito Puente - Swingin' the Mambo"
+  file: Concerto-For-2-Violins-Strings-Continuo-In-D-Minor-II-Largo-ma-non-tanto.mp3
+  google_art_id: 0B2L5eVrXbcDKMWVHUjdrY003THc
+  google_mp3_id: 0B2L5eVrXbcDKWE5SSjhFRHpmd1k
+  title: "Concerto For 2 Violins, Strings & Continuo In D Minor ('Double') II. Largo ma non tanto"
+- 
+  date: "2014-06-14"
   description: "From Completa Seleccion De Temas Inolvidables"
-  file: "Tito-Puente-Swingin-the-Mambo.mp3"
-  date: "2014-06-14 00:00:00"
--
-  title: "Erroll Garner - Gemini"
+  file: Tito-Puente-Swingin-the-Mambo.mp3
+  google_art_id: 0B2L5eVrXbcDKbUgyV1l5VG1nVVU
+  google_mp3_id: 0B2L5eVrXbcDKUFpKb3BpR3JxRXM
+  title: "Tito Puente - Swingin' the Mambo"
+- 
+  date: "2014-06-07"
   description: "From the album of the same name"
-  file: "ErrolGarner-Gemini.mp3"
-  date: "2014-06-07 00:00:00"
--
-  title: "Scott LaFaro, Victor Feldman and Stan Levey - rehearsal blues"
+  file: ErrolGarner-Gemini.mp3
+  google_art_id: 0B2L5eVrXbcDKcWxGMXk3OXZuV0k
+  google_mp3_id: 0B2L5eVrXbcDKYklPeXVBdWYxWTQ
+  title: "Erroll Garner - Gemini"
+- 
+  date: "2014-05-31"
   description: "Live at Bob Andrews' Recordville in Redondo Beach California, 8 Oct 1958"
-  file: "ScottLaFaro-VicFeldman-StanLevey-rehearsal-blues.mp3"
-  date: "2014-05-31 00:00:00"
--
-  title: "Scott LaFaro and Joe Gordon - Bass Blues"
+  file: ScottLaFaro-VicFeldman-StanLevey-rehearsal-blues.mp3
+  google_art_id: 0B2L5eVrXbcDKd1dkVWM0Q0xPek0
+  google_mp3_id: 0B2L5eVrXbcDKNHpueThtVHJnclk
+  title: "Scott LaFaro, Victor Feldman and Stan Levey - rehearsal blues"
+- 
+  date: "2014-05-24"
   description: "From [West Coast Days - Live At The Lighthouse](http://www.discogs.com/Joe-Gordon-Scott-LaFaro-West-Coast-Days-Live-At-The-Lighthouse/release/2537449)"
-  file: "ScottLaFaroJoeGordonBassBlues.mp3"
-  date: "2014-05-24 00:00:00"
--
-  title: "Thomas Adès: The Four Quarters - II - Serenade: Morning Dew"
+  file: ScottLaFaroJoeGordonBassBlues.mp3
+  google_art_id: 0B2L5eVrXbcDKSlNuUXhpUlFwaW8
+  google_mp3_id: 0B2L5eVrXbcDKVkdSNjYwMjRtVG8
+  title: "Scott LaFaro and Joe Gordon - Bass Blues"
+- 
+  date: "2014-05-17"
   description: "From [radiOM](http://radiom.org/detail.php?omid=OMP.2012.11.03.3.A)"
-  file: "Thomas-Ades-The-Four-Quarters-II-Serenade-Morning-Dew.mp3"
-  date: "2014-05-17 00:00:00"
--
-  title: "Gerald Barry - Root Position"
+  file: Thomas-Ades-The-Four-Quarters-II-Serenade-Morning-Dew.mp3
+  google_art_id: 0B2L5eVrXbcDKZlk0eVFLYlVwd2s
+  google_mp3_id: 0B2L5eVrXbcDKMzQzdWQ4SUxxaHc
+  title: "Thomas Adès: The Four Quarters - II - Serenade: Morning Dew"
+- 
+  date: "2014-05-10"
   description: "From a CD by Thalia Myers from her commissioned [Spectrum series](http://www.thaliamyers.com/spectrum/)."
-  file: "Gerald-Barry-Root-Position.mp3"
-  date: "2014-05-10 00:00:00"
--
-  title: "Gerhard Stäbler - Heiß! for organ (4 hands)"
+  file: Gerald-Barry-Root-Position.mp3
+  google_art_id: 0B2L5eVrXbcDKSUFrTW9tR2pGcm8
+  google_mp3_id: 0B2L5eVrXbcDKRngwVDZ0cU42N3c
+  title: "Gerald Barry - Root Position"
+- 
+  date: "2014-05-03"
   description: "Tragically under-recorded german madman. From [im unaufhorlichen Wirbel](http://www.amazon.co.uk/gp/product/B004KKYV74/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004KKYV74&linkCode=as2&tag=bjorsq-21)"
-  file: "Gerhard-Stabler-Heiss.mp3"
-  date: "2014-05-03 00:00:00"
--
-  title: "Erroll Garner - More"
+  file: Gerhard-Stabler-Heiss.mp3
+  google_art_id: 0B2L5eVrXbcDKRDFTcTlHRGpHbUk
+  google_mp3_id: 0B2L5eVrXbcDKRDVKQW5GM3BVM1U
+  title: "Gerhard Stäbler - Heiß! for organ (4 hands)"
+- 
+  date: "2014-04-26"
   description: "From That's my kick"
-  file: "ErrolGarner-More.mp3"
-  date: "2014-04-26 00:00:00"
--
-  title: "The Sahara All Stars - Take Your Soul"
+  file: ErrolGarner-More.mp3
+  google_art_id: 0B2L5eVrXbcDKOFNDNVZpUzlXS2M
+  google_mp3_id: 0B2L5eVrXbcDKMUtnVUhIb3hJQkU
+  title: "Erroll Garner - More"
+- 
+  date: "2014-04-19"
   description: "From [Nigeria Disco Funk Special: Sound of the Underground Lagos Dancefloor 1974-1979](http://www.amazon.co.uk/gp/product/B0012YYRDY/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0012YYRDY&linkCode=as2&tag=bjorsq-21)"
-  file: "The-Sahara-Al-Stars-Take-Your-Soul.mp3"
-  date: "2014-04-19 00:00:00"
--
-  title: "Bang on a can all-stars play Nancarrow - Study No.11"
+  file: The-Sahara-Al-Stars-Take-Your-Soul.mp3
+  google_art_id: 0B2L5eVrXbcDKaTk5VFE0S1NSS0k
+  google_mp3_id: 0B2L5eVrXbcDKTkk2aHE0TEhaSFk
+  title: "The Sahara All Stars - Take Your Soul"
+- 
+  date: "2014-04-12"
   description: "one of the best versions I've heard of this for an instrumental ensemble. From '[Big, Beautiful, Dark and Scary](http://www.amazon.com/gp/product/B006J7YIOC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006J7YIOC&linkCode=as2&tag=bjorsqnet-20)'"
-  file: "Bang-on-a-can-all-stars-Study-11.mp3"
-  date: "2014-04-12 00:00:00"
--
+  file: Bang-on-a-can-all-stars-Study-11.mp3
+  google_art_id: 0B2L5eVrXbcDKamZYVC1GbEF2TW8
+  google_mp3_id: 0B2L5eVrXbcDKRFFjYTFpNkhJUkU
+  title: "Bang on a can all-stars play Nancarrow - Study No.11"
+- 
+  date: "2014-04-05"
+  description: Who?
+  file: Henry-Threadgill-sextet-Theme-From-Thomas-Cole.mp3
+  google_art_id: 0B2L5eVrXbcDKSHBqbE12bmJ1a2s
+  google_mp3_id: 0B2L5eVrXbcDKMHpodnFVbzlhR1U
   title: "Henry Threadgill sextet - Theme From Thomas Cole"
-  description: "Who?"
-  file: "Henry-Threadgill-sextet-Theme-From-Thomas-Cole.mp3"
-  date: "2014-04-05 00:00:00"
--
+- 
+  date: "2014-03-14"
+  description: What?
+  file: Malcolm-Goldstein-Ishi-man-waxati-Soundings.mp3
+  google_art_id: 0B2L5eVrXbcDKT3RoZ2VTSjV6eEE
+  google_mp3_id: 0B2L5eVrXbcDKWU1NS0pCSExMZ1U
   title: "Malcolm Goldstein - Ishi / 'man waxati' Soundings"
-  description: "What?"
-  file: "Malcolm-Goldstein-Ishi-man-waxati-Soundings.mp3"
-  date: "2014-03-14 00:00:00"
--
-  title: "Duke Ellington - Lets Get Together"
+- 
+  date: "2014-03-07"
   description: "Fom the Reprise Studio recordings set on Mosaic"
-  file: "Duke-Ellington-Lets-Get-Together.mp3"
-  date: "2014-03-07 00:00:00"
--
-  title: "Conlon Nancarrow - Study for Player Piano No. 44"
+  file: Duke-Ellington-Lets-Get-Together.mp3
+  google_art_id: 0B2L5eVrXbcDKSFVFbHhVaDE5SFU
+  google_mp3_id: 0B2L5eVrXbcDKdGl4S1RDWS14N2M
+  title: "Duke Ellington - Lets Get Together"
+- 
+  date: "2014-02-24"
   description: "Played by Helena Bugallo and Amy Williams (two pianos, four hands)"
-  file: "Conlon-Nancarrow-Study-for-Player-Piano-No-44.mp3"
-  date: "2014-02-24 00:00:00"
--
-  title: "Huun Huur Tu - Aa-Shuu Dekei-Oo"
+  file: Conlon-Nancarrow-Study-for-Player-Piano-No-44.mp3
+  google_art_id: 0B2L5eVrXbcDKSDNPdF9WdGI1TUk
+  google_mp3_id: 0B2L5eVrXbcDKRm5LMTk0R3BrZ00
+  title: "Conlon Nancarrow - Study for Player Piano No. 44"
+- 
+  date: "2014-02-17"
   description: "From The Orphan's Lament (1994)"
-  file: "Huun-Huur-Tu-Aa-Shuu-Dekei-Oo.mp3"
-  date: "2014-02-17 00:00:00"
--
-  title: "Nino Rota - Ti ricordi di siboney"
+  file: Huun-Huur-Tu-Aa-Shuu-Dekei-Oo.mp3
+  google_art_id: 0B2L5eVrXbcDKbjBScDNSZE5GUzA
+  google_mp3_id: 0B2L5eVrXbcDKZ1FTM2ptQnZQelk
+  title: "Huun Huur Tu - Aa-Shuu Dekei-Oo"
+- 
+  date: "2014-02-12"
   description: "From the soundtrack to Amarcord"
-  file: "Nino-Rota-Ti-ricordi-di-siboney.mp3"
-  date: "2014-02-12 00:00:00"
--
-  title: "Silvestre Revueltas - Hommage a Garcia Lorca - III Son"
+  file: Nino-Rota-Ti-ricordi-di-siboney.mp3
+  google_art_id: 0B2L5eVrXbcDKMkdwWE13V0JhY3M
+  google_mp3_id: 0B2L5eVrXbcDKS3hRbDRDb3hxR0U
+  title: "Nino Rota - Ti ricordi di siboney"
+- 
+  date: "2014-02-04"
   description: "Written in response to the murder of Lorca by fascist militia forces in 1936"
-  file: "Silvestre-Revueltas-Hommage-a-Garcia-Lorca-III-Son.mp3"
-  date: "2014-02-04 00:00:00"
--
-  title: "Olivier Messaien - Apparition de l'eglise eternelle"
+  file: Silvestre-Revueltas-Hommage-a-Garcia-Lorca-III-Son.mp3
+  google_art_id: 0B2L5eVrXbcDKLVE4WjVZVzJrYmM
+  google_mp3_id: 0B2L5eVrXbcDKdmNUT0tUWHI3SWc
+  title: "Silvestre Revueltas - Hommage a Garcia Lorca - III Son"
+- 
+  date: "2014-01-20"
   description: "Played by Edgar Krapp on the organ of the Basilika Waldasassen"
-  file: "OlivierMessaien-Apparition-de-l-eglise-eternelle.mp3"
-  date: "2014-01-20 00:00:00"
--
-  title: "Chick Corea, MiroslavVitous and RoyHaynes - Eronel"
+  file: OlivierMessaien-Apparition-de-l-eglise-eternelle.mp3
+  google_art_id: 0B2L5eVrXbcDKOUwtcl9LZUlrdlU
+  google_mp3_id: 0B2L5eVrXbcDKeE5DWE5IYkgzQ2c
+  title: "Olivier Messaien - Apparition de l'eglise eternelle"
+- 
+  date: "2014-01-13"
   description: "From Trio Music"
-  file: "ChickCorea-MiroslavVitous-RoyHaynes-Eronel.mp3"
-  date: "2014-01-13 00:00:00"
--
-  title: "The Meters - Art"
+  file: ChickCorea-MiroslavVitous-RoyHaynes-Eronel.mp3
+  google_art_id: 0B2L5eVrXbcDKVzc4eFAyVmhETkU
+  google_mp3_id: 0B2L5eVrXbcDKbGNsREVYVzhLWVE
+  title: "Chick Corea, MiroslavVitous and RoyHaynes - Eronel"
+- 
+  date: "2014-01-07"
   description: "From the Meters first album, released in 1969"
-  file: "The-Meters-Art.mp3"
-  date: "2014-01-07 00:00:00"
--
+  file: The-Meters-Art.mp3
+  google_art_id: 0B2L5eVrXbcDKZ3VQUkxXRWNfRW8
+  google_mp3_id: 0B2L5eVrXbcDKamZYT0pPMTFxa0k
+  title: "The Meters - Art"
+- 
+  date: "2013-12-20"
+  description: "Played by Richard Zimmermann"
+  file: Scott-Joplin-Magnetic-Rag.mp3
+  google_art_id: 0B2L5eVrXbcDKa00wWWU5UWFNemc
+  google_mp3_id: 0B2L5eVrXbcDKQVZJdDlvaENoNVU
   title: "Scott Joplin - Magnetic Rag"
-  description: "Played by Richard Zimmermann"
-  file: "Scott-Joplin-Magnetic-Rag.mp3"
-  date: "2013-12-20 00:00:00"
--
-  title: "Helmut Lachenmann - Grido (2001-2002), Streichquartett Nr. 3"
+- 
+  date: "2013-12-13"
   description: "This has everything in it"
-  file: "Helmut-Lachenmann-Grido-Streichquartett-Nr.3.mp3"
-  date: "2013-12-13 00:00:00"
--
-  title: "Conlon Nancarrow Study 2a"
+  file: Helmut-Lachenmann-Grido-Streichquartett-Nr.3.mp3
+  google_art_id: 0B2L5eVrXbcDKMnF2cGRWc3FVX3c
+  google_mp3_id: 0B2L5eVrXbcDKeENSUVJmckIxOGs
+  title: "Helmut Lachenmann - Grido (2001-2002), Streichquartett Nr. 3"
+- 
+  date: "2013-12-06"
   description: "Another arrangement from the Bang-on-a-can All-stars"
-  file: "ConlonNancarrow-Four-Player-Piano-Studies-Study-2a.mp3"
-  date: "2013-12-06 00:00:00"
--
+  file: ConlonNancarrow-Four-Player-Piano-Studies-Study-2a.mp3
+  google_art_id: 0B2L5eVrXbcDKU000RGxMbW9hX0k
+  google_mp3_id: 0B2L5eVrXbcDKR01lNnJkZFFxR2s
+  title: "Conlon Nancarrow Study 2a"
+- 
+  date: "2013-11-30"
+  description: "From the excellent [Stone Flower](http://www.amazon.co.uk/gp/product/B0044TQRN2/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0044TQRN2&linkCode=as2&tag=bjorsq-21)"
+  file: Antonio-Carlos-Jobim-Tereza-My-Love.mp3
+  google_art_id: 0B2L5eVrXbcDKS010TS1zaEoyX2M
+  google_mp3_id: 0B2L5eVrXbcDKendoZkFfeW5TWDA
   title: "Antonio Carlos Jobim - Tereza My Love"
-  description: "From the excellent [Stone Flower](http://www.amazon.co.uk/gp/product/B0044TQRN2/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0044TQRN2&linkCode=as2&tag=bjorsq-21)"
-  file: "Antonio-Carlos-Jobim-Tereza-My-Love.mp3"
-  date: "2013-11-30 00:00:00"
--
-  title: "Pauline Oliveros - I of IV"
+- 
+  date: "2013-11-23"
   description: "From Electronic Works 1965-1966"
-  file: "Pauline-Oliveros-I-of-IV.mp3"
-  date: "2013-11-23 00:00:00"
--
-  title: "Scott Joplin - The Ragtime Dance"
+  file: Pauline-Oliveros-I-of-IV.mp3
+  google_art_id: 0B2L5eVrXbcDKZXY1WFdCUWFURW8
+  google_mp3_id: 0B2L5eVrXbcDKbHRTVFRmSHhZOE0
+  title: "Pauline Oliveros - I of IV"
+- 
+  date: "2013-11-16"
   description: "Played by Richard Zimmermann"
-  file: "Scott-Joplin-The-Ragtime-Dance.mp3"
-  date: "2013-11-16 00:00:00"
--
-  title: "VortexTemporum"
+  file: Scott-Joplin-The-Ragtime-Dance.mp3
+  google_art_id: 0B2L5eVrXbcDKc0lUclNjVUJjODA
+  google_mp3_id: 0B2L5eVrXbcDKNFE0YjNwekxxN1E
+  title: "Scott Joplin - The Ragtime Dance"
+- 
+  date: "2013-11-09"
   description: "Gérard Grisey's sextet played by [Ensemble Recherche](http://www.amazon.co.uk/gp/product/B00004VLJ8/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00004VLJ8&linkCode=as2&tag=bjorsq-21)"
-  file: "VortexTemporum.mp3"
-  date: "2013-11-09 00:00:00"
--
-  title: "Brotzmann Van Hove Bennink - Nr.7"
+  file: VortexTemporum.mp3
+  google_art_id: 0B2L5eVrXbcDKeWJLWk9qYVNUTEk
+  google_mp3_id: 0B2L5eVrXbcDKdjg1V2dlR2JOVzQ
+  title: VortexTemporum
+- 
+  date: "2013-11-02"
   description: "From FMP 0130"
-  file: "Brotzmann-Van-Hove-Bennink-Nr.7.mp3"
-  date: "2013-11-02 00:00:00"
--
-  title: "Peter Brotzmann - Love poem Nr.4 - bass-clarinet"
+  file: Brotzmann-Van-Hove-Bennink-Nr.7.mp3
+  google_art_id: 0B2L5eVrXbcDKVkV3UTk5YmZkQVE
+  google_mp3_id: 0B2L5eVrXbcDKOUlGR3pfcHhaYTA
+  title: "Brotzmann Van Hove Bennink - Nr.7"
+- 
+  date: "2013-10-26"
   description: "Brotzmann being lyrical(!?)"
-  file: "Peter-Brotzmann-Love-poem-Nr.4-bass-clarinet.mp3"
-  date: "2013-10-26 00:00:00"
--
-  title: "Famoudou Konaté - Lafe"
+  file: Peter-Brotzmann-Love-poem-Nr.4-bass-clarinet.mp3
+  google_art_id: 0B2L5eVrXbcDKUlRmS0NDbjBIWTQ
+  google_mp3_id: 0B2L5eVrXbcDKRFNtc055UTNsVXc
+  title: "Peter Brotzmann - Love poem Nr.4 - bass-clarinet"
+- 
+  date: "2013-10-19"
   description: "From *Guinée: Percussions et Chants Malinké* (Vol. 2)"
-  file: "Famoudou-Konaté-Lafe.mp3"
-  date: "2013-10-19 00:00:00"
--
-  title: "Bonne Annee - Soki Nambi - Chola Piana (Zaire)"
+  file: Famoudou-Konaté-Lafe.mp3
+  google_art_id: 0B2L5eVrXbcDKdUpUbmdLWGlGWms
+  google_mp3_id: 0B2L5eVrXbcDKX1ZOekxHdUdtOTg
+  title: "Famoudou Konaté - Lafe"
+- 
+  date: "2013-10-12"
   description: "From *Guitar Songs From Tanzania, Zambia & Zaire*"
-  file: "Bonne-Annee-Soki-Nambi-Chola-Piana-Zaire.mp3"
-  date: "2013-10-12 00:00:00"
--
-  title: "Last Exit - discharge"
+  file: Bonne-Annee-Soki-Nambi-Chola-Piana-Zaire.mp3
+  google_art_id: 0B2L5eVrXbcDKVXNqZ0ZmTGo4UkE
+  google_mp3_id: 0B2L5eVrXbcDKdGZyQnNuVkhITU0
+  title: "Bonne Annee - Soki Nambi - Chola Piana (Zaire)"
+- 
+  date: "2013-10-05"
   description: "Peter Brötzmann, Ronald Shannon Jackson, Bill Laswell and Sonny Sharrock making a right bloody racket"
-  file: "Last-Exit-discharge.mp3"
-  date: "2013-10-05 00:00:00"
--
-  title: "Billy Pigg - Border Spirit"
+  file: Last-Exit-discharge.mp3
+  google_art_id: 0B2L5eVrXbcDKY3hZT3Z6cE54QWc
+  google_mp3_id: 0B2L5eVrXbcDKNjk4TG55TVE5Y2c
+  title: "Last Exit - discharge"
+- 
+  date: "2013-09-28"
   description: "From *Classic Celtic Music from Smithsonian Folkways*"
-  file: "Billy-Pigg-Border-Spirit.mp3"
-  date: "2013-09-28 00:00:00"
--
-  title: "Ornette Coleman Quartet - Ecars"
+  file: Billy-Pigg-Border-Spirit.mp3
+  google_art_id: 0B2L5eVrXbcDKOWh6UmNTajNTenM
+  google_mp3_id: 0B2L5eVrXbcDKZlV4b3lIVHAwOVE
+  title: "Billy Pigg - Border Spirit"
+- 
+  date: "2013-09-21"
   description: "From *Ornette on Tenor*"
-  file: "Ornette-Coleman-ecars.mp3"
-  date: "2013-09-21 00:00:00"
--
-  title: "Rafael Angel Mira Fornes - Caramelos para Zoe"
+  file: Ornette-Coleman-ecars.mp3
+  google_art_id: 0B2L5eVrXbcDKRFFVQU0yNUp0ZEU
+  google_mp3_id: 0B2L5eVrXbcDKUUt3NEtTZzNHWm8
+  title: "Ornette Coleman Quartet - Ecars"
+- 
+  date: "2013-09-14"
   description: "From *Cinq Quatuors Espagnols* by The Arditti String Quartet."
-  file: "Rafael-Angel-Mira-Fornes-Caramelos-para-Zoe.mp3"
-  date: "2013-09-14 00:00:00"
--
-  title: "Roscoe Mitchell & The Note Factory - Count-Off"
+  file: Rafael-Angel-Mira-Fornes-Caramelos-para-Zoe.mp3
+  google_art_id: 0B2L5eVrXbcDKYW5fLTNCX2lTc1E
+  google_mp3_id: 0B2L5eVrXbcDKUnVxWVZrZkhQUjg
+  title: "Rafael Angel Mira Fornes - Caramelos para Zoe"
+- 
+  date: "2013-09-07"
   description: "From *Song For My Sister*"
-  file: "Roscoe-Mitchell-and-the-Note-Factory-Count-Off.mp3"
-  date: "2013-09-07 00:00:00"
--
-  title: "Sathima Bea Benjamin - Darn That Dream"
+  file: Roscoe-Mitchell-and-the-Note-Factory-Count-Off.mp3
+  google_art_id: 0B2L5eVrXbcDKdFkweF9TdG9XSmc
+  google_mp3_id: 0B2L5eVrXbcDKUExNRGRveDFiSnc
+  title: "Roscoe Mitchell & The Note Factory - Count-Off"
+- 
+  date: "2013-08-30"
   description: "From [A Morning in Paris (1962)](http://www.amazon.co.uk/gp/product/B000XYFXW8/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000XYFXW8&linkCode=as2&tag=bjorsq-21) which features Duke Ellington and Billy Strayhorn on piano."
-  file: "Sathima-Bea-Benjamin-Darn-That-Dream.mp3"
-  date: "2013-08-30 00:00:00"
--
-  title: "Abdullah Ibrahim - The Moon"
+  file: Sathima-Bea-Benjamin-Darn-That-Dream.mp3
+  google_art_id: 0B2L5eVrXbcDKem1kR05GZS1OUTA
+  google_mp3_id: 0B2L5eVrXbcDKdzhqQTNYMWNoUDA
+  title: "Sathima Bea Benjamin - Darn That Dream"
+- 
+  date: "2013-08-23"
   description: "Relentless left hand from [African Piano](http://www.amazon.co.uk/gp/product/B0000260C9/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0000260C9&linkCode=as2&tag=bjorsq-21)"
-  file: "Abdullah-Ibrahim-The-Moon.mp3"
-  date: "2013-08-23 00:00:00"
--
-  title: "Steve Lacy - I Would Do Anything For You"
+  file: Abdullah-Ibrahim-The-Moon.mp3
+  google_art_id: 0B2L5eVrXbcDKNDdrTk1QOHhPcTQ
+  google_mp3_id: 0B2L5eVrXbcDKNEFJNXJFMlRTWGs
+  title: "Abdullah Ibrahim - The Moon"
+- 
+  date: "2013-08-16"
   description: "From [Early Years](http://www.amazon.co.uk/gp/product/B0002PMF2Y/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0002PMF2Y&linkCode=as2&tag=bjorsq-21)"
-  file: "Steve-Lacy-I-Would-Do-Anything-For-You.mp3"
-  date: "2013-08-16 00:00:00"
--
-  title: "Anthony Braxton Quartet - Composition No. 115"
+  file: Steve-Lacy-I-Would-Do-Anything-For-You.mp3
+  google_art_id: 0B2L5eVrXbcDKRUJiZGlIQ2lCMDQ
+  google_mp3_id: 0B2L5eVrXbcDKc05yLWgzZHdoMFE
+  title: "Steve Lacy - I Would Do Anything For You"
+- 
+  date: "2013-08-09"
   description: "Accordion sound space!"
-  file: "Anthony-Braxton-Quartet-Composition-No.-115.mp3"
-  date: "2013-08-09 00:00:00"
--
-  title: "Antonio Carlos Jobim - Andorinha"
+  file: Anthony-Braxton-Quartet-Composition-No.-115.mp3
+  google_art_id: 0B2L5eVrXbcDKZzBjMllJTXpTWEU
+  google_mp3_id: 0B2L5eVrXbcDKSHUtMUVpU241Y1E
+  title: "Anthony Braxton Quartet - Composition No. 115"
+- 
+  date: "2013-08-02"
   description: "From the excellent [Stone Flower](http://www.amazon.co.uk/gp/product/B0044TQRN2/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0044TQRN2&linkCode=as2&tag=bjorsq-21)"
-  file: "Antonio-Carlos-Jobim-Andorinha.mp3"
-  date: "2013-08-02 00:00:00"
--
-  title: "Archie Shepp - Rufus"
+  file: Antonio-Carlos-Jobim-Andorinha.mp3
+  google_art_id: 0B2L5eVrXbcDKRkVEMTE5Mzcta00
+  google_mp3_id: 0B2L5eVrXbcDKcHZSM2VxQXNCYzQ
+  title: "Antonio Carlos Jobim - Andorinha"
+- 
+  date: "2013-07-20"
   description: "From [Four For Trane](http://www.amazon.co.uk/gp/product/B001KUIYRA/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B001KUIYRA&linkCode=as2&tag=bjorsq-21)"
-  file: "Archie-Shepp-Rufus.mp3"
-  date: "2013-07-20 00:00:00"
--
-  title: "Art Ensemble of Chicago - Tech Ritter and the Megabytes"
+  file: Archie-Shepp-Rufus.mp3
+  google_art_id: 0B2L5eVrXbcDKcDRjZDBFdU1BTGc
+  google_mp3_id: 0B2L5eVrXbcDKNFNjOHY2Z0IyUms
+  title: "Archie Shepp - Rufus"
+- 
+  date: "2013-07-13"
   description: "Funky AECO from [The Meeting](http://www.amazon.co.uk/gp/product/B001L9LK3K/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B001L9LK3K&linkCode=as2&tag=bjorsq-21)"
-  file: "Art-Ensemble-of-Chicago-Tech-Ritter-and-the-Megabytes.mp3"
-  date: "2013-07-13 00:00:00"
--
-  title: "Baden Powell - Apêlo"
+  file: Art-Ensemble-of-Chicago-Tech-Ritter-and-the-Megabytes.mp3
+  google_art_id: 0B2L5eVrXbcDKZVhaaW1HVmJoM00
+  google_mp3_id: 0B2L5eVrXbcDKLXdhYTJPeDlBems
+  title: "Art Ensemble of Chicago - Tech Ritter and the Megabytes"
+- 
+  date: "2013-07-06"
   description: "With Mauricio Einhorn on harmonica"
-  file: "Baden-Powell-Apêlo.mp3"
-  date: "2013-07-06 00:00:00"
--
+  file: Baden-Powell-Apêlo.mp3
+  google_art_id: 0B2L5eVrXbcDKY2pnSHVBaGYzT0E
+  google_mp3_id: 0B2L5eVrXbcDKUnVOa1V6T0phOHc
+  title: "Baden Powell - Apêlo"
+- 
+  date: "2013-06-20"
+  description: "From [Portrait In Jazz](http://www.amazon.co.uk/gp/product/B003TWFSTY/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B003TWFSTY&linkCode=as2&tag=bjorsq-21)"
+  file: Bill-Evans-Trio-Someday-My-Prince-Will-Come.mp3
+  google_art_id: 0B2L5eVrXbcDKT3lhbHJ1NUt5aVU
+  google_mp3_id: 0B2L5eVrXbcDKYTNmZVhzN0tVdUk
   title: "Bill Evans Trio - Someday My Prince Will Come"
-  description: "From [Portrait In Jazz](http://www.amazon.co.uk/gp/product/B003TWFSTY/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B003TWFSTY&linkCode=as2&tag=bjorsq-21)"
-  file: "Bill-Evans-Trio-Someday-My-Prince-Will-Come.mp3"
-  date: "2013-06-20 00:00:00"
--
-  title: "Bud Powell - Monopoly"
+- 
+  date: "2013-06-13"
   description: "From [Time Waits](http://www.amazon.co.uk/gp/product/B001JLBG9S/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B001JLBG9S&linkCode=as2&tag=bjorsq-21)"
-  file: "Bud-Powell-Monopoly.mp3"
-  date: "2013-06-13 00:00:00"
--
-  title: "Burt Bacharach - Hasbrook Heights"
+  file: Bud-Powell-Monopoly.mp3
+  google_art_id: 0B2L5eVrXbcDKWmdsM0pDdGl0OUk
+  google_mp3_id: 0B2L5eVrXbcDKNGs4WUNmVDVZM1E
+  title: "Bud Powell - Monopoly"
+- 
+  date: "2013-06-06"
   description: "From [Burt Bacharach](http://www.amazon.com/gp/product/B000006V2M/ref=as_li_ss_tl?ie=UTF8&tag=bjorsqnet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000006V2M)"
-  file: "Burt-Bacharach-Hasbrook-Heights.mp3"
-  date: "2013-06-06 00:00:00"
--
-  title: "Cecil Taylor Quartet - Wallering"
+  file: Burt-Bacharach-Hasbrook-Heights.mp3
+  google_art_id: 0B2L5eVrXbcDKQ204YnQ0TmQyOHc
+  google_mp3_id: 0B2L5eVrXbcDKRWVNMldkYXFzR0E
+  title: "Burt Bacharach - Hasbrook Heights"
+- 
+  date: "2013-05-31"
   description: "Early quartet from [Looking Ahead](http://www.amazon.co.uk/gp/product/B004QRYU1I/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004QRYU1I&linkCode=as2&tag=bjorsq-21)"
-  file: "Cecil-Taylor-Quartet-Wallering.mp3"
-  date: "2013-05-31 00:00:00"
--
+  file: Cecil-Taylor-Quartet-Wallering.mp3
+  google_art_id: 0B2L5eVrXbcDKekFIYXNvOUJPX1k
+  google_mp3_id: 0B2L5eVrXbcDKWkQtOTM5Q05nS0k
+  title: "Cecil Taylor Quartet - Wallering"
+- 
+  date: "2013-05-24"
+  description: "From [East Coasting](http://www.amazon.co.uk/gp/product/B003RK1O46/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B003RK1O46&linkCode=as2&tag=bjorsq-21)."
+  file: Charlie-Mingus-Celia.mp3
+  google_art_id: 0B2L5eVrXbcDKa2pxVnRhRi10UlE
+  google_mp3_id: 0B2L5eVrXbcDKZHlDdkpkSDY2aTQ
   title: "Charlie Mingus - Celia"
+- 
+  date: "2013-05-17"
   description: "From [East Coasting](http://www.amazon.co.uk/gp/product/B003RK1O46/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B003RK1O46&linkCode=as2&tag=bjorsq-21)."
-  file: "Charlie-Mingus-Celia.mp3"
-  date: "2013-05-24 00:00:00"
--
+  file: Charlie-Mingus-East-Coasting-Take-4.mp3
+  google_art_id: 0B2L5eVrXbcDKNXU2bnpyQkJqRlU
+  google_mp3_id: 0B2L5eVrXbcDKMTBxZTdWN2hyeWs
   title: "Charlie Mingus - East Coasting (Take 4)"
-  description: "From [East Coasting](http://www.amazon.co.uk/gp/product/B003RK1O46/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B003RK1O46&linkCode=as2&tag=bjorsq-21)."
-  file: "Charlie-Mingus-East-Coasting-Take-4.mp3"
-  date: "2013-05-17 00:00:00"
--
-  title: "Steve Lacy - Played Twice"
+- 
+  date: "2013-05-10"
   description: "From [The Straight Horn of Steve Lacy](http://www.amazon.co.uk/gp/product/B000001UZY/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000001UZY&linkCode=as2&tag=bjorsq-21)"
-  file: "Steve-Lacy-Played-Twice.mp3"
-  date: "2013-05-10 00:00:00"
--
-  title: "Gerry Mulligan - Flash"
+  file: Steve-Lacy-Played-Twice.mp3
+  google_art_id: 0B2L5eVrXbcDKallDMXhBLXUxVDQ
+  google_mp3_id: 0B2L5eVrXbcDKN2N3MGpTQUJWeHM
+  title: "Steve Lacy - Played Twice"
+- 
+  date: "2013-05-03"
   description: "From the [Complete Pacific Jazz Recordings](http://www.amazon.com/gp/product/B000006L9F/ref=as_li_ss_tl?ie=UTF8&tag=bjorsqnet-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000006L9F)"
-  file: "Gerry-Mulligan-Flash.mp3"
-  date: "2013-05-03 00:00:00"
--
+  file: Gerry-Mulligan-Flash.mp3
+  google_art_id: 0B2L5eVrXbcDKOGNvT1dNaUo3Nzg
+  google_mp3_id: 0B2L5eVrXbcDKYVVybG1TUmRoV28
+  title: "Gerry Mulligan - Flash"
+- 
+  date: "2013-04-24"
+  description: "From the album [Bird Song](http://www.amazon.co.uk/gp/product/B00004RILN/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00004RILN&linkCode=as2&tag=bjorsq-21)"
+  file: Hampton-Hawes-Trio-Big-Foot.mp3
+  google_art_id: 0B2L5eVrXbcDKS0tqVEFtcmV5dE0
+  google_mp3_id: 0B2L5eVrXbcDKS1RSMHNxSlZCRG8
   title: "Hampton Hawes Trio - Big Foot"
-  description: "From the album [Bird Song](http://www.amazon.co.uk/gp/product/B00004RILN/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00004RILN&linkCode=as2&tag=bjorsq-21)"
-  file: "Hampton-Hawes-Trio-Big-Foot.mp3"
-  date: "2013-04-24 00:00:00"
--
-  title: "James Tenney - Harmonium No.5"
+- 
+  date: "2013-04-17"
   description: "From 'Tribute to Chou Wen-chung - A Celebration of His 80th Birthday'"
-  file: "James-Tenney-Harmonium-No.5.mp3"
-  date: "2013-04-17 00:00:00"
--
-  title: "John Cage - Quartets I-VIII"
+  file: James-Tenney-Harmonium-No.5.mp3
+  google_art_id: 0B2L5eVrXbcDKU2h2WFdSYTNQQVE
+  google_mp3_id: 0B2L5eVrXbcDKbUx3VV9ERktSOG8
+  title: "James Tenney - Harmonium No.5"
+- 
+  date: "2013-04-14"
   description: "From Sixty Eight/Quartets I-VIII on HatHut - writing through the hymns of William Billings"
-  file: "John-Cage-Quartets-I-VIII.mp3"
-  date: "2013-04-14 00:00:00"
--
+  file: John-Cage-Quartets-I-VIII.mp3
+  google_art_id: 0B2L5eVrXbcDKQWJIV01DZVJJNnc
+  google_mp3_id: 0B2L5eVrXbcDKcS1QQWtXRHdtMVk
+  title: "John Cage - Quartets I-VIII"
+- 
+  date: "2013-04-08"
+  description: "Inspired by the Zen garden at [Ryōan-ji](http://en.wikipedia.org/wiki/Ry%C5%8Dan-ji) in Kyoto, Japan"
+  file: John-Cage-Ryoanji.mp3
+  google_art_id: 0B2L5eVrXbcDKWnZCZ2hWck5iZlk
+  google_mp3_id: 0B2L5eVrXbcDKNUVFR3R1TkdYOEk
   title: "John Cage - Ryoanji"
-  description: "Inspired by the Zen garden at [Ry&#333;an-ji](http://en.wikipedia.org/wiki/Ry%C5%8Dan-ji) in Kyoto, Japan"
-  file: "John-Cage-Ryoanji.mp3"
-  date: "2013-04-08 00:00:00"
--
-  title: "Medeski Martin and Wood - Hey-Hee-Hi-Ho"
+- 
+  date: "2013-04-01"
   description: "Found this in [a collection from the Smithsonian](http://www.amazon.co.uk/gp/product/B004GFGUBS/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004GFGUBS&linkCode=as2&tag=bjorsq-21), originally from [Combustication](http://www.amazon.co.uk/gp/product/B00000AFSZ/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00000AFSZ&linkCode=as2&tag=bjorsq-21)."
-  file: "Medeski-Martin-and-Wood-Hey-Hee-Hi-Ho.mp3"
-  date: "2013-04-01 00:00:00"
--
-  title: "Medeski Martin and Wood - The Lover"
+  file: Medeski-Martin-and-Wood-Hey-Hee-Hi-Ho.mp3
+  google_art_id: 0B2L5eVrXbcDKZDlkSmU5SHk0X0U
+  google_mp3_id: 0B2L5eVrXbcDKLVV5UVlQMTFNTUE
+  title: "Medeski Martin and Wood - Hey-Hee-Hi-Ho"
+- 
+  date: "2013-03-29"
   description: "From [Friday Afternoon in the Universe.](http://www.amazon.co.uk/gp/product/B00000322D/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00000322D&linkCode=as2&tag=bjorsq-21)"
-  file: "Medeski-Martin-and-Wood-The-Lover.mp3"
-  date: "2013-03-29 00:00:00"
--
+  file: Medeski-Martin-and-Wood-The-Lover.mp3
+  google_art_id: 0B2L5eVrXbcDKNDVHMlZ3M1ZKTTg
+  google_mp3_id: 0B2L5eVrXbcDKY3VqN2F0ZmowMTQ
+  title: "Medeski Martin and Wood - The Lover"
+- 
+  date: "2013-03-22"
+  description: "From the awesome [Sounds from a bygone age](http://www.asphalt-tango.de/shop/shop/artikel.php?c=150) series."
+  file: Toni-Iordache-Cantec-la-Imbracatul-Miresei.mp3
+  google_art_id: 0B2L5eVrXbcDKWlZNaG16TUFXTUk
+  google_mp3_id: 0B2L5eVrXbcDKM0Zxb0xFaGdKeFk
   title: "Toni Iordache - Cantec la Imbracatul Miresei"
-  description: "From the awesome [Sounds from a bygone age](http://www.asphalt-tango.de/shop/shop/artikel.php?c=150) series."
-  file: "Toni-Iordache-Cantec-la-Imbracatul-Miresei.mp3"
-  date: "2013-03-22 00:00:00"
--
-  title: "Hampton Hawes Trio - Ray's Idea"
+- 
+  date: "2013-03-15"
   description: "From the album [Bird Song](http://www.amazon.co.uk/gp/product/B00004RILN/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00004RILN&linkCode=as2&tag=bjorsq-21)"
-  file: "Hampton-Hawes-Trio-Rays-Idea.mp3"
-  date: "2013-03-15 00:00:00"
--
-  title: "Roscoe Mitchell - Composition"
+  file: Hampton-Hawes-Trio-Rays-Idea.mp3
+  google_art_id: 0B2L5eVrXbcDKVFltR3R3UEVCeUE
+  google_mp3_id: 0B2L5eVrXbcDKVjBFcHotZUJKT3M
+  title: "Hampton Hawes Trio - Ray's Idea"
+- 
+  date: "2013-03-08"
   description: "Same compostion as 'Tech Ritter and the Megabytes', but here played by a saxophone quartet"
-  file: "Roscoe-Mitchell-Composition.mp3"
-  date: "2013-03-08 00:00:00"
--
-  title: "Roscoe Mitchell - Nonaah"
+  file: Roscoe-Mitchell-Composition.mp3
+  google_art_id: 0B2L5eVrXbcDKX2R1eEozVXBzUFE
+  google_mp3_id: 0B2L5eVrXbcDKS2F5UzdkTHJsYkE
+  title: "Roscoe Mitchell - Composition"
+- 
+  date: "2013-03-01"
   description: "From [the album of the same name](http://www.amazon.co.uk/gp/product/B001E4440I/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B001E4440I&linkCode=as2&tag=bjorsq-21)."
-  file: "Roscoe-Mitchell-Nonaah.mp3"
-  date: "2013-03-01 00:00:00"
--
-  title: "Steve Lacy Five - Blinks"
+  file: Roscoe-Mitchell-Nonaah.mp3
+  google_art_id: 0B2L5eVrXbcDKZUpsSmZ4aGpYUjA
+  google_mp3_id: 0B2L5eVrXbcDKa0VDMURMUlFQUU0
+  title: "Roscoe Mitchell - Nonaah"
+- 
+  date: "2013-02-13"
   description: "This was on [one of my favourite LPs on Hat Hut - now on CD](http://www.amazon.co.uk/gp/product/B004IXP5LY/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004IXP5LY&linkCode=as2&tag=bjorsq-21)."
-  file: "Steve-Lacy-Five-Blinks.mp3"
-  date: "2013-02-13 00:00:00"
--
-  title: "Bill Evans Trio - Witchcraft"
+  file: Steve-Lacy-Five-Blinks.mp3
+  google_art_id: 0B2L5eVrXbcDKM0sxcmlzTXZabEE
+  google_mp3_id: 0B2L5eVrXbcDKZnowQTB0NXI5QjA
+  title: "Steve Lacy Five - Blinks"
+- 
+  date: "2013-02-06"
   description: "From [Portrait In Jazz](http://www.amazon.co.uk/gp/product/B003TWFSTY/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B003TWFSTY&linkCode=as2&tag=bjorsq-21)"
-  file: "Bill-Evans-Trio-Witchcraft.mp3"
-  date: "2013-02-06 00:00:00"
--
-  title: "Air - The Ragtime Dance"
+  file: Bill-Evans-Trio-Witchcraft.mp3
+  google_art_id: 0B2L5eVrXbcDKZXZ6U2pSenN3a0E
+  google_mp3_id: 0B2L5eVrXbcDKTGxfSllfSnBrMWM
+  title: "Bill Evans Trio - Witchcraft"
+- 
+  date: "2013-01-31"
   description: "Henry Threadgill does Scott Joplin from the album Air Lore"
-  file: "Air-The-Ragtime-Dance.mp3"
-  date: "2013-01-31 00:00:00"
--
-  title: "Herbie Nichols - Portrait Of Ucha"
+  file: Air-The-Ragtime-Dance.mp3
+  google_art_id: 0B2L5eVrXbcDKX250WFA0LUtMRUE
+  google_mp3_id: 0B2L5eVrXbcDKS3FMVXpqM2FJeXc
+  title: "Air - The Ragtime Dance"
+- 
+  date: "2013-01-28"
   description: "From [Love, Gloom Cash Love](http://www.amazon.com/gp/product/B004X48GI2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004X48GI2&linkCode=as2&tag=bjorsqnet-20)"
-  file: "Herbie-Nichols-Portrait-Of-Ucha.mp3"
-  date: "2013-01-28 00:00:00"
--
-  title: "Herbie Nichols - The Spinning Song"
+  file: Herbie-Nichols-Portrait-Of-Ucha.mp3
+  google_art_id: 0B2L5eVrXbcDKLWRsWXYwbXRmM3c
+  google_mp3_id: 0B2L5eVrXbcDKY0tUM0g3R0dua0k
+  title: "Herbie Nichols - Portrait Of Ucha"
+- 
+  date: "2013-01-27"
   description: "From [The Complete Blue Note Recordings Of Herbie Nichols](http://www.amazon.co.uk/gp/product/B001J1HEHQ/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B001J1HEHQ&linkCode=as2&tag=bjorsq-21)"
-  file: "Herbie-Nichols-The-Spinning-Song.mp3"
-  date: "2013-01-27 00:00:00"
--
-  title: "Africa Djolé - Naden'Nadenna"
+  file: Herbie-Nichols-The-Spinning-Song.mp3
+  google_art_id: 0B2L5eVrXbcDKbHM5bG44aUNOYjQ
+  google_mp3_id: 0B2L5eVrXbcDKaVdNMngtVzhRZzA
+  title: "Herbie Nichols - The Spinning Song"
+- 
+  date: "2013-01-24"
   description: "Djembe drumming from Guinea"
-  file: "Africa-Djole-NadenNadenna.mp3"
-  date: "2013-01-24 00:00:00"
--
+  file: Africa-Djole-NadenNadenna.mp3
+  google_art_id: 0B2L5eVrXbcDKc19ES3hNek12NHM
+  google_mp3_id: 0B2L5eVrXbcDKdjZzVzNYUkdadEk
+  title: "Africa Djolé - Naden'Nadenna"
+- 
+  date: "2013-01-17"
+  description: "From the awesome [Sounds from a bygone age](http://www.asphalt-tango.de/shop/shop/artikel.php?c=150) series."
+  file: Dona-Dumitru-Siminica-Cine-are-fata-mare.mp3
+  google_art_id: 0B2L5eVrXbcDKMF9EYUtUTlItcFE
+  google_mp3_id: 0B2L5eVrXbcDKNjFyOHoxWHFjbEE
   title: "Dona Dumitru Siminica - Cine are fata mare"
-  description: "From the awesome [Sounds from a bygone age](http://www.asphalt-tango.de/shop/shop/artikel.php?c=150) series."
-  file: "Dona-Dumitru-Siminica-Cine-are-fata-mare.mp3"
-  date: "2013-01-17 00:00:00"
--
-  title: "Helmut Lachenmann - Ein kinderspiel - schattentanz"
+- 
+  date: "2013-01-16"
   description: "I can't play this because you need a concert grand"
-  file: "Helmut-Lachenmann-Ein-kinderspiel-schattentanz.mp3"
-  date: "2013-01-16 00:00:00"
--
-  title: "Hukwe Ubi Zawose - Tuna Haki Ya Kujivunia Utamaduni Wetu"
+  file: Helmut-Lachenmann-Ein-kinderspiel-schattentanz.mp3
+  google_art_id: 0B2L5eVrXbcDKZ21kZWJLR2xtRFE
+  google_mp3_id: 0B2L5eVrXbcDKS2tET2V0WklzV0E
+  title: "Helmut Lachenmann - Ein kinderspiel - schattentanz"
+- 
+  date: "2013-01-14"
   description: "Master musician from Tanzania - overtone singing, thumb pianos."
-  file: "Hukwe-Ubi-Zawose-Tuna-Haki-Ya-Kujivunia-Utamaduni-Wetu.mp3"
-  date: "2013-01-14 00:00:00"
--
-  title: "Ionica Minune - Sarba oltenilor"
+  file: Hukwe-Ubi-Zawose-Tuna-Haki-Ya-Kujivunia-Utamaduni-Wetu.mp3
+  google_art_id: 0B2L5eVrXbcDKNnFSYzVITlh2aEE
+  google_mp3_id: 0B2L5eVrXbcDKRmdxLV9uLUNsM2M
+  title: "Hukwe Ubi Zawose - Tuna Haki Ya Kujivunia Utamaduni Wetu"
+- 
+  date: "2013-01-12"
   description: "Check this guy on [Youtube](http://www.youtube.com/results?search_query=Ionic%C4%83+Minune)"
-  file: "Ionica-Minune-Sarba-oltenilor.mp3"
-  date: "2013-01-12 00:00:00"
--
-  title: "Ion Petre Stoican - Sarba"
+  file: Ionica-Minune-Sarba-oltenilor.mp3
+  google_art_id: 0B2L5eVrXbcDKNlhZRWNYOVExNGM
+  google_mp3_id: 0B2L5eVrXbcDKcFVTOGxEeVJnZG8
+  title: "Ionica Minune - Sarba oltenilor"
+- 
+  date: "2013-01-11"
   description: "From the awesome [Sounds from a bygone age](http://www.asphalt-tango.de/shop/shop/artikel.php?c=150) series."
-  file: "Ion-Petre-Stoican-Sarba.mp3"
-  date: "2013-01-11 00:00:00"
--
-  title: "Easy Did It"
+  file: Ion-Petre-Stoican-Sarba.mp3
+  google_art_id: 0B2L5eVrXbcDKTmdfNE53YnNGclU
+  google_mp3_id: 0B2L5eVrXbcDKZkxuV3BOc2lvTjA
+  title: "Ion Petre Stoican - Sarba"
+- 
+  date: "2013-01-10"
   description: "From Critical Mass (2006) by the Dave Holland Quintet."
-  file: "Dave-Holland-Quintet-Easy-Did-It.mp3"
-  date: "2013-01-10 00:00:00"
--
-  title: "Munyamaye"
+  file: Dave-Holland-Quintet-Easy-Did-It.mp3
+  google_art_id: 0B2L5eVrXbcDKdG4tX2VISXJZZWs
+  google_mp3_id: 0B2L5eVrXbcDKaUxadWlDdWdXUXM
+  title: "Easy Did It"
+- 
+  date: "2013-01-08"
   description: "From Chibite (1996) by Hukwe Zawose"
-  file: "Hukwe-Zawose-Munyamaye.mp3"
-  date: "2013-01-08 00:00:00"
--
-  title: "Mallets in the Air"
+  file: Hukwe-Zawose-Munyamaye.mp3
+  google_art_id: 0B2L5eVrXbcDKV2ZxUkMtVmpnLVk
+  google_mp3_id: 0B2L5eVrXbcDKVzB3SUNPOTlyYVU
+  title: Munyamaye
+- 
+  date: "2013-01-06"
   description: "From Cold Blue Two by James Tenney."
-  file: "James-Tenney-Mallets-in-the-Air.mp3"
-  date: "2013-01-06 00:00:00"
--
-  title: "Sky With Four Suns"
+  file: James-Tenney-Mallets-in-the-Air.mp3
+  google_art_id: 0B2L5eVrXbcDKS1dqN2poUUMwa2c
+  google_mp3_id: 0B2L5eVrXbcDKNmUyR3R5c201ZGs
+  title: "Mallets in the Air"
+- 
+  date: "2012-12-31"
   description: "From Cold Blue Two by John Luther Adams"
-  file: "John-Luther-Adams-Sky-With-Four-Suns.mp3"
-  date: "2012-12-31 00:00:00"
--
-  title: "Sambolero"
+  file: John-Luther-Adams-Sky-With-Four-Suns.mp3
+  google_art_id: 0B2L5eVrXbcDKQWl1a096WGQ2bE0
+  google_mp3_id: 0B2L5eVrXbcDKaDRDVF9NbzZLR1k
+  title: "Sky With Four Suns"
+- 
+  date: "2012-12-13"
   description: "From Genios do Violao by Luiz Bonfá"
-  file: "Luis-Bonfa-Sambolero.mp3"
-  date: "2012-12-13 00:00:00"
--
-  title: "4 Mains"
+  file: Luis-Bonfa-Sambolero.mp3
+  google_art_id: 0B2L5eVrXbcDKMnp3M2t5S0dWTnc
+  google_mp3_id: 0B2L5eVrXbcDKTlRZQWNldEtyVms
+  title: Sambolero
+- 
+  date: "2012-12-10"
   description: "From Vergessen by Wim Mertens / Soft Verdict and Belly of an Architect soudtrack"
-  file: "Wim-Mertens-4-Mains.mp3"
-  date: "2012-12-10 00:00:00"
--
-  title: "Anestis Logothetis - Evektion [1968]"
+  file: Wim-Mertens-4-Mains.mp3
+  google_art_id: 0B2L5eVrXbcDKM0daY2tEa3FNUDg
+  google_mp3_id: 0B2L5eVrXbcDKdW5mcG1FUFBIUVU
+  title: "4 Mains"
+- 
+  date: "2012-12-07"
   description: "From the album Anestis Logothetis Volume 1 (where are the others?)"
-  file: "Anestis-Logothetis-Evektion-1968.mp3"
-  date: "2012-12-07 00:00:00"
--
-  title: "Beverly Kelly - Lover Come Back To Me"
+  file: Anestis-Logothetis-Evektion-1968.mp3
+  google_art_id: 0B2L5eVrXbcDKREExdEpaT0h0Q2M
+  google_mp3_id: 0B2L5eVrXbcDKZkNGay1wSDJDTGM
+  title: "Anestis Logothetis - Evektion [1968]"
+- 
+  date: "2012-12-02"
   description: "Beverly Kelly singing with the Pat Moran trio (with Scott la Faro on bass)"
-  file: "Beverly-Kelly-Lover-Come-Back-To-Me.mp3"
-  date: "2012-12-02 00:00:00"
--
-  title: "Clive Palmer - Lament for Shelley"
+  file: Beverly-Kelly-Lover-Come-Back-To-Me.mp3
+  google_art_id: 0B2L5eVrXbcDKOVpTakhGZlAzdjA
+  google_mp3_id: 0B2L5eVrXbcDKOXgybTRIckRPdG8
+  title: "Beverly Kelly - Lover Come Back To Me"
+- 
+  date: "2012-11-30"
   description: "From [All Roads Lead to Land](http://www.amazon.co.uk/gp/product/B00030CHH6/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00030CHH6&linkCode=as2&tag=bjorsq-21)"
-  file: "Clive-Palmer-Lament-for-Shelley.mp3"
-  date: "2012-11-30 00:00:00"
--
-  title: "Famoudou Konaté - Kadan"
+  file: Clive-Palmer-Lament-for-Shelley.mp3
+  google_art_id: 0B2L5eVrXbcDKWTdrSGFhdlhxTkk
+  google_mp3_id: 0B2L5eVrXbcDKNjRVa1BIV1p4TDg
+  title: "Clive Palmer - Lament for Shelley"
+- 
+  date: "2012-11-21"
   description: "From *Guinée: Percussions et Chants Malinké* (Vol. 1)"
-  file: "Famoudou-Konaté-Kadan.mp3"
-  date: "2012-11-21 00:00:00"
-
+  file: Famoudou-Konaté-Kadan.mp3
+  google_art_id: 0B2L5eVrXbcDKSVE0NlEwUjlaQ2s
+  google_mp3_id: 0B2L5eVrXbcDKeUZnRFNEX3JoZ0E
+  title: "Famoudou Konaté - Kadan"

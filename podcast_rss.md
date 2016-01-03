@@ -8,16 +8,16 @@ permalink: podcast/rss.xml
 	<channel>
 		<title>bjorsq.net podcast</title>
 		<description>highlights from my MP3 player</description>		
-		<link>http://bjorsq.net/podcast/</link>
-		<atom:link href="http://bjorsq.net/podcast/rss.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.bjorsq.net/podcast/</link>
+		<atom:link href="http://www.bjorsq.net/podcast/rss.xml" rel="self" type="application/rss+xml" />
 		{% if site.data.podcast %}
 			{% for episode in site.data.podcast %}
 			<item>				
 				<title>{{ episode.title | xml_escape }}</title>
 				<description>{{ episode.description | xml_escape }}</description>
 				<pubDate>{{ episode.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}</link>
-				<guid isPermaLink="true">https://dl.dropboxusercontent.com/u/5104625/podcast/{{ episode.file }}</guid>
+				<link>http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}</link>
+				<guid isPermaLink="true">http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}</guid>
 			</item>
 			{% endfor %}
 		{% endif %}	

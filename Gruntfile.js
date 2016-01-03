@@ -23,7 +23,7 @@ module.exports = function(grunt) {
 					//'_scripts/scrollspy.js', 
 					//'_scripts/tab.js', 
 					//'_scripts/tooltip.js', 
-					'_scripts/treansition.js',
+					'_scripts/transition.js',
 					'_scripts/fancybox/source/jquery.fancybox.pack.js',
 					'_scripts/fancybox/source/helpers/jquery.fancybox-media.js',
 					'_scripts/flickr.js', 
@@ -99,14 +99,14 @@ module.exports = function(grunt) {
 		watch: {
 			less: {
 				files: ['_less/*.less'],
-				tasks: ['less:theme', 'less:site', 'less:dev', 'jekyll:comp']
+				tasks: ['css', 'jekyll:comp']
 			},
 			uglify: {
 				files: ['_scripts/*.js'],
-				tasks: ['concat:js', 'uglify:theme', 'uglify:site', 'jekyll:comp']
+				tasks: ['js', 'jekyll:comp']
 			},
 			jekyll: {
-				files: ['_includes/themes/bjorsq/*.html', '_layouts/*.html', '_posts/**/*.md', '*.md'],
+				files: ['_includes/themes/bjorsq/*.html', '_da/*.html', '_layouts/*.html', '_posts/**/*.md', '*.md'],
 				tasks: ['jekyll:comp']
 			}
 		}
@@ -121,6 +121,9 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-banner');
 
 	// Default task(s).
-	grunt.registerTask('default', ['less:production', 'concat:js', 'uglify:producton']);
+	grunt.registerTask('default', ['watch']);
+	grunt.registerTask('css', ['less:theme', 'less:site', 'less:dev']);
+	grunt.registerTask('js', ['concat:js', 'uglify:theme', 'uglify:site']);
+	grunt.registerTask('build', ['css', 'js', 'jekyll:comp']);
 
 };
