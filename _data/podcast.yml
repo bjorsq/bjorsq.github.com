@@ -1,6 +1,13 @@
 ---
 # bjorsq podcast
 - 
+  date: "2016-02-01"
+  description: "From the album “Cold Blue Two” [1981]"
+  file: David-Rosenboom-Hymn-of-Change.mp3
+  google_art_id: 0B2L5eVrXbcDKTU1qLXFpMDYxNkE
+  google_mp3_id: 0B2L5eVrXbcDKUUFQS0h6SFBlWHM
+  title: "David Rosenboom - Hymn of Change"
+- 
   date: "2016-01-03"
   description: "From the album “Natalia y el Diablo” [1981]"
   file: Juan-Vicente-Torrealba-Barinas.mp3
@@ -716,16 +723,16 @@
   title: Munyamaye
 - 
   date: "2013-01-06"
-  description: "From Cold Blue Two by James Tenney."
+  description: "From the album “Cold Blue Two” by James Tenney."
   file: James-Tenney-Mallets-in-the-Air.mp3
   google_art_id: 0B2L5eVrXbcDKS1dqN2poUUMwa2c
   google_mp3_id: 0B2L5eVrXbcDKNmUyR3R5c201ZGs
   title: "Mallets in the Air"
 - 
   date: "2012-12-31"
-  description: "From Cold Blue Two by John Luther Adams"
+  description: "Part of his *Canticles of the Sky* from the album “The Wind in High Places” by John Luther Adams"
   file: John-Luther-Adams-Sky-With-Four-Suns.mp3
-  google_art_id: 0B2L5eVrXbcDKQWl1a096WGQ2bE0
+  google_art_id: 0B2L5eVrXbcDKdzRzZllqTFB2Wjg
   google_mp3_id: 0B2L5eVrXbcDKaDRDVF9NbzZLR1k
   title: "Sky With Four Suns"
 - 
