@@ -3,7 +3,7 @@
 permalink: /:categories/:title 
 
 exclude: ["README.md", "package.json", "Gruntfile.js", "node_modules", "CNAME"]
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 
 # Themes are encouraged to use these universal variables 
