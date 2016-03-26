@@ -21,7 +21,7 @@ ingredients
 method
 ------
 
-1. Pre-heat the oven to gas mark 4 350&deg;F 180$deg;C
+1. Pre-heat the oven to gas mark 4 / 350&deg;F / 180&deg;C
 2. Cream the butter by beating in a bowl
 3. gradually beat in the sugar
 4. fold the eggs into the butter and sugar mixture with a wooden spoon
