@@ -1,6 +1,41 @@
 ---
 # bjorsq podcast
 - 
+  date: "2016-08-12"
+  description: "From the album “Congotronics 2”"
+  file: Sobanza-Mimanisa-Kiwembo.mp3
+  google_art_id: 0B2L5eVrXbcDKNGh2bGJvTFVmX28
+  google_mp3_id: 0B2L5eVrXbcDKcDNEdnBoT3h6UVk
+  title: "Sobanza Mimanisa - Kiwembo"
+- 
+  date: "2016-07-21"
+  description: "From the album “Quarter-tone pieces”"
+  file: Ivan-Wyschnegradsky-Prelude-IV.mp3
+  google_art_id: 0B2L5eVrXbcDKQS11Z0pqVV8wNVE
+  google_mp3_id: 0B2L5eVrXbcDKajh2ejRNeVJmQXc
+  title: "Ivan Wyschnegradsky- Prelude IV"
+- 
+  date: "2016-06-09"
+  description: "From the compilation album “19 Grandes Exitos”"
+  file: Juan-Vicente-Torrealba-Llanero Apureno.mp3
+  google_art_id: 0B2L5eVrXbcDKc1BPTFNYNUcxUk0
+  google_mp3_id: 0B2L5eVrXbcDKOVZCU2VELUhXYVU
+  title: "Juan Vicente Torrealba - Llanero Apureno.mp3"
+- 
+  date: "2016-05-10"
+  description: "From the album “Congotronics”"
+  file: Konono-Nr1-Paradiso.mp3
+  google_art_id: 0B2L5eVrXbcDKY29sd1JmQUstcjg
+  google_mp3_id: 0B2L5eVrXbcDKd3FQNzB3NTh3cmc
+  title: "Konono Nr. 1 - Paradiso"
+- 
+  date: "2016-04-21"
+  description: "From the album “Quarter-tone pieces”"
+  file: Ivan-Wyschnegradsky-Prelude-XX.mp3
+  google_art_id: 0B2L5eVrXbcDKQmE3NENncXMxSWM
+  google_mp3_id: 0B2L5eVrXbcDKb1B1UUNSRWN3Z00
+  title: "Ivan Wyschnegradsky - Prelude XX"
+- 
   date: "2016-02-01"
   description: "From the album “Cold Blue Two” [1981]"
   file: David-Rosenboom-Hymn-of-Change.mp3
