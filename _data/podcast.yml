@@ -1,6 +1,34 @@
 ---
 # bjorsq podcast
 - 
+  date: "2017-03-02"
+  description: "From the Atomic Mr. Basie"
+  file: Count-Basie-Duet.mp3
+  google_art_id: 0B2L5eVrXbcDKc3F5cmREMm9jcVE
+  google_mp3_id: 0B2L5eVrXbcDKYlVfZkFyeDFIdW8
+  title: "Count Basie - Duet"
+- 
+  date: "2017-02-12"
+  description: "Fom the Reprise Studio recordings set on Mosaic"
+  file: Duke-Ellington-One-OClock-Jump.mp3
+  google_art_id: 0B2L5eVrXbcDKSFVFbHhVaDE5SFU
+  google_mp3_id: 0B2L5eVrXbcDKZ3AwaDgwQ3dZb2c
+  title: "Duke Ellington - One O'Clock Jump"
+- 
+  date: "2017-02-01"
+  description: "From the album Clavierübung"
+  file: Johann-Sebastian-Bach-Partita-No.2-in-C-minor-Rondeaux.mp3
+  google_art_id: 0B2L5eVrXbcDKaHdxbkw2NlJ2OWM
+  google_mp3_id: 0B2L5eVrXbcDKbFN6NXRpQ3hCZjg
+  title: "Johann Sebastian Bach - Partita No.2 in C minor - Rondeaux"
+- 
+  date: "2017-01-12"
+  description: "From the Atomic Mr. Basie"
+  file: Count-Basie-The-Kid-From-Red-Bank.mp3
+  google_art_id: 0B2L5eVrXbcDKc3F5cmREMm9jcVE
+  google_mp3_id: 0B2L5eVrXbcDKSVBtNUY3a2NVYXc
+  title: "Count Basie - The Kid From Red Bank"
+- 
   date: "2016-08-12"
   description: "From the album “Congotronics 2”"
   file: Sobanza-Mimanisa-Kiwembo.mp3
