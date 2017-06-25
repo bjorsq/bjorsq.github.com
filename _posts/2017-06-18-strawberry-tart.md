@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strawberry tart
-excerpt: This tart is really simple to make and very delicious - it swaps out the cr&egrave;me patissiere you normally get with this type of thing with a mixture of cream and yoghurt. 
+excerpt: This tart swaps out the cr&egrave;me patissiere you normally get with a mixture of cream and yoghurt. 
 category: recipes
 photo_id: 35134987790
 tags: [cakes]
