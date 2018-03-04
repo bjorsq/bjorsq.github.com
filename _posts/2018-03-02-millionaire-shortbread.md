@@ -3,6 +3,7 @@ layout: post
 title: Millionaire's Shortbread
 excerpt: Concentrated sugar and butter in a crunchy chewy chocolatey biscuit
 category: recipes
+photo_id: 40565514852
 tags: [cakes]
 ---
 
