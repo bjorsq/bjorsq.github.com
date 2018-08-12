@@ -1,0 +1,28 @@
+ /**
+   * header
+   */
+ 
+.main-header {
+    position: relative;
+    background-image: linear-gradient(to right, $dark-grey 0, $medium-grey 100%);
+    padding: 1rem 2rem;
+}
+
+.main-header:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: transparent url('../img/header-pattern.png') repeat center center;
+}
+
+.main-header_title,
+.main-header_subtitle {
+    color: #fff;
+    margin: 0;
+    position: relative;
+}
+

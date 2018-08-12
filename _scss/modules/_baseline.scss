@@ -1,0 +1,28 @@
+/**
+ * baseline styles
+ */
+
+ *,
+ *:before,
+ *:after {
+     box-sizing: border-box;
+ }
+ 
+/**
+ * content container
+ */
+
+.container {
+    padding: 0 2em;
+}
+
+body {
+    color: $dark-grey;
+    background: $white;
+}
+a, a:visited {
+    color: $link-colour;
+    &:hover, &:active {
+        color: $hover-colour;
+    }
+}

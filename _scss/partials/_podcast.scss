@@ -1,0 +1,37 @@
+.podcast {
+    display:flex;
+    flex-wrap: wrap;
+}
+.episode {
+    flex-grow: 1;
+    min-width:24%;
+    padding:.5em;
+    margin:1em 1% 1em 0;
+    background:#efefef;
+    border:1px solid #ccc;
+    border-radius:.5em;
+    img {
+        float:right;
+        width:50%;
+        max-width:150px;
+        margin:0 0 .5em .5em;
+        height:auto;
+    }
+    .episode_title,
+    .episode_meta,
+    .episode_description {
+        margin:0 0 1em 0;
+    }
+    .episode_title a {
+        text-decoration:none;
+        font-weight:bold;
+    }
+    .episode_meta {
+        font-size:.825rem;
+        font-style:italic;
+    }
+    .episode_description {
+        margin-bottom:0;
+    }
+
+}

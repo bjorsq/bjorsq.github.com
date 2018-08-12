@@ -11,7 +11,7 @@
     <![endif]-->
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-    <link href="{{ ASSET_PATH }}/css/style.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/style.css" rel="stylesheet">
 
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="{{ ASSET_PATH }}/img/icons/favicon.ico">
@@ -23,40 +23,55 @@
 
   <body>
 
-    <div class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main_navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">bjorsq</a>
-        </div>
-        <div class="navbar-collapse collapse" id="main_navbar">
-          <ul class="nav navbar-nav">
-            <li{% if page.title == 'photos' %} class="active"{% endif %}>
-              <a href="/photos">photos</a>
-            </li>
-            <li{% if page.title == 'videos' %} class="active"{% endif %}>
-              <a href="/videos">videos</a>
-            </li>
-            <li{% if page.title == 'podcast' %} class="active"{% endif %}>
-              <a href="/podcast">music</a>
-            </li>
-            <li{% if page.category == 'recipes' %} class="active"{% endif %}>
-              <a href="/recipes">recipes</a>
-            </li>
-            <li{% if page.title == 'curriculum vitae' %} class="active"{% endif %}>
-              <a href="/cv/">CV</a>
-            </li>
+    <nav class="main-nav">
+        <h1 class="logo"><a href="#">bjorsq</a></h1>
+        <a href="#main-menu"
+           role="button"
+           id="main-menu-toggle"
+           class="menu-toggle"
+           aria-expanded="false"
+           aria-controls="main-menu"
+           aria-label="Open main menu">
+      
+          <span class="sr-only">Open main menu</span>
+          <span class="menu-toggle-icon-open" aria-hidden="true">&equiv;</span>
+        </a>
+        
+        
+        <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+          <a href="#main-menu-toggle"
+             role="button"
+             id="main-menu-close"
+             class="menu-close"
+             aria-expanded="false"
+             aria-controls="main-menu"
+             aria-label="Close main menu">
+      
+            <span class="sr-only">Close main menu</span>
+            <span class="menu-toggle-icon-close" aria-hidden="true">&times;</span>
+          </a>
+          <ul>
+            <li><a href="/photos/"{% if page.layout == 'photos' %} class="active"{% endif %}>photos</a></li>
+            <li><a href="/videos/"{% if page.layout == 'videos' %} class="active"{% endif %}>videos</a></li>
+            <li><a href="/podcast/"{% if page.layout == 'podcast' %} class="active"{% endif %}>music</a></li>
+            <li><a href="/recipes/"{% if page.layout == 'recipes' %} class="active"{% endif %}>recipes</a></li>
+            <li><a href="/cv/"{% if page.title == 'curriculum vitae' %} class="active"{% endif %}>CV</a></li>
           </ul>
-        </div>
-      </div>
-    </div>
+        </nav>
+        <a href="#main-menu-toggle"
+           class="backdrop"
+           tabindex="-1"
+           aria-hidden="true" hidden></a>
+      
+      </nav>
+
+    <header class="main-header">
+        <h2 class="main-header_title">bjorsq</h2>
+        <h3 class="main-header_subtitle">{{page.title}}</h3>
+    </header>
 
     {{ content }}
+
 
 
     <footer class="footer">
@@ -65,7 +80,7 @@
       </div>
     </footer>
 
-    <script src="{{ ASSET_PATH }}/js/script.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/script.js"></script>
     {% include JB/analytics %}
     
   </body>

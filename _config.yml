@@ -21,6 +21,11 @@ flickr :
   key : 12a222d6e3f55d6a4cfbce4220bace55
   secret : 925a3c179f5885e8 
 
+#sass
+sass:
+  sass_dir:           _scss
+  style:              compressed
+
 categories: ['blog', 'recipes']
 
 

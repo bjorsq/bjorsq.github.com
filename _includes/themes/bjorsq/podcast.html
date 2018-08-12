@@ -1,24 +1,14 @@
-		<header id="main-header">
-			<div class="container">
-				<h1>bjorsq</h1>
-				<p class="lead"><a href="/podcast/rss.xml" title="Subscribe to RSS feed" class="rss-icon">Subscribe to RSS feed</a>{{page.title}}</p>
-				
-			</div>
-		</header>
-
-		<section>
-			<div class="container">
-			{% if site.data.podcast %}
-				<div id="podcast" class="content">
-				{% for episode in site.data.podcast %}
-					<div class="episode">
-						<h4><a href="http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}">{{ episode.title }}</a></h4>
-						<a href="http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}"><img src="http://docs.google.com/uc?export=open&amp;id={{ episode.google_art_id }}" class="cover"></a>
-						<p class="meta">Posted on {{ episode.date | date_to_long_string}}</p>
-						<p>{{ episode.description | markdownify }}</p>
-					</div>
-				{% endfor %}
-				</div>
-			{% endif %}	
-			</div>
-		</section>
+        <div class="container">
+        {% if site.data.podcast %}
+            <div id="podcast" class="podcast">
+            {% for episode in site.data.podcast %}
+                <div class="episode">
+                    <a href="http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}"><img src="http://docs.google.com/uc?export=open&amp;id={{ episode.google_art_id }}" class="cover"></a>
+                    <p class="episode_title"><a href="http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}">{{ episode.title }}</a></p>
+                    <p class="episode_meta">Posted on {{ episode.date | date_to_long_string}}</p>
+                    <p class="episode_description">{{ episode.description | markdownify }}</p>
+                </div>
+            {% endfor %}
+            </div>
+        {% endif %}	
+        </div>
