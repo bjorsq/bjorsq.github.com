@@ -14,12 +14,15 @@
     margin-left: auto;
     text-decoration: none;
     .menu-toggle-icon-open {
-        font-size:2em;
+		font-size:2em;
+		color: #ccc;
     }
 }
 
 .menu-toggle:hover,
-.menu-toggle:focus {
+.menu-toggle:focus,
+.menu-toggle:hover .menu-toggle-icon-open,
+.menu-toggle:focus .menu-toggle-icon-open {
     color: #fff;
     text-decoration: none;
 }
@@ -70,7 +73,8 @@
 .main-menu a:hover,
 .main-menu a:focus {
     background: #333;
-    text-decoration: underline;
+	text-decoration: underline;
+	color: #fff;
 }
 
 .main-menu .menu-close {
