@@ -28,6 +28,7 @@ sass:
 
 categories: ['blog', 'recipes']
 
+asset_path: /assets/themes/bjorsq
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -87,7 +88,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false 
     google : 
         tracking_id : 'UA-259284-20'
 
