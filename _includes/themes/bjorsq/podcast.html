@@ -3,8 +3,8 @@
             <div id="podcast" class="podcast">
             {% for episode in site.data.podcast %}
                 <div class="episode">
-                    <a href="http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}"><img src="http://docs.google.com/uc?export=open&amp;id={{ episode.google_art_id }}" class="cover"></a>
-                    <p class="episode_title"><a href="http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}">{{ episode.title }}</a></p>
+                    <a href="https://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}"><img src="https://docs.google.com/uc?export=open&amp;id={{ episode.google_art_id }}" class="cover"></a>
+                    <p class="episode_title"><a href="https://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}">{{ episode.title }}</a></p>
                     <p class="episode_meta">Posted on {{ episode.date | date_to_long_string}}</p>
                     <p class="episode_description">{{ episode.description | markdownify }}</p>
                 </div>
