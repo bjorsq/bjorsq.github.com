@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sweet shortcrust pastry
-excerpt: I alwayd forget how to make this.
+excerpt: I always forget how to make this.
 category: recipes
 tags: [cakes]
 ---
