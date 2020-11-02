@@ -1,11 +1,7 @@
         <div class="container">
-            <div id="recipes" class="content">
+            <ul class="bq-list">
             {% for post in site.categories[page.category] %}
-                <article class="recipe">
-                    <header><h4><a href="{{ post.url }}">{{ post:title }}</a></h4></header>
-                    <p>{{ post:excerpt | markdownify }}</p>
-                    <div data-photo-id="{{ post:photo_id }}" class="recipe-photo" data-title="{{ post.title }}" data-thumbsize="Thumbnail"></div>
-                </article>
+                <li><a class="recipe-title" href="{{ post.url }}">{{ post:title }}</a> <span class="recipe-excerpt">{{ post:excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</span></li>
             {% endfor %}
-            </div>
+            </ul>
         </div>

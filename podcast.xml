@@ -2,7 +2,6 @@
 layout: none
 permalink: podcast/rss.xml
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
@@ -14,10 +13,10 @@ permalink: podcast/rss.xml
 			{% for episode in site.data.podcast %}
 			<item>				
 				<title>{{ episode.title | xml_escape }}</title>
-				<description>{{ episode.description | xml_escape }}</description>
+				<description>{{ episode.description | markdownify | strip_html | xml_escape }}</description>
 				<pubDate>{{ episode.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}</link>
-				<guid isPermaLink="true">http://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}</guid>
+				<link>https://podcast.bjorsq.net/{{ episode.file }}</link>
+				<guid isPermaLink="true">https://podcast.bjorsq.net/{{ episode.file }}</guid>
 			</item>
 			{% endfor %}
 		{% endif %}	

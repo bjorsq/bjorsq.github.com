@@ -1,14 +1,10 @@
         <div class="container">
         {% if site.data.podcast %}
-            <div id="podcast" class="podcast">
+            <button onclick="window.location.href='/podcast/rss.xml';" class="rss">RSS</button>
+            <ul class="bq-list">
             {% for episode in site.data.podcast %}
-                <div class="episode">
-                    <a href="https://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}"><img src="https://docs.google.com/uc?export=open&amp;id={{ episode.google_art_id }}" class="cover"></a>
-                    <p class="episode_title"><a href="https://docs.google.com/uc?export=open&amp;id={{ episode.google_mp3_id }}">{{ episode.title }}</a></p>
-                    <p class="episode_meta">Posted on {{ episode.date | date_to_long_string}}</p>
-                    <p class="episode_description">{{ episode.description | markdownify }}</p>
-                </div>
+                <li><a href="https://podcast.bjorsq.net/{{ episode.file }}" class="episode-title">{{ episode.title }}</a> <span class="episode-description">{{ episode.description  | markdownify | remove: '<p>' | remove: '</p>' }}</span> <span class="episode-postedon">Posted {{ episode.date | date_to_long_string}}</span></li>
             {% endfor %}
-            </div>
+            </ul>
         {% endif %}	
         </div>
