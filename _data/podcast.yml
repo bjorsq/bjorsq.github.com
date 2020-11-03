@@ -1,10 +1,76 @@
 ---
 # bjorsq podcast
+---
+- 
+  date: "2020-10-23"
+  description: "from **Yene Mircha** *(2020)*"
+  file: "Hailu-Mergia-Abichu-Nega-Nega.mp3"
+  title: "Hailu Mergia - Abichu Nega Nega"
 -
-  date: "2020-07-16"
+  date: "2020-09-16"
   description: "played by *Café Zimmermann*"
   file: "JSBach-14-Canons.mp3"
-  title: "Bach - 14 Canons on the Goldberg ground"
+  title: "J.S.Bach - 14 Canons on the Goldberg ground"
+- 
+  date: "2020-08-10"
+  description: "played by *Café Zimmermann*"
+  file: "Avison-Concerto-12-Allegro.mp3"
+  title: "Charles Avison - Concerto no. 12 III - Allegro"
+- 
+  date: "2020-08-03"
+  description: "played by *Café Zimmermann*"
+  file: "Avison-Concerto-11-Allegro.mp3"
+  title: "Charles Avison - Concerto no. 11 III - II Allegro"
+- 
+  date: "2020-07-30"
+  description: "played by *Café Zimmermann*"
+  file: "Avison-Concerto-11-Con-affetto.mp3"
+  title: "Charles Avison - Concerto no. 11 I - Con affetto"
+- 
+  date: "2020-07-24"
+  description: "played by *Café Zimmermann*"
+  file: "Avison-Concerto-5-Allegro.mp3"
+  title: "Charles Avison - Concerto no. 5 II - Allegro"
+- 
+  date: "2020-06-10"
+  description: "played by *Café Zimmermann*"
+  file: "Avison-Concerto-5-Largo.mp3"
+  title: "Charles Avison - Concerto no. 5 I - Largo"
+- 
+  date: "2020-06-03"
+  description: "played by *Café Zimmermann*"
+  file: "CPEBach-Sinfonia-Wq182-1-III-Presto.mp3"
+  title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/1 III - Presto"
+- 
+  date: "2020-05-30"
+  description: "played by *Café Zimmermann*"
+  file: "CPEBach-Sinfonia-Wq182-3-III-Allegretto.mp3"
+  title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/3 III - Allegretto"
+- 
+  date: "2020-05-24"
+  description: "played by *Café Zimmermann*"
+  file: "CPEBach-Sinfonia-Wq-182-6-I-Allegro-Di-Molto.mp3"
+  title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/6 I - Allegro Di Molto"
+- 
+  date: "2019-04-12"
+  description: ""
+  file: "James-Tenney-Spectral-Canon-for-Conlon-Nancarrow.mp3"
+  title: "James Tenney - Spectral Canon for Conlon Nancarrow"
+- 
+  date: "2019-04-12"
+  description: "from **Clavierübung**"
+  file: "JSBach-Partita-No.2-in-C-minor-Rondeaux.mp3"
+  title: "Johann Sebastian Bach - Partita No.2 in C minor - Rondeaux"
+- 
+  date: "2019-04-12"
+  description: "from **Monk Alone**"
+  file: "Thelonious-Monk-Im-Confessin.mp3"
+  title: "Thelonious Monk - I'm Confessin' (That I Love You)"
+- 
+  date: "2019-03-20"
+  description: "from **Genios do Violao**"
+  file: "Luiz-Bonfa-Batucada.mp3"
+  title: "Luiz Bonfá - Batucada"
 - 
   date: "2018-12-23"
   description: "from **Rejuvenation** *(1974)*"
@@ -143,7 +209,7 @@
 - 
   date: "2017-10-09"
   description: "from **Vol.2** (Blue Note)"
-  file: "Miles-Davis-Ray's Idea.mp3"
+  file: "Miles-Davis-Rays-Idea.mp3"
   title: "Miles Davis: Ray's Idea"
 - 
   date: "2017-09-12"
