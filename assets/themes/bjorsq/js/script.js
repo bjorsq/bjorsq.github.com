@@ -14,6 +14,38 @@
 			$('#vimeo_wall').append(html);
 		});
 	}
-	/* photo wall */
+	/* podcast */
+	if ($('#podcast').length) {
+		var audioElement = document.createElement('audio');
+		$('#podcast>li').append('<button class="playbutton"></button>');
+		$(document).on('click','.playbutton', function(){
+			$('.playbutton').not(this).removeClass('playing');
+			audioElement.pause();
+			if ( ! $(this).hasClass('playing') ) {
+				var audioURL = $(this).parents('li').find('a').attr('href');
+				if ( audioElement.getAttribute('src') != audioURL ) {
+					audioElement.setAttribute('src', audioURL);
+				}
+				$(this).addClass('playing');
+				audioElement.play();
+			} else {
+				$(this).removeClass('playing');
+			}
+		});
+		/* go to next track (or first) */
+		audioElement.addEventListener('ended', function() {
+			var playButton;
+			if( $('.playing').parents('li').next() ) {
+				audioElement.setAttribute('src', $('.playing').parents('li').next().find('a').attr('href'));
+				playButton = $('.playing').parents('li').next().find('.playbutton');
+			} else {
+				audioElement.setAttribute('src', $('#podcast>li:first').find('a').attr('href'));
+				playButton = $('#podcast>li:first').find('.playbutton');
+			}
+			$('.playbutton').removeClass('playing');
+			playButton.addClass('playing');
+			audioElement.play();
+		}, false);
+	}
 	
 })(jQuery);

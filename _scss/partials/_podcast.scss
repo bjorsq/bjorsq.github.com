@@ -2,32 +2,77 @@
     font-size: .825rem;
 }
 button.rss {
-	position: relative;
-    color: $white;
-    background: $orange;
+    box-sizing: border-box;
+    position: relative;
     padding: 0.5rem 0.5rem .5rem 2rem;
     margin: .5rem 0;
-    border: none;
+    color: $white;
+	font-size: 1rem;
+	font-weight: bold;
+    background: $rss;
+    border: 2px solid $rss;
+    border-radius:.25rem;
+    &:hover,
+    &:active {
+        border-color: $dark-grey;
+    }
+    &:before {
+        box-sizing: border-box;
+		content: " ";
+        display: block;
+        position: absolute;
+        background: transparent;
+        top: .5rem;
+        left: .5rem;
+        width: 1rem;
+        height: 1rem;
+        border: .5rem double $white;
+        border-style: double double none none
+    }
+    &:after {
+        box-sizing: border-box;
+		content: " ";
+        display: block;
+        position: absolute;
+        top: 1.15rem;
+        left: .5rem;
+        width: .35rem;
+        height: .35rem;
+        background: $white;
+    }
 }
-button.rss:before {
-    content: " ";
-	display: block;
-	position: absolute;
-	background: transparent;
-	top: .5rem;
-	left: .5rem;
-    width: 1rem;
-	height: 1rem;
-    border: .5rem double $white;
-	border-style: double double none none
-}
-button.rss:after {
-    content: "";
-	display: block;
-	position: absolute;
-	top: 1.15rem;
-	left: .5rem;
-    width: .35rem;
-	height: .35rem;
-	background: $white;
+button.playbutton {
+    position: relative;
+    margin-left: 1rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    &:after {
+        content: "";
+        position: absolute;
+        top: .25rem;
+        left: .25rem;
+        display: block;
+        border: 0;
+        background: transparent;
+        box-sizing: border-box;
+        width: 0;
+        height: .8rem;
+      
+        border-color: transparent transparent transparent $dark-grey;
+        transition: 100ms all ease;
+        cursor: pointer;
+      
+        // play state
+        border-style: solid;
+        border-width: .4rem 0 .4rem .7rem;
+    }
+  
+    &.playing:after {
+      border-style: double;
+      border-width: 0px 0 0px .7rem;
+    }
+  
+    &:after:hover {
+      border-color: transparent transparent transparent $medium-grey;
+    }
 }
