@@ -35,12 +35,12 @@
 		/* go to next track (or first) */
 		audioElement.addEventListener('ended', function() {
 			var playButton;
-			if( $('.playing').parents('li').next() ) {
+			if( $('.playing').parents('li').is(':last-child') ) {
+				audioElement.setAttribute('src', $('#podcast>li:first-child').find('a').attr('href'));
+				playButton = $('#podcast>li:first-child').find('.playbutton');
+			} else {
 				audioElement.setAttribute('src', $('.playing').parents('li').next().find('a').attr('href'));
 				playButton = $('.playing').parents('li').next().find('.playbutton');
-			} else {
-				audioElement.setAttribute('src', $('#podcast>li:first').find('a').attr('href'));
-				playButton = $('#podcast>li:first').find('.playbutton');
 			}
 			$('.playbutton').removeClass('playing');
 			playButton.addClass('playing');
