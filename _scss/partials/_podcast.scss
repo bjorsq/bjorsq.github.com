@@ -4,7 +4,8 @@
 button.rss {
     box-sizing: border-box;
     position: relative;
-    padding: 0.5rem 0.5rem .5rem 2rem;
+	cursor: pointer;
+    padding: .5rem;
     margin: .5rem 0;
     color: $white;
 	font-size: 1rem;
@@ -16,30 +17,44 @@ button.rss {
     &:active {
         border-color: $dark-grey;
     }
+	padding-left: 1.75rem;
     &:before {
-        box-sizing: border-box;
-		content: " ";
-        display: block;
-        position: absolute;
-        background: transparent;
-        top: .5rem;
-        left: .5rem;
-        width: 1rem;
-        height: 1rem;
-        border: .5rem double $white;
-        border-style: double double none none
-    }
-    &:after {
-        box-sizing: border-box;
-		content: " ";
-        display: block;
-        position: absolute;
-        top: 1.15rem;
-        left: .5rem;
-        width: .35rem;
-        height: .35rem;
-        background: $white;
-    }
+        content: "";
+		display: block;
+		position: absolute;
+		left: .5rem;
+		top: .5rem;
+		width: 1rem;
+		height: 1rem;
+		background-image: radial-gradient(
+			at bottom left,
+			$rss 0,
+			$rss 37%,
+			$white 40%,
+			$white 47%,
+			$rss 50%,
+			$rss 57%,
+			$white 60%,
+			$white 67%,
+			$rss 70%,
+			$rss 100%,
+		);
+		background-position: right -50% bottom -50%;
+		background-repeat: no-repeat;
+		transition: all .3s ease;
+	}
+
+	&:after {
+		content: "";
+		display: block;
+		position: absolute;
+		background: $white;
+		left: .5rem;
+		top: 1.2rem;
+		width: 0.3rem;
+		height: 0.3rem;
+		border-radius: 50%;
+	}
 }
 button.playbutton {
     position: relative;
