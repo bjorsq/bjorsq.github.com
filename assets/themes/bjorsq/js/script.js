@@ -17,7 +17,7 @@
 	/* podcast */
 	if ($('#podcast').length) {
 		var audioElement = document.createElement('audio');
-		$('#podcast>li').append('<button class="playbutton"></button>');
+		$('#podcast>li a').before('<button class="playbutton"></button>');
 		$(document).on('click','.playbutton', function(){
 			$('.playbutton').not(this).removeClass('playing');
 			audioElement.pause();

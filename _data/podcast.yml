@@ -1,82 +1,102 @@
 ---
 - 
   date: "2020-10-23"
-  description: "from **Yene Mircha** *(2020)*"
+  description: "from **Yene Mircha** (2020)"
   file: "Hailu-Mergia-Abichu-Nega-Nega.mp3"
   title: "Hailu Mergia - Abichu Nega Nega"
 -
   date: "2020-09-16"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "JSBach-14-Canons.mp3"
   title: "J.S.Bach - 14 Canons on the Goldberg ground"
 - 
   date: "2020-08-10"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "Avison-Concerto-12-Allegro.mp3"
   title: "Charles Avison - Concerto no. 12 III - Allegro"
 - 
   date: "2020-08-03"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "Avison-Concerto-11-Allegro.mp3"
   title: "Charles Avison - Concerto no. 11 III - II Allegro"
 - 
   date: "2020-07-30"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "Avison-Concerto-11-Con-affetto.mp3"
   title: "Charles Avison - Concerto no. 11 I - Con affetto"
 - 
   date: "2020-07-24"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "Avison-Concerto-5-Allegro.mp3"
   title: "Charles Avison - Concerto no. 5 II - Allegro"
 - 
   date: "2020-06-10"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "Avison-Concerto-5-Largo.mp3"
   title: "Charles Avison - Concerto no. 5 I - Largo"
 - 
   date: "2020-06-03"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "CPEBach-Sinfonia-Wq182-1-III-Presto.mp3"
   title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/1 III - Presto"
 - 
   date: "2020-05-30"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "CPEBach-Sinfonia-Wq182-3-III-Allegretto.mp3"
   title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/3 III - Allegretto"
 - 
   date: "2020-05-24"
-  description: "played by *Café Zimmermann*"
+  description: "played by Café Zimmermann"
   file: "CPEBach-Sinfonia-Wq-182-6-I-Allegro-Di-Molto.mp3"
   title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/6 I - Allegro Di Molto"
 -
+  date: "2019-11-01"
+  description: "from **Steal Away** (1995)"
+  file: "Charlie-Haden-Hank-Jones-Its-Me-O-Lord.mp3"
+  title: "Charlie Haden & Hank Jones: It's Me, O Lord (Standin' In The Need Of Prayer)"
+-
+  date: "2019-10-02"
+  description: "from **Saw Delight** (1977)"
+  file: "Can-Dont-Say-No.mp3"
+  title: "Can: Don't Say No"
+-
+  date: "2019-09-03"
+  description: "played by the Arditti Quartet"
+  file: "Ruth-Crawford-Seeger-String-Quartet.mp3"
+  title: "Ruth Crawford Seeger: String Quartet 1931"
+-
+  date: "2019-08-12"
+  description: "played by the Emerson String Quartet"
+  file: "Béla-Bartók-Quartet-No.2-II-Allegro-molto-capriccioso.mp3"
+  title: "Béla Bartók: String Quartet No.2 - II Allegro molto capriccioso"
+-
   date: "2019-07-21"
-  description: "from *Six Compositions: Quartet** *(1982)*"
+  description: "from **Six Compositions: Quartet** (1982)"
   file: "Anthony-Braxton-Quartet-Composition-No.34.mp3"
   title: "Anthony Braxton Quartet - Composition No.34"
 -
   date: "2019-06-06"
-  description: "featuring *Pharoah Sanders* *(1971)*"
+  description: "featuring Pharoah Sanders (1971)"
   file: "Alice-Coltrane-Journey-In-Satchidananda.mp3"
   title: "Alice Coltrane - Journey In Satchidananda"
 -
   date: "2019-05-25"
-  description: "group led by *Hukwe Zawose* recorded in 1985"
+  description: "group led by Hukwe Zawose (1985)"
   file: "Tanzania-Yetu-Chuo-Chasanaa.mp3"
-  title: Tanzania Yetu - Chuo Chasanaa"
+  title: "Tanzania Yetu - Chuo Chasanaa"
 - 
   date: "2019-05-17"
-  description: ""
+  description: "from **Player Piano 6 - Original Compositions In The Tradition Of Nancarrow**"
   file: "James-Tenney-Spectral-Canon-for-Conlon-Nancarrow.mp3"
   title: "James Tenney - Spectral Canon for Conlon Nancarrow"
 - 
   date: "2019-05-10"
-  description: "played by *Gustav Leonhardt*"
+  description: "played by Gustav Leonhardt"
   file: "JSBach-Partita-No.2-in-C-minor-Rondeaux.mp3"
   title: "Johann Sebastian Bach - Partita No.2 in C minor - Rondeaux"
 - 
   date: "2019-04-22"
-  description: "from **Monk Alone**"
+  description: "from **Monk Alone** (1965)"
   file: "Thelonious-Monk-Im-Confessin.mp3"
   title: "Thelonious Monk - I'm Confessin' (That I Love You)"
 - 
@@ -86,22 +106,22 @@
   title: "Luiz Bonfá - Batucada"
 -
   date: "2019-02-22"
-  description: "from **Pulse Demon** *(1996)*"
+  description: "from **Pulse Demon** (1996)"
   file: "Merzbow-Woodpecker-No.2.mp3"
   title: "Merzbow - Woodpecker No.2"
 -
   date: "2019-01-29"
-  description: "From **Magnetic Mountain** *(2001)*"
+  description: "From **Magnetic Mountain** (2001)"
   file: "Aufgehoben-No-Process-vs-Gary-Smith-Earphoran-Eye.mp3"
   title: "Aufgehoben No Process vs Gary Smith - Earphoran Eye"
 - 
   date: "2018-12-23"
-  description: "from **Rejuvenation** *(1974)*"
+  description: "from **Rejuvenation** (1974)"
   file: "The-Meters-People-say.mp3"
   title: "The Meters: People say"
 - 
   date: "2018-12-17"
-  description: "from **The Meters** *(1969)* - CD only"
+  description: "from **The Meters** (1969) - CD only"
   file: "The-Meters-Soul-Machine.mp3"
   title: "The Meters: Soul Machine"
 - 
@@ -121,7 +141,7 @@
   title: "Gloria Coates: Symphony No.14 - II Jargon - homage to William Billings (1746-1800)"
 - 
   date: "2018-09-18"
-  description: "slightly different version to the one that charted"
+  description: "slightly different version"
   file: "Average-White-Band-Pick-Up-The-Pieces.mp3"
   title: "Average White Band: Pick Up The Pieces"
 - 
@@ -156,12 +176,12 @@
   title: "El Mariachi Tenochtitlan de Heriberto Aceves: Cucurrucucu, Paloma"
 - 
   date: "2018-05-29"
-  description: "*(Danny Boy)*"
+  description: "(Danny Boy)"
   file: "Ben-Johnston-String-Quartet-No.10-IV.-Sprightly-not-too-fast.mp3"
   title: "Ben-Johnston: String Quartet No.10 - IV. Sprightly, not too fast"
 - 
   date: "2018-05-22"
-  description: "from **Jazz Composers Workshop** *(1956)*"
+  description: "from **Jazz Composers Workshop** (1956)"
   file: "Charlie-Mingus-Transeason.mp3"
   title: "Charlie Mingus: Transeason"
 - 
@@ -176,32 +196,32 @@
   title: "Ben Johnston: Gambit - Interlude 2"
 - 
   date: "2018-04-27"
-  description: "from **4, 5 and 6** *(1956)*"
+  description: "from **4, 5 and 6** (1956)"
   file: "Jackie-McLean-Sentimental-Journey.mp3"
   title: "Jackie McLean: Sentimental Journey"
 - 
   date: "2018-04-13"
-  description: "from **Bass Works** by *Dario Calderone*"
+  description: "from **Bass Works** by Dario Calderone"
   file: "James-Tenney-Glissade-Array-(a-rising).mp3"
   title: "James Tenney: Glissade II - Array (a-rising)"
 - 
   date: "2018-03-29"
-  description: "from **Arbor Vitae** by *Quatuor Bozzini*"
+  description: "from **Arbor Vitae** by Quatuor Bozzini"
   file: "James-Tenney-Quintext-II-Clouds-for-Iannis-Xenakis.mp3"
   title: "James Tenney: Quintext II - Clouds for Iannis Xenakis"
 - 
   date: "2018-03-23"
-  description: "from **Jackie's Bag** *(1960)*"
+  description: "from **Jackie's Bag** (1960)"
   file: "Jackie-McLean-Isle-Of-Java.mp3"
   title: "Jackie McLean: Isle Of Java"
 - 
   date: "2018-03-12"
-  description: "from **keyworks** by *Sebastian Borsch*"
+  description: "from **keyworks** by Sebastian Borsch"
   file: "Gérard-Grisey-Anubis.mp3"
   title: "Gérard Grisey - Anubis"
 - 
   date: "2018-03-02"
-  description: "from **Arbor Vitae** by *Quatuor Bozzini*"
+  description: "from **Arbor Vitae** by Quatuor Bozzini"
   file: "James-Tenney-Quintext-IV-Parabolas-and-Hyperbolas-for-Edgard-Varese.mp3"
   title: "James Tenney: Quintext IV - Parabolas and Hyperbolas for Edgard Varese"
 - 
@@ -211,7 +231,7 @@
   title: "John Coltrane: Syeedas Song Flute"
 - 
   date: "2018-01-24"
-  description: "solo harp by *Rhodri Davies*"
+  description: "solo harp by Rhodri Davies"
   file: "Eliane-Radigue-Rhodri-Davies-occam-I.mp3"
   title: "Eliane Radigue: Occam I"
 - 
@@ -221,12 +241,12 @@
   title: "Gérard Grisey: Les espaces accoustiques III - Partiels"
 - 
   date: "2018-01-03"
-  description: "bassoon version by *Michel Tavernier*"
+  description: "bassoon version by Michel Tavernier"
   file: "Giacinto-Scelsi-Maknongan.mp3"
   title: "Giacinto Scelsi: Maknongan"
 - 
   date: "2017-10-20"
-  description: "by the *Ad Libitum* quartet"
+  description: "by the Ad Libitum quartet"
   file: "Maurice-Ravel-String-Quartet-II-Assez-vif.mp3"
   title: "Maurice Ravel: String Quartet II - Assez vif"
 - 
@@ -236,17 +256,17 @@
   title: "Miles Davis: Ray's Idea"
 - 
   date: "2017-09-12"
-  description: "from **Nothing** *(1997)*"
+  description: "from **Nothing** (1997)"
   file: "Owada-The-New-Instrumental-One.mp3"
   title: "Owada: The New Instrumental One"
 - 
   date: "2017-08-21"
-  description: "by *Jeroen Van Veen*"
+  description: "by Jeroen Van Veen"
   file: "Philip-Glass-Etude-for-piano-3-in-A.mp3"
   title: "Philip Glass: Etude for piano 3 in A"
 - 
   date: "2017-07-23"
-  description: "from **Jazz Sahib** *(1957)*"
+  description: "from **Jazz Sahib** (1957)"
   file: "Sahib-Shihab-The-Moors.mp3"
   title: "Sahib Shihab: The Moors"
 - 
@@ -256,7 +276,7 @@
   title: "Thelonious Monk Orchestra: Friday The 13th"
 -
   date: "2017-06-30"
-  description: "from **Phonola** by *Wofgang Heisig*"
+  description: "from **Phonola** by Wofgang Heisig"
   file: "Tom-Johnson-Full-rotation-of-60-notes-through-36-positions.mp3"
   title: "Tom Johnson: Full rotation of 60 notes through 36 positions"
 - 
@@ -306,12 +326,12 @@
   title: "Ivan Wyschnegradsky - Prelude XX"
 - 
   date: "2016-02-01"
-  description: "from **Cold Blue Two** *(1981)*"
+  description: "from **Cold Blue Two** (1981)"
   file: David-Rosenboom-Hymn-of-Change.mp3
   title: "David Rosenboom - Hymn of Change"
 - 
   date: "2016-01-03"
-  description: "from **Natalia y el Diablo** *(1981)*"
+  description: "from **Natalia y el Diablo** (1981)"
   file: Juan-Vicente-Torrealba-Barinas.mp3
   title: "Juan Vicente Torrealba - Barinas"
 - 
@@ -326,47 +346,47 @@
   title: "El Conjunto Tierra Blanca de Chico Barcelata - Maria Chuchena"
 - 
   date: "2015-11-02"
-  description: "from **postcards from heaven** by *Susan Allen*"
+  description: "from **postcards from heaven** by Susan Allen"
   file: James-Tenney-Harmonium-No.3.mp3
   title: "James Tenney - Harmonium No.3"
 - 
   date: "2015-11-02"
-  description: "from **The Folklore of Mexico**, *Volume 1*"
+  description: "from **The Folklore of Mexico**, Volume 1"
   file: El-Mariachi-Tenochtitlan-de-Heriberto-Aceves-La-Negra.mp3
   title: "El Mariachi Tenochtitlan de Heriberto Aceves - La Negra"
 - 
   date: "2014-11-15"
-  description: "from **U.S. Choice** by piano duet *Double Edge*"
+  description: "from **U.S. Choice** by piano duet Double Edge"
   file: James-Tenney-Chromatic-Canon.mp3
   title: "James Tenney - Chromatic Canon (1980-83)"
 - 
   date: "2014-11-08"
-  description: "with *Cuarteto Patria* from the album **Son de Oriente** *(2001)*"
+  description: "with Cuarteto Patria from the album **Son de Oriente** (2001)"
   file: Eliades-Ochoa-Teje-que-teje.mp3
   title: "Eliades Ochoa - Teje que teje"
 - 
   date: "2014-11-01"
-  description: "by the *Ensemble InterContemporain* with *Pierre Boulez*"
+  description: "by the Ensemble InterContemporain with Pierre Boulez"
   file: Arnold-Schoenberg-Suite-op.29-iii-thema-mit-variationen.mp3
   title: "Arnold Schoenberg - Suite Op.29 - III Thema mit variationen"
 - 
   date: "2014-10-25"
-  description: "from **AromA** *(2003)*"
+  description: "from **AromA** (2003)"
   file: Kalman-Balogh-Vizeses-szirba.mp3
   title: "Kálmán Balogh - Vizeses-szirba (Waterfall Sirba)"
 - 
   date: "2014-10-18"
-  description: "from **Internal Combustion** with *Layne Redmond* *(1985)*"
+  description: "from **Internal Combustion** with Layne Redmond (1985)"
   file: Glen-Velez-Bendir.mp3
   title: "Glen Velez - Bendir"
 - 
   date: "2014-10-11"
-  description: "from **Cuidadito Compay Gallo... Que Llego el Perico** *(2001)*"
+  description: "from **Cuidadito Compay Gallo... Que Llego el Perico** (2001)"
   file: Eliades-Ochoa-Quel-lio-compay-Andres.mp3
   title: "Eliades Ochoa - Quel lio compay Andres"
 - 
   date: "2014-10-04"
-  description: "by *Karl Richter* (harpsichord)"
+  description: "by Karl Richter (harpsichord)"
   file: Johann-Sebastian-Bach-Goldberg-Variations-nr.28.mp3
   title: "Johann Sebastian Bach - Goldberg Variations Nr.28"
 - 
@@ -381,67 +401,67 @@
   title: "Paco de Lucía and Ramón de Algeciras - Pepa Banderas"
 - 
   date: "2014-09-13"
-  description: "Camarón and Paco de Lucia from **Canastera** *(1972)*"
+  description: "Camarón and Paco de Lucia from **Canastera** (1972)"
   file: Camarón-Canastera.mp3
   title: "Camarón de la Isla - Canastera"
 - 
   date: "2014-09-06"
-  description: "Camarón, Paco de Lucia and Ramon de Algeciras from **Cada vez que nos miramos** *(1970)*"
+  description: "Camarón, Paco de Lucia and Ramon de Algeciras from **Cada vez que nos miramos** (1970)"
   file: Camarón-La-andan-hablando.mp3
   title: "Camarón de la Isla - La andan hablando"
 - 
   date: "2014-08-30"
-  description: "from **Hecho en Cuba** *(2002)*"
+  description: "from **Hecho en Cuba** (2002)"
   file: Rubén-González-Fabiando.mp3
   title: "Rubén González - Fabiando"
 - 
   date: "2014-08-23"
-  description: "from **Chanchullo** *(2000)*"
+  description: "from **Chanchullo** (2000)"
   file: Rubén-González-Pa-Gozar.mp3
   title: "Rubén González - Pa‘ Gozar"
 - 
   date: "2014-08-16"
-  description: "from **El Juicio** *(1975)*"
+  description: "from **El Juicio** (1975)"
   file: Keith-Jarrett-Pardon-My-Rags.mp3
   title: "Keith Jarrett - Pardon My Rags"
 - 
   date: "2014-08-09"
-  description: "from **The Best of the Sixties** *(1969)*"
+  description: "from **The Best of the Sixties** (1969)"
   file: Tito-Puente-Babarabatiri.mp3
   title: "Tito Puente - Babarabatiri"
 - 
   date: "2014-08-02"
-  description: "from **Baro Biao - World Wide Wedding** *(1999)*"
+  description: "from **Baro Biao - World Wide Wedding** (1999)"
   file: Fanfare-Ciocărlia-Sîrba-de-la-laşi.mp3
   title: "Fanfare Ciocărlia - Sîrba de la laşi"
 - 
   date: "2014-07-26"
-  description: "from **The Complete Bluebird recordings** *(1956)*"
+  description: "from **The Complete Bluebird recordings** (1956)"
   file: George-Russell-Concerto-For-Billy-The-Kid.mp3
   title: "George Russell - Concerto For Billy The Kid"
 - 
   date: "2014-07-19"
-  description: "from **Baro Biao - World Wide Wedding** *(1999)*"
+  description: "from **Baro Biao - World Wide Wedding** (1999)"
   file: Fanfare-Ciocărlia-Tiganeasca.mp3
   title: "Fanfare Ciocărlia - Tiganeasca"
 - 
   date: "2014-07-12"
-  description: "from **Musiques de Tziganes de Roumanie** *(1991)*"
+  description: "from **Musiques de Tziganes de Roumanie** (1991)"
   file: Taraf-de-Haidouks-Sirba-lui-Mitica-Gindac.mp3
   title: "Taraf de Haïdouks - Sirba lui Mitica Gindac"
 - 
   date: "2014-07-05"
-  description: "from **Musiques de Tziganes de Roumanie** *(1991)*"
+  description: "from **Musiques de Tziganes de Roumanie** (1991)"
   file: Taraf-de-Haidouks-Sirba-de-la-Golasci.mp3
   title: "Taraf de Haïdouks - Sirba de la Golasci"
 - 
   date: "2014-06-28"
-  description: "from **Australia: Songs of the Aborigines and Traditional Music of Papua New Guniea** *(1963)*"
+  description: "from **Australia: Songs of the Aborigines and Traditional Music of Papua New Guniea** (1963)"
   file: Didjeridu-Solo-a-Trial-And-a-Crying-Child-.mp3
   title: "Didjeridu Solo a Trial And a Crying Child"
 - 
   date: "2014-06-21"
-  description: "by *Café Zimmermann*"
+  description: "by Café Zimmermann"
   file: Concerto-For-2-Violins-Strings-Continuo-In-D-Minor-II-Largo-ma-non-tanto.mp3
   title: "Concerto For 2 Violins, Strings & Continuo In D Minor ('Double') II. Largo ma non tanto"
 - 
@@ -511,17 +531,17 @@
   title: "Duke Ellington - Lets Get Together"
 - 
   date: "2014-02-24"
-  description: "by *Helena Bugallo* and *Amy Williams* (two pianos, four hands)"
+  description: "by Helena Bugallo and Amy Williams (two pianos, four hands)"
   file: Conlon-Nancarrow-Study-for-Player-Piano-No-44.mp3
   title: "Conlon Nancarrow - Study for Player Piano No. 44"
 - 
   date: "2014-02-17"
-  description: "from **The Orphan's Lament** *(1994)*"
+  description: "from **The Orphan's Lament** (1994)"
   file: Huun-Huur-Tu-Aa-Shuu-Dekei-Oo.mp3
   title: "Huun Huur Tu - Aa-Shuu Dekei-Oo"
 - 
   date: "2014-02-12"
-  description: "from the soundtrack to *Amarcord*"
+  description: "from the soundtrack to Amarcord"
   file: Nino-Rota-Ti-ricordi-di-siboney.mp3
   title: "Nino Rota - Ti ricordi di siboney"
 - 
@@ -531,7 +551,7 @@
   title: "Silvestre Revueltas - Hommage a Garcia Lorca - III Son"
 - 
   date: "2014-01-20"
-  description: "played by *Edgar Krapp* on the organ of the Basilika Waldasassen"
+  description: "played by Edgar Krapp on the organ of the Basilika Waldasassen"
   file: OlivierMessaien-Apparition-de-l-eglise-eternelle.mp3
   title: "Olivier Messaien - Apparition de l'eglise eternelle"
 - 
@@ -541,12 +561,12 @@
   title: "Chick Corea, Miroslav Vitous and Roy Haynes - Eronel"
 - 
   date: "2014-01-07"
-  description: "from **The Meters** *(1969)*"
+  description: "from **The Meters** (1969)"
   file: The-Meters-Art.mp3
   title: "The Meters - Art"
 - 
   date: "2013-12-20"
-  description: "Played by *Richard Zimmermann*"
+  description: "Played by Richard Zimmermann"
   file: Scott-Joplin-Magnetic-Rag.mp3
   title: "Scott Joplin - Magnetic Rag"
 - 
@@ -571,12 +591,12 @@
   title: "Pauline Oliveros - I of IV"
 - 
   date: "2013-11-16"
-  description: "Played by *Richard Zimmermann*"
+  description: "Played by Richard Zimmermann"
   file: Scott-Joplin-The-Ragtime-Dance.mp3
   title: "Scott Joplin - The Ragtime Dance"
 - 
   date: "2013-11-09"
-  description: "played by *Ensemble Recherche*"
+  description: "played by Ensemble Recherche"
   file: VortexTemporum.mp3
   title: "Gérard Grisey - Vortex Temporum"
 - 
@@ -586,7 +606,7 @@
   title: "Brotzmann Van Hove Bennink - Nr.7"
 - 
   date: "2013-10-26"
-  description: "*bass clarinet*"
+  description: "bass clarinet"
   file: Peter-Brotzmann-Love-poem-Nr.4-bass-clarinet.mp3
   title: "Peter Brotzmann - Love poem Nr.4"
 - 
@@ -616,7 +636,7 @@
   title: "Ornette Coleman Quartet - Ecars"
 - 
   date: "2013-09-14"
-  description: "from **Cinq Quatuors Espagnols** by the *Arditti String Quartet*"
+  description: "from **Cinq Quatuors Espagnols** by the Arditti String Quartet"
   file: Rafael-Angel-Mira-Fornes-Caramelos-para-Zoe.mp3
   title: "Rafael Angel Mira Fornes - Caramelos para Zoe"
 - 
@@ -626,7 +646,7 @@
   title: "Roscoe Mitchell & The Note Factory - Count-Off"
 - 
   date: "2013-08-30"
-  description: "from **A Morning in Paris** *(1962)*"
+  description: "from **A Morning in Paris** (1962)"
   file: Sathima-Bea-Benjamin-Darn-That-Dream.mp3
   title: "Sathima Bea Benjamin - Darn That Dream"
 - 
@@ -661,7 +681,7 @@
   title: "Art Ensemble of Chicago - Tech Ritter and the Megabytes"
 - 
   date: "2013-07-06"
-  description: "with *Mauricio Einhorn* on harmonica"
+  description: "with Mauricio Einhorn on harmonica"
   file: Baden-Powell-Apêlo.mp3
   title: "Baden Powell - Apêlo"
 - 
@@ -811,7 +831,7 @@
   title: "Ion Petre Stoican - Sarba"
 - 
   date: "2013-01-10"
-  description: "from **Critical Mass** *(2006)*"
+  description: "from **Critical Mass** (2006)"
   file: Dave-Holland-Quintet-Easy-Did-It.mp3
   title: "Dave Holland Quintet - Easy Did It"
 - 
@@ -856,6 +876,6 @@
   title: "Clive Palmer - Lament for Shelley"
 - 
   date: "2012-11-21"
-  description: "from **Guinée: Percussions et Chants Malinké** *(Vol. 1)*"
+  description: "from **Guinée: Percussions et Chants Malinké** (Vol. 1)"
   file: Famoudou-Konaté-Kadan.mp3
   title: "Famoudou Konaté - Kadan"

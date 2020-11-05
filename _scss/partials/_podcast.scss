@@ -1,15 +1,12 @@
-.episode-postedon {
-    font-size: .825rem;
-}
 button.rss {
     box-sizing: border-box;
     position: relative;
-	cursor: pointer;
+    cursor: pointer;
     padding: .5rem;
-    margin: .5rem 0;
+    margin: 1rem 0;
     color: $white;
-	font-size: 1rem;
-	font-weight: bold;
+    font-size: 1rem;
+    font-weight: bold;
     background: $rss;
     border: 2px solid $rss;
     border-radius:.25rem;
@@ -17,50 +14,72 @@ button.rss {
     &:active {
         border-color: $dark-grey;
     }
-	padding-left: 1.75rem;
+    padding-left: 1.75rem;
     &:before {
         content: "";
-		display: block;
-		position: absolute;
-		left: .5rem;
-		top: .5rem;
-		width: 1rem;
-		height: 1rem;
-		background-image: radial-gradient(
-			at bottom left,
-			$rss 0,
-			$rss 37%,
-			$white 40%,
-			$white 47%,
-			$rss 50%,
-			$rss 57%,
-			$white 60%,
-			$white 67%,
-			$rss 70%,
-			$rss 100%,
-		);
-		background-position: right -50% bottom -50%;
-		background-repeat: no-repeat;
-		transition: all .3s ease;
-	}
+        display: block;
+        position: absolute;
+        left: .5rem;
+        top: .5rem;
+        width: 1rem;
+        height: 1rem;
+        background-image: radial-gradient(
+            at bottom left,
+            $rss 0,
+            $rss 37%,
+            $white 40%,
+            $white 47%,
+            $rss 50%,
+            $rss 57%,
+            $white 60%,
+            $white 67%,
+            $rss 70%,
+            $rss 100%,
+        );
+        background-position: right -50% bottom -50%;
+        background-repeat: no-repeat;
+        transition: all .3s ease;
+    }
 
-	&:after {
-		content: "";
-		display: block;
-		position: absolute;
-		background: $white;
-		left: .5rem;
-		top: 1.2rem;
-		width: 0.3rem;
-		height: 0.3rem;
-		border-radius: 50%;
-	}
+    &:after {
+        content: "";
+        display: block;
+        position: absolute;
+        background: $white;
+        left: .5rem;
+        top: 1.2rem;
+        width: 0.3rem;
+        height: 0.3rem;
+        border-radius: 50%;
+    }
+}
+.episode-link,
+.episode-description {
+    display: block;
+    padding-left: 2rem;
+}
+.episode-postedon,
+.episode-description {
+    font-size: .825rem;
+    line-height: .825rem;
+}
+.episode-postedon {
+    display: block;
+    clear: both;
+    border-bottom: 1px solid $light-grey;
+    padding-bottom: .175rem;
+    margin-bottom: .175rem;
+}
+.episode-description {
+    font-style: italic;
 }
 button.playbutton {
     position: relative;
-    margin-left: 1rem;
+    display: block;
+    float: left;
     width: 1.5rem;
     height: 1.5rem;
+    top: .25rem;
     &:after {
         content: "";
         position: absolute;

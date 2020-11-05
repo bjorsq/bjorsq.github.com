@@ -3,7 +3,11 @@
             <button onclick="window.location.href='/podcast/rss.xml';" class="rss">RSS</button>
             <ul id="podcast" class="bq-list">
             {% for episode in site.data.podcast %}
-                <li><a href="https://podcast.bjorsq.net/{{ episode.file }}" class="episode-title">{{ episode.title }}</a> <span class="episode-description">{{ episode.description  | markdownify | remove: '<p>' | remove: '</p>' }}</span> <span class="episode-postedon">Posted {{ episode.date | date_to_long_string}}</span></li>
+                <li>
+                    <span class="episode-postedon">{{ episode.date | date_to_long_string}}</span>
+                    <a href="https://podcast.bjorsq.net/{{ episode.file }}" class="episode-link">{{ episode.title }}</a>
+                    <span class="episode-description">{{ episode.description  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                </li>
             {% endfor %}
             </ul>
         {% endif %}	
