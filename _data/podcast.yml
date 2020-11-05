@@ -49,18 +49,33 @@
   description: "played by *Café Zimmermann*"
   file: "CPEBach-Sinfonia-Wq-182-6-I-Allegro-Di-Molto.mp3"
   title: "Carl Philipp Emanuel Bach - Sinfonia Wq 182/6 I - Allegro Di Molto"
+-
+  date: "2019-07-21"
+  description: "from *Six Compositions: Quartet** *(1982)*"
+  file: "Anthony-Braxton-Quartet-Composition-No.34.mp3"
+  title: "Anthony Braxton Quartet - Composition No.34"
+-
+  date: "2019-06-06"
+  description: "featuring *Pharoah Sanders* *(1971)*"
+  file: "Alice-Coltrane-Journey-In-Satchidananda.mp3"
+  title: "Alice Coltrane - Journey In Satchidananda"
+-
+  date: "2019-05-25"
+  description: "group led by *Hukwe Zawose* recorded in 1985"
+  file: "Tanzania-Yetu-Chuo-Chasanaa.mp3"
+  title: Tanzania Yetu - Chuo Chasanaa"
 - 
-  date: "2019-04-12"
+  date: "2019-05-17"
   description: ""
   file: "James-Tenney-Spectral-Canon-for-Conlon-Nancarrow.mp3"
   title: "James Tenney - Spectral Canon for Conlon Nancarrow"
 - 
-  date: "2019-04-12"
-  description: "from **Clavierübung**"
+  date: "2019-05-10"
+  description: "played by *Gustav Leonhardt*"
   file: "JSBach-Partita-No.2-in-C-minor-Rondeaux.mp3"
   title: "Johann Sebastian Bach - Partita No.2 in C minor - Rondeaux"
 - 
-  date: "2019-04-12"
+  date: "2019-04-22"
   description: "from **Monk Alone**"
   file: "Thelonious-Monk-Im-Confessin.mp3"
   title: "Thelonious Monk - I'm Confessin' (That I Love You)"
@@ -69,6 +84,16 @@
   description: "from **Genios do Violao**"
   file: "Luiz-Bonfa-Batucada.mp3"
   title: "Luiz Bonfá - Batucada"
+-
+  date: "2019-02-22"
+  description: "from **Pulse Demon** *(1996)*"
+  file: "Merzbow-Woodpecker-No.2.mp3"
+  title: "Merzbow - Woodpecker No.2"
+-
+  date: "2019-01-29"
+  description: "From **Magnetic Mountain** *(2001)*"
+  file: "Aufgehoben-No-Process-vs-Gary-Smith-Earphoran-Eye.mp3"
+  title: "Aufgehoben No Process vs Gary Smith - Earphoran Eye"
 - 
   date: "2018-12-23"
   description: "from **Rejuvenation** *(1974)*"
