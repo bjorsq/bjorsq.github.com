@@ -1,6 +1,6 @@
         <div class="container">
         {% if site.data.podcast %}
-            <button onclick="window.location.href='/podcast/rss.xml';" class="rss">RSS</button>
+            <a href="/podcast/rss.xml" class="rss">RSS</a>
             <ul id="podcast" class="bq-list">
             {% for episode in site.data.podcast %}
                 <li>
