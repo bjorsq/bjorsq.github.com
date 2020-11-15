@@ -17,9 +17,25 @@ ul.bq-list {
             color: $medium-grey;
         }
     }
+    .recipe-title {
+        display:block;
+    }
 }
 h3.bq-list-header {
     font-size:1.4rem;
     padding:1rem 0 0 0;
     border-bottom:3px dotted $light-grey;
+}
+.sort-link {
+    text-decoration:none;
+    display:inline-block;
+
+    &:hover {
+        text-decoration:none;
+        border-bottom: 1px solid $grey;
+    }
+    &.sort-active {
+        border-bottom: 1px solid $grey;
+        background: $light-grey;
+    }
 }
