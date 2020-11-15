@@ -3,7 +3,7 @@ layout: post
 title: Vegetarian phad thai
 excerpt: My favourite Thai dish - essential to get the noodles cooked just right - still a bit firm but sticky as well so the peanuts coat them
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

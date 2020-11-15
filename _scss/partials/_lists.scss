@@ -4,7 +4,7 @@
  
 ul.bq-list {
     list-style: none;
-    padding:1rem 0;
+    padding:.5rem 0;
     margin: 0;
     li {
         padding: .5rem 0;
@@ -17,4 +17,8 @@ ul.bq-list {
             color: $medium-grey;
         }
     }
+}
+h3.bq-list-header {
+    padding:1rem 0 0 0;
+    border-bottom:3px dotted $light-grey;
 }

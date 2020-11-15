@@ -3,8 +3,7 @@ layout: post
 title: Muhammara
 excerpt: Anatolian breakfast
 category: recipes
-photo_id: 14498918180
-tags: [dips]
+tag: dips
 ---
 
 I used to get this from out local turkish supermarket in Leytonstone, but since we moved I haven't been able to find it anywhere.

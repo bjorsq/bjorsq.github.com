@@ -3,7 +3,7 @@ layout: post
 title: Cinnamon Swirls
 excerpt: Patrick's breakfast
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

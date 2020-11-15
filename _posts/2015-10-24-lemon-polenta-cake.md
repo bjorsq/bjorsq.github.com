@@ -3,8 +3,7 @@ layout: post
 title: Lemon Polenta cake
 excerpt: Lovely gluten-free cake with lots of lemon flavours
 category: recipes
-photo_id: 
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

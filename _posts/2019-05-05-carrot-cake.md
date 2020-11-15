@@ -3,7 +3,7 @@ layout: post
 title: Carrot cake
 excerpt: Paul Hollywood’s ultimate carrot cake
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

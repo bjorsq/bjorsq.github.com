@@ -3,7 +3,7 @@ layout: post
 title: Lamb tagine
 excerpt: heady, meaty stew with spices
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

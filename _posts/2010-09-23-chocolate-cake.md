@@ -3,7 +3,7 @@ layout: post
 title: Chocolate cake
 excerpt: This makes a rich fudgey chocolate cake which is made mainly from sugar and butter, and keeps gooey for a week or so (if it lasts that long). I couldn't believe how little flour was in the recipe!
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

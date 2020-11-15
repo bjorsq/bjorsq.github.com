@@ -3,7 +3,7 @@ layout: post
 title: Date and Walnut Cake
 excerpt: Made this cake for Bob's birthday - adapted from a recipe by delia with addition of buttercream filling.
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

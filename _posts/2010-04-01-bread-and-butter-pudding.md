@@ -3,7 +3,7 @@ layout: post
 title: Bread and butter pudding
 excerpt: Overdone the bread shop? Use your spare stale (or fresh) bread, bagels etc. to make a deliciously light pudding.
 category: recipes
-tags: [cakes]
+tag: puddings
 ---
 
 ingredients

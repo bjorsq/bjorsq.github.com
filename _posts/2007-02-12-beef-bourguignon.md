@@ -3,7 +3,7 @@ layout: post
 title: Beef Bourguignon
 excerpt: A thick, heady stew to warm you up on a cold day
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

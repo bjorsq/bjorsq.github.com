@@ -3,7 +3,7 @@ layout: post
 title: Lemon Drizzle cake
 excerpt: I bake this cake for birthdays, and use another lemon (zest and a little juice) to make a lemon buttercream as topping.
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

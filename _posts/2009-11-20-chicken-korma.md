@@ -2,9 +2,8 @@
 layout: post
 title: Chicken Korma
 excerpt: Substitute quorn chicken style pieces and a bit of veg stock for a vegetarian version
-tags: [mains]
+tag: mains
 category: recipes
-image: chicken.korma.jpg
 ---
 
 ingredients

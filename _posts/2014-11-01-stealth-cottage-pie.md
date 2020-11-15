@@ -3,8 +3,7 @@ layout: post
 title: Stealth Cottage Pie
 excerpt: Potato cakes stuffed with mince and pine nuts (from a recipe by Moro)
 category: recipes
-photo_id: 
-tags: [mains]
+tag: mains
 ---
 
 ingredients

@@ -3,8 +3,7 @@ layout: post
 title: Baked Lemon Cheesecake
 excerpt: I've been trying to perfect this recipe for a while&hellip;
 category: recipes
-photo_id: 
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

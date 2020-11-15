@@ -3,7 +3,7 @@ layout: post
 title: Cheesecake
 excerpt: This Cheesecake is really simple to make and very delicious. Add some home made fruit compote, jam, or fresh fruit on the top to really set it off.
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

@@ -3,8 +3,7 @@ layout: post
 title: Sweet potato crescents
 excerpt: Got this recipe from the Guardian weekend magazine - they are empanadas essentially. Turned out a bit dry when baked, so I'd recommend frying them.
 category: recipes
-tags: [sides]
-image: sweet-potato-crescents.jpg
+tag: sides
 ---
 
 ingredients

@@ -3,8 +3,7 @@ layout: post
 title: Moroccan vegetable stew
 excerpt: A thick and fragrant stew heady with spices, apricots, and lemon zest, but with its protein coming from chickpeas instead of meat.
 category: recipes
-tags: [mains]
-image: moroccan-vegetable-stew.jpg
+tag: mains
 ---
 
 ingredients

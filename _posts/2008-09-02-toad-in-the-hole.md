@@ -3,7 +3,7 @@ layout: post
 title: Toad in the hole
 excerpt: All time favourite way of eating sausages
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

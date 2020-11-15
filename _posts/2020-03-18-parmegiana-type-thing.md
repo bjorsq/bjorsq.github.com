@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Aubergine Parmegiana type thing
+title: Aubergine Parmegiana (type thing)
 excerpt: Based on an experience I had at Hackney City Farm
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

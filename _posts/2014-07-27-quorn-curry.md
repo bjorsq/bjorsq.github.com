@@ -3,8 +3,7 @@ layout: post
 title: Quorn curry
 excerpt: Creamy mild curry with tomatoes and coconut
 category: recipes
-photo_id: 
-tags: [mains]
+tag: mains
 ---
 
 ingredients

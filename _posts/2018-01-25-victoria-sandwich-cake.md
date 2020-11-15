@@ -3,7 +3,7 @@ layout: post
 title: Victoria Sandwich Cake
 excerpt: Traditional cake never lets you down
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

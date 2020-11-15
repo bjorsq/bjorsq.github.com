@@ -3,7 +3,7 @@ layout: post
 title: Bara Brith
 excerpt: Welsh fruitcake - lovely with butter and a nice cup of tea
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

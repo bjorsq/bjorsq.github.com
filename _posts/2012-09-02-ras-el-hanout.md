@@ -2,7 +2,7 @@
 layout: post
 title: Ras el Hanout
 category: recipes
-tags: [spices]
+tag: spices
 ---
 
 This is the blend of spices I use in tagines and stews to give them a moroccan type flavour

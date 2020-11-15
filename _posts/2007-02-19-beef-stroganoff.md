@@ -3,7 +3,7 @@ layout: post
 title: Beef stroganoff
 excerpt: The key to this dish is getting hold of some really good quality steak (rump or sirloin) to make it from
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

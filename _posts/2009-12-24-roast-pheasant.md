@@ -3,7 +3,7 @@ layout: post
 title: Roast Pheasant
 excerpt: This is what we are having on Christmas Day 2009 - pheasant with piggy flavours.
 category: recipes
-tags: [mains]
+tag: mains
 ---
 
 ingredients

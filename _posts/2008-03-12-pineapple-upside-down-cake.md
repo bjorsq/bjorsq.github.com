@@ -3,7 +3,7 @@ layout: post
 title: Pineapple upside-down cake
 excerpt: It's totally the wrong way up!
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

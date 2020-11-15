@@ -3,7 +3,7 @@ layout: post
 title: Fruit cobbler
 excerpt: alternative to crumble
 category: recipes
-tags: [puddings]
+tag: puddings
 ---
 
 ingredients

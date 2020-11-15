@@ -3,7 +3,7 @@ layout: post
 title: Rice pudding
 excerpt: Baked rice pudding recipe for when you need to use up some milk.
 category: recipes
-tags: [cakes]
+tag: puddings
 ---
 
 ingredients

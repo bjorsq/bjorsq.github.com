@@ -3,7 +3,7 @@ layout: post
 title: Quinoa, Feta and Asparagus salad
 excerpt: Most interesting way I've found to eat Quinoa
 category: recipes
-tags: [salads]
+tag: salads
 ---
 
 ingredients

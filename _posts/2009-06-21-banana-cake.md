@@ -3,7 +3,7 @@ layout: post
 title: Banana Cake
 excerpt: Got some unappetising black bananas lurking in the fruit bowl? Make a cake!
 category: recipes
-tags: [cakes]
+tag: cakes
 ---
 
 ingredients

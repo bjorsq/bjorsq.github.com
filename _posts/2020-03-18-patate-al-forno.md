@@ -3,7 +3,7 @@ layout: post
 title: Patate al forno
 excerpt: Italian roast potatoes
 category: recipes
-tags: [mains]
+tag: sides
 ---
 
 ingredients

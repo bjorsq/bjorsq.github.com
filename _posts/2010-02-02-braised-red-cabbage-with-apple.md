@@ -3,7 +3,7 @@ layout: post
 title: Braised red cabbage with apple
 excerpt: Great way to eat red cabbage, and tastes good the day after as well
 category: recipes
-tags: [sides]
+tag: sides
 ---
 
 ingredients

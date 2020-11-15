@@ -47,5 +47,51 @@
 			audioElement.play();
 		}, false);
 	}
+	if($('.bq-list').length){
+		var types = {'cakes':[],'puddings':[],'mains':[],'dips':[],'sides':[],'salads':[],'spices':[]};
+		$('ul.bq-list li').each(function(){
+			types[$(this).data('tags')].push($(this));
+		});
+		$('.bq-list').before('<p>Sort <a href="#" class="sort-az">A-Z</a> or group by <a href="#" class="sort-type">type</a></p>');
+		$(document).on('click', '.sort-az', function(e){
+			e.preventDefault();
+			if ($('.bq-list').length>1) {
+				ungroup();
+			}
+			var sortDescending = $(this).parent().next('.bq-list').hasClass('sorted-asc');
+			var newClass = sortDescending? 'sorted-desc': 'sorted-asc';
+			$('.bq-list').removeClass('sorted-desc').removeClass('sorted-asc').addClass(newClass);
+			sortList($('.bq-list'),sortDescending);
+		});
+		$(document).on('click', '.sort-type', function(e){
+			e.preventDefault();
+			if ($('.bq-list').length>1) {
+				ungroup();
+			} else {
+				$('.bq-list').remove();
+				for(type in types){
+					$('main').append('<h3 class="bq-list-header">'+type.substr(0,1).toUpperCase()+type.substr(1)+'</h3>');
+					$('main').append($('<ul class="bq-list"\>').append(types[type]));
+				}
+			}
+			$('.bq-list').each(function(){
+				sortList($(this));
+			});
+		});
+	}
+	function ungroup(){
+		var newList = $('<ul class="bq-list"/>');
+		newList.append($('.bq-list').children('li').get());
+		$('.bq-list,.bq-list-header').remove();
+		$('main').append(newList);
+	}
+	function sortList(list, sortDescending) {
+		var sortdir = sortDescending? -1: 1;
+		var listitems = list.children('li').get();
+		listitems.sort(function(a, b) {
+   			return sortdir * $(a).data('title').toUpperCase().localeCompare($(b).data('title').toUpperCase());
+		});
+		$.each(listitems, function(idx, itm) { list.append(itm); });
+	}
 	
 })(jQuery);
