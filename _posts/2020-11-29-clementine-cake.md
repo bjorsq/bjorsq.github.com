@@ -40,6 +40,6 @@ method
 5. Pour the mixture into a greased 20cm/8in springform tin (lined with greaseproof if you like).
 6. Cover the tin in foil to prevent the top burning, and place in the centre of the oven. Bake for 1 hour, taking the foil off for the last 10 minutes.
 7. Leave the cake to cool in the tin, and when cool, remove and slice in half.
-7. Make the ganache by either melting the chocolate and beating in the cream and sugar, or by heating the cream and sugar and melting the chocolate in it.
-8. Sandwich the two cake halves with the ganache.
-9. Make the frosting by beating the butter with the cream cheese, then add the vanlla and gradually beat in the sugar. Keep tasting it - youdon't want it to be too sweet! Slart it on the cake.
+8. Make the ganache by either melting the chocolate and beating in the cream and sugar, or by heating the cream and sugar then melting the chocolate in it.
+9. Sandwich the two cake halves with the ganache.
+10. Make the frosting by beating the butter with the cream cheese until smooth, then add the vanilla and gradually beat in the sugar. Slart it on the cake.
