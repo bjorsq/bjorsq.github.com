@@ -33,9 +33,9 @@ for the frosting:
 method
 ------
 
-1. Preheat the oven to gas mark gas mark 5 / 375&deg;F / 180&deg;C
-2. Put the clementines in a pan with cold water and bring to the boil. Simmer for 2 hours.
-3. Drain and leave to cool, then remove the pips and blitz in a food processor (skins and all).
+1. Put the clementines in a pan with cold water and bring to the boil. Simmer for 2 hours.
+2. Drain and leave to cool, then remove the pips and blitz in a food processor (skins and all).
+3. Preheat the oven to gas mark gas mark 5 / 375&deg;F / 180&deg;C
 4. Beat the eggs, then add all the other ingredients.
 5. Pour the mixture into a greased 20cm/8in springform tin (lined with greaseproof if you like).
 6. Cover the tin in foil to prevent the top burning, and place in the centre of the oven. Bake for 1 hour, taking the foil off for the last 10 minutes.
