@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Clementine Cake
-excerpt: A cake by Nigella Lawson with some additions inspired by the Co-op.
+title: Spiced Red Wine Pear and Chocolate Cake
+excerpt: A cake made by John Waite on Steph's Packed Lunch.
 category: recipes
 tag: cakes
 ---
