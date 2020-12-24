@@ -11,7 +11,7 @@ Ingredients
 
 For the Spiced Red Wine Poached Pears
 
-* 600ml dry red wine such as cabernet or merlot
+* 600ml dry red wine
 * 8 Bosc pears
 * 75g cup sugar
 * 3 long strips orange peel
@@ -24,13 +24,13 @@ For the Spiced Red Wine Poached Pears
 For the Cake
 
 * 120g butter melted, plus a bit more for greasing
-* 190g cups all-purpose flour
-* 50g unsweetened cocoa powder
+* 150g all-purpose flour
+* 50g cocoa powder
 * 1 teaspoon baking powder
 * &frac12; teaspoon salt
-* 150g cup granulated sugar
-* 1 large egg room temperature
-* 1 cup spiced red wine
+* 150g granulated sugar
+* 1 large egg
+* 240ml spiced red wine
 * 1 teaspoon pure vanilla extract
 
 For the Chocolate Ganache
