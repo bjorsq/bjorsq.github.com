@@ -22,4 +22,6 @@ method
 2. Put in the oven at 140&deg;C, 275&deg;F, Gas Mark 1.
 2. Stir after 30 minutes - it should be ready in 1.5 - 2 hours
 
-This is a basic recipe, which can be embellished by the use of cream or full fat milk to make it richer, or the addition of lemon zest / cardammon to give a different flavour. The original recipe I took this from adds a bit of brandy and sultanas for an old english type flavour.
+This is a basic recipe, which can be embellished by the use of cream or full fat milk to make it richer, or the addition of lemon zest / cardammon to give a different flavour. The original recipe I took this from adds a bit of brandy and sultanas.
+
+[See vegan version]({% post_url 2021-02-01-vegan-rice-pudding %})
