@@ -12,12 +12,12 @@ ingredients
 * 2 x 15ml tbsp sugar
 * 6 slices pineapple, plus 3 tbsp of the juice
 * 11 glac&eacute; cherries
-* 100g flour
+* 150g flour
 * 1 tsp baking powder
 * &frac14; tsp bicarbonate of soda
-* 100g soft butter
-* 100g caster sugar
-* 2 eggs
+* 150g soft butter
+* 150g caster sugar
+* 3 eggs
 
 method
 ------
