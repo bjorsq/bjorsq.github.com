@@ -3,7 +3,7 @@ layout: post
 title: Strawberry tart
 excerpt: This tart swaps out the cr&egrave;me patissiere you normally get with a mixture of cream and yoghurt. 
 category: recipes
-tag: cakes
+tag: tarts
 ---
 
 ingredients

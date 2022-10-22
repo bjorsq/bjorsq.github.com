@@ -3,7 +3,7 @@ layout: post
 title: Sweet shortcrust pastry
 excerpt: I always forget how to make this.
 category: recipes
-tag: cakes
+tag: pastry
 ---
 
 ingredients

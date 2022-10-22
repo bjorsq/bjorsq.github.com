@@ -3,7 +3,7 @@ layout: post
 title: Apricot frangipane tart
 excerpt: When apricots are in season, this is a great way of bringing out their sharp sweetness. 
 category: recipes
-tag: cakes
+tag: tarts
 ---
 
 ingredients

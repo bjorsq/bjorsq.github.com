@@ -3,7 +3,7 @@ layout: post
 title: Sourdough bread
 excerpt: My slapdash process for baking sourdough
 category: recipes
-tag: sides
+tag: bread
 ---
 
 starter
