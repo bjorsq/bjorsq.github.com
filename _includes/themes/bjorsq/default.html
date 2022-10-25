@@ -6,15 +6,7 @@
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <link href="{{ site.asset_path }}/css/style.css" rel="stylesheet">
-
-    <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="{{ site.asset_path }}/img/icons/favicon.ico">
     <link rel="apple-touch-icon" href="{{ site.asset_path }}/img/icons/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="76x76" href="{{ site.asset_path }}/img/icons/apple-touch-icon-76x76.png">
@@ -52,7 +44,7 @@
             <span class="menu-toggle-icon-close" aria-hidden="true">&times;</span>
           </a>
           <ul>
-            <li><a href="/recipes/"{% if page.layout == 'recipes' %} class="active"{% endif %}>recipes</a></li>
+            <li><a href="/recipes/"{% if page.category == 'recipes' %} class="active"{% endif %}>recipes</a></li>
             <li><a href="/videos/"{% if page.layout == 'videos' %} class="active"{% endif %}>videos</a></li>
             <li><a href="/podcast/"{% if page.layout == 'podcast' %} class="active"{% endif %}>podcast</a></li>
             <li><a href="/cv/"{% if page.title == 'curriculum vitae' %} class="active"{% endif %}>CV</a></li>
