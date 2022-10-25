@@ -71,56 +71,43 @@ window.addEventListener('DOMContentLoaded', event => {
     /* list filters */
     const postList = document.querySelector( '.post-list' );
     if ( postList !== null ) {
-        var tags = {};
-        postList.querySelectorAll( 'li' ).forEach( el => {
-            if ( ! tags.hasOwnProperty( el.getAttribute( 'data-tags' ) ) ) {
-                tags[ el.getAttribute( 'data-tags' ) ] = [];
-            }
-            tags[ el.getAttribute( 'data-tags' ) ].push( el );
-        });
         const sortControls = document.createElement( 'p' );
-        sortControls.innerHTML = 'Sort by <a href="#" class="sort-link sort-date sort-active">date</a>, <a href="#" class="sort-link sort-az">a-z</a> or <a href="#" class="sort-link sort-type">group by type</a>';
+        sortControls.innerHTML = 'Sort by <button class="sort-link sort-datee" data-sortdir="asc">date</button>, <button class="sort-button sort-az" data-sortdir="asc">a-z</button> or <button class="sort-button sort-type" data-sortdir="desc">type</button>';
         postList.parentNode.insertBefore( sortControls, postList );
         document.addEventListener( 'click', event => {
-            if ( event.target.classList.contains( 'sort-date' ) ) {
+            if ( event.target.classList.contains( 'sort-button' ) ) {
                 event.preventDefault();
-                postList.classList.remove( 'sorted-desc', 'sorted-asc' );
+                let sortdir = event.target.getAttribute( 'data-sortdir' ) == 'desc' ? 'asc': 'desc';
+                let sortbool = sortdir == 'desc' ? true: false;
+                document.querySelectorAll( '.sort-button' ).forEach( el => { el.classList.remove( 'sort-active' ); } );
+                event.target.classList.add( 'sort-active' );
+                event.target.setAttribute( 'data-sortdir', sortdir );
                 if ( document.querySelectorAll( '.post-list' ).length > 1 ) {
                     unGroup();
                 }
-                sortList( postList, true, 'date' );
-                document.querySelectorAll( '.sort-link' ).forEach( el => { el.classList.remove( 'sort-active' ); } );
-                document.querySelector( '.sort-az' ).textContent = 'a-z';
-                event.target.classList.add( 'sort-active' );
-            } else if ( event.target.classList.contains( 'sort-az' ) ) {
-                event.preventDefault();
-                let sortDescending = postList.classList.contains( 'sorted-asc' );
-                let newClass = sortDescending? 'sorted-desc': 'sorted-asc';
-                let newText =  sortDescending? 'a-z': 'z-a';
-                postList.classList.remove( 'sorted-desc', 'sorted-asc' );
-                if ( document.querySelectorAll( '.post-list' ).length > 1 ) {
-                    unGroup();
-                }
-                postList.classList.add( newClass );
-                sortList( postList, sortDescending, 'title' );
-                document.querySelectorAll( '.sort-link' ).forEach( el => { el.classList.remove( 'sort-active' ); } );
-                event.target.classList.add( 'sort-active' );
-                event.target.textContent = newText;
-            } else if ( event.target.classList.contains( 'sort-type' ) ) {
-                event.preventDefault();
-                if ( document.querySelectorAll( '.post-list' ).length > 1 ) {
-                    unGroup();
-                } else {
-                    document.querySelectorAll( '.sort-link' ).forEach( el => { el.classList.remove( 'sort-active' ); } );
-                    event.target.classList.add( 'sort-active' );
-					tagarray = [];
-					for ( tag in tags ) {
-						tagarray.push( tag );
-					}
-					tagarray.forEach( tagname => {
-						let tagheader = document.createElement( 'h3' );
-						tagheader.classList.add( 'post-list-header' );
-						tagheader.textContent = tagname.substr(0,1).toUpperCase() + tagname.substr(1);
+                if ( event.target.classList.contains( 'sort-date' ) ) {
+                    sortList( postList, sortbool, 'date' );
+                } else if ( event.target.classList.contains( 'sort-az' ) ) {
+                    event.target.textContent = sortdir == 'asc'? 'z-a': 'a-z';
+                    sortList( postList, sortbool, 'title' );
+                } else if ( event.target.classList.contains( 'sort-type' ) ) {
+                    let tags = {};
+                    let tagarray = [];
+                    postList.querySelectorAll( 'li' ).forEach( el => {
+                        if ( ! tags.hasOwnProperty( el.getAttribute( 'data-tags' ) ) ) {
+                            tags[ el.getAttribute( 'data-tags' ) ] = [];
+                            tagarray.push( el.getAttribute( 'data-tags' ) );
+                        }
+                        tags[ el.getAttribute( 'data-tags' ) ].push( el );
+                    });
+                    tagarray.sort();
+                    if ( ! sortbool ) {
+                        tagarray.reverse();
+                    }
+                    tagarray.forEach( tagname => {
+                        let tagheader = document.createElement( 'h3' );
+                        tagheader.classList.add( 'post-list-header' );
+                        tagheader.textContent = tagname.substr(0,1).toUpperCase() + tagname.substr(1);
                         document.getElementById( 'maincontainer' ).append( tagheader );
                         let taglist = document.createElement( 'ul' );
                         taglist.classList.add( 'post-list' );
@@ -129,7 +116,7 @@ window.addEventListener('DOMContentLoaded', event => {
                         });
                         sortList( taglist, true, 'title' );
                         document.getElementById( 'maincontainer' ).append( taglist );
-                    }
+                    });
                 }
             }
         });
@@ -144,7 +131,7 @@ window.addEventListener('DOMContentLoaded', event => {
         document.querySelectorAll( '.post-list li' ).forEach( el => {
             newList.appendChild( el );
         });
-        document.querySelectorAll( '.post-list,.post-list-header' ).forEach( el => {
+        document.querySelectorAll( '.post-list-header' ).forEach( el => {
             el.remove();
         });
         sortList( newList, true, 'title' );
