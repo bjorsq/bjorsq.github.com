@@ -72,13 +72,13 @@ window.addEventListener('DOMContentLoaded', event => {
     const postList = document.querySelector( '.post-list' );
     if ( postList !== null ) {
         const sortControls = document.createElement( 'p' );
-        sortControls.innerHTML = 'Sort by <button class="sort-link sort-datee" data-sortdir="asc">date</button>, <button class="sort-button sort-az" data-sortdir="asc">a-z</button> or <button class="sort-button sort-type" data-sortdir="desc">type</button>';
+        sortControls.innerHTML = 'Sort by <button class="sort-button sort-date" data-sortdir="desc">date</button>, <button class="sort-button sort-az" data-sortdir="desc">a-z</button> or <button class="sort-button sort-type" data-sortdir="asc">type</button>';
         postList.parentNode.insertBefore( sortControls, postList );
         document.addEventListener( 'click', event => {
             if ( event.target.classList.contains( 'sort-button' ) ) {
                 event.preventDefault();
-                let sortdir = event.target.getAttribute( 'data-sortdir' ) == 'desc' ? 'asc': 'desc';
-                let sortbool = sortdir == 'desc' ? true: false;
+                let sortdir = event.target.getAttribute( 'data-sortdir' ) == 'asc' ? 'desc': 'asc';
+                let sortbool = sortdir == 'asc' ? false: true;
                 document.querySelectorAll( '.sort-button' ).forEach( el => { el.classList.remove( 'sort-active' ); } );
                 event.target.classList.add( 'sort-active' );
                 event.target.setAttribute( 'data-sortdir', sortdir );
@@ -86,14 +86,14 @@ window.addEventListener('DOMContentLoaded', event => {
                     unGroup();
                 }
                 if ( event.target.classList.contains( 'sort-date' ) ) {
-                    sortList( postList, sortbool, 'date' );
+                    sortList( document.querySelector( '.post-list' ), sortbool, 'date' );
                 } else if ( event.target.classList.contains( 'sort-az' ) ) {
                     event.target.textContent = sortdir == 'asc'? 'z-a': 'a-z';
-                    sortList( postList, sortbool, 'title' );
+                    sortList( document.querySelector( '.post-list' ), sortbool, 'title' );
                 } else if ( event.target.classList.contains( 'sort-type' ) ) {
                     let tags = {};
                     let tagarray = [];
-                    postList.querySelectorAll( 'li' ).forEach( el => {
+                    document.querySelectorAll( '.post-list li' ).forEach( el => {
                         if ( ! tags.hasOwnProperty( el.getAttribute( 'data-tags' ) ) ) {
                             tags[ el.getAttribute( 'data-tags' ) ] = [];
                             tagarray.push( el.getAttribute( 'data-tags' ) );
@@ -114,9 +114,10 @@ window.addEventListener('DOMContentLoaded', event => {
                         tags[tagname].forEach( li => {
                             taglist.appendChild( li );
                         });
-                        sortList( taglist, true, 'title' );
+                        sortList( taglist, false, 'title' );
                         document.getElementById( 'maincontainer' ).append( taglist );
                     });
+                    document.querySelector( '.post-list' ).remove();
                 }
             }
         });
@@ -127,15 +128,15 @@ window.addEventListener('DOMContentLoaded', event => {
      */
     function unGroup() {
         var newList = document.createElement( 'ul' );
-        newList.classList.add( 'post-list' );
         document.querySelectorAll( '.post-list li' ).forEach( el => {
             newList.appendChild( el );
         });
-        document.querySelectorAll( '.post-list-header' ).forEach( el => {
+        sortList( newList, true, 'title' );
+        newList.classList.add( 'post-list' );
+        document.querySelectorAll( '.post-list-header, .post-list' ).forEach( el => {
             el.remove();
         });
-        sortList( newList, true, 'title' );
-        postList.appendChild( newList );
+        document.getElementById( 'maincontainer' ).appendChild( newList );
     }
     /**
      * Sorts a list in place by the value found in different data attributes
@@ -144,7 +145,7 @@ window.addEventListener('DOMContentLoaded', event => {
      * @param {string} by - the name of the data attribute to sort by
      */
     function sortList( list, sortDescending, by ) {
-        let sortdir = sortDescending? -1: 1;
+        let sortdir = sortDescending? false: true;
         let sortby = ( by && by === 'date' )? 'date': 'title';
         let listitems = list.querySelectorAll( 'li' );
         /* sort the list items */
@@ -166,6 +167,7 @@ window.addEventListener('DOMContentLoaded', event => {
          * @param {(integer|string)} b second value to sort
          * @returns {integer} -1, 0 or 1
          */
+        console.log(asc);
         return function ( a, b ) {
             /**
              * Main comparison function. Uses isNaN to distinguish between
