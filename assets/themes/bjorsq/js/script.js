@@ -113,8 +113,15 @@ window.addEventListener('DOMContentLoaded', event => {
                 } else {
                     document.querySelectorAll( '.sort-link' ).forEach( el => { el.classList.remove( 'sort-active' ); } );
                     event.target.classList.add( 'sort-active' );
-                    for ( tagname in tags ) {
-                        document.getElementById( 'maincontainer' ).append('<h3 class="post-list-header">'+tagname.substr(0,1).toUpperCase()+tagname.substr(1)+'</h3>');
+					tagarray = [];
+					for ( tag in tags ) {
+						tagarray.push( tag );
+					}
+					tagarray.forEach( tagname => {
+						let tagheader = document.createElement( 'h3' );
+						tagheader.classList.add( 'post-list-header' );
+						tagheader.textContent = tagname.substr(0,1).toUpperCase() + tagname.substr(1);
+                        document.getElementById( 'maincontainer' ).append( tagheader );
                         let taglist = document.createElement( 'ul' );
                         taglist.classList.add( 'post-list' );
                         tags[tagname].forEach( li => {
