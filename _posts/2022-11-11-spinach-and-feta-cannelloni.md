@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spinach and Feta Canneloni
+title: Spinach and Feta Cannelloni
 excerpt: It's totally tubular
 category: recipes
 tag: mains
