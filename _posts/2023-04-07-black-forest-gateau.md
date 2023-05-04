@@ -11,15 +11,16 @@ ingredients
 
 ### chocolate sponges
 
-* 185g plain white flour (or gluten free flour)
-* 105g ground almonds
-* 220ml milk (or oat milk)
-* 40g cocoa powder
-* 75ml boiling water
-* 105g butter (or good quality dairy free alternative) softened
-* 280g caster sugar
-* 2 large eggs
-* 1 tsp vanilla extract
+* 250g plain white flour (or gluten free flour)
+* 2 tsp baking powder
+* 165g ground almonds
+* 400ml milk (or oat milk)
+* 80g cocoa powder
+* 140ml boiling water
+* 210g butter
+* 500g caster sugar
+* 4 large eggs
+* 2 tsp vanilla extract
 
 ### cherry sauce
 
@@ -45,21 +46,18 @@ ingredients
 instructions
 ------------
 
-### chocolate sponges
+### chocolate sponge
 
-1. line the baking tins with good-quality baking paper.
-2. pre-heat the oven to 180 C/350 F/Gas 4.
-3. weigh and mix together the flour, bicarbonate of soda, baking powder, and salt.
-4. weigh or measure the milk into a jug.
-5. sift the cocoa powder into a small bowl. Add the boiling water a little at a time, gently stirring through until you have a smooth paste. Add the vanilla extract.
-6. in a large bowl, cream the butter with the sugar using an electric whisk until pale and fluffy.
-7. break the eggs into a small bowl and beat with a fork to blend, before gradually adding a little at a time to the butter mixture, beating thoroughly between each addition.
-8. fold in the ground almonds using a large spoon or spatula.
-9. add and fold through the dry ingredients and milk mixture, alternating a little dry followed by a little milk (about a third of each at a time). Fold gently to ensure as much air remains as possible and stop when the ingredients are JUST amalgamated to avoid over-mixing.
-10. Split the mixture between the prepared cake tins evenly and smooth the tops with the back of a spoon.
-11. Bake for approximately 30 minutes until the tops spring back and a skewer inserted comes out clean.
-12. Remove from the oven and leave to cool in the tins for 5-10 minutes before turning out onto a wire rack.
-13. Allow to cool completely before filling and decorating
+1. grease and line three 23cm baking tins with baking paper
+2. pre-heat the oven to 180&deg;C / 350&deg;F / gas mark 4
+3. sift the cocoa powder into a small bowl and add the boiling water a little at a time, and then the vanilla extract, gently stirring until you have a smooth paste
+4. in a large bowl, cream the butter with the sugar until pale and fluffy.
+5. beat the eggs, then gradually add to the butter mixture, beating thoroughly between each addition
+6. fold in the ground almonds
+7. mix together the flour and baking powder, then fold through the mixture with the milk, alternating about a third of each at a time
+8. split the mixture between the prepared cake tins evenly
+9. bake for approximately 30 minutes until the tops spring back and a skewer inserted comes out clean
+10. remove from the oven and leave to cool in the tins for 5-10 minutes before turning out onto a wire rack to cool completely
 
 ### cherry sauce
 
