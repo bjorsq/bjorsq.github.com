@@ -3,10 +3,6 @@ layout: page
 title: Vex'd pig hymn waltz fuck
 ---
 
-This is the personal site of Peter Edwards. 
-
-Want to go somewhere else?
-
 * [Projects on GitHub](https://github.com/bjorsq/)
 * [Tod Dockstader](http://dockstader.info)
 * [Dave Ross - eyetones](http://eyetones.info)

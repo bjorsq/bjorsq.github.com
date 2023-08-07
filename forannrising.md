@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: For Ann (rising) by James Tenney
 permalink: /far/
 ---
