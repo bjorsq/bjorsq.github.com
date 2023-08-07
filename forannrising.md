@@ -1,14 +1,16 @@
 ---
-layout: page
+layout: default
 title: For Ann (rising) by James Tenney
 permalink: /far/
 ---
 
 <style type="text/css">html{box-sizing:border-box;font-size:16px;font-family:sans-serif}*,:after,:before{box-sizing:inherit}.button{appearance:none;background-color:#2ea44f;border:1px solid rgba(27,31,35,.15);border-radius:.5rem;box-shadow:rgba(27,31,35,.1) 0 1px 0;color:#fff;cursor:pointer;display:inline-block;font-size:1.2rem;font-weight:700;line-height:2rem;padding:.5rem 1rem;position:relative;text-align:center;text-decoration:none;user-select:none;-webkit-user-select:none;touch-action:manipulation;vertical-align:middle;white-space:nowrap}.button:focus:not(:focus-visible):not(.focus-visible){box-shadow:none;outline:0}.button:hover{background-color:#2c974b}.button:focus{box-shadow:rgba(46,164,79,.4) 0 0 0 3px;outline:0}.button:active{background-color:#298e46;box-shadow:rgba(20,70,32,.2) 0 1px 0 inset}</style>
 <script>
-const context = new window.AudioContext();
-
+var context = null;
 let playTone = () => {
+    if ( context === null ) {
+        context = new window.AudioContext();
+    }
     const st = context.createOscillator();
 	st.frequency.setValueAtTime(20, context.currentTime);
     st.type = "sine";
@@ -40,10 +42,9 @@ let updateToneCount = increment => {
 	count = increment? count + 1: count - 1;
 	tc.textContent = count;
 }
-
-let farButton = document.querySelector("#forannrising");
+let farButton = document.getElementById( 'forannrising' );
 farButton.addEventListener("click", function() {
-  playTone();
+    playTone();
 })
 </script>
 <p><a href="https://www.youtube.com/watch?v=bbKbE8y95sg" target="_youtube">Listen to the real thing</a>.</p>
