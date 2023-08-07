@@ -42,10 +42,12 @@ let updateToneCount = increment => {
 	count = increment? count + 1: count - 1;
 	tc.textContent = count;
 }
-let farButton = document.getElementById( 'forannrising' );
-farButton.addEventListener("click", function() {
-    playTone();
-})
+window.addEventListener( 'DOMContentLoaded', e => {
+    let farButton = document.getElementById( 'forannrising' );
+    farButton.addEventListener("click", function() {
+        playTone();
+    })
+});
 </script>
 <p><a href="https://www.youtube.com/watch?v=bbKbE8y95sg" target="_youtube">Listen to the real thing</a>.</p>
 <p>Clicking on this button sets off a single rising sine tone</p>
