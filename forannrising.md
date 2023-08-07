@@ -53,6 +53,4 @@ window.addEventListener( 'DOMContentLoaded', e => {
 <p>Clicking on this button sets off a single rising sine tone</p>
 <p>If you click on it roughly every couple of seconds<br>you should hear something similar to the original</p>
 <p><button id="forannrising" class="button">start tone (<span id="tonecount">0</span>)</button></p>
-This is the personal site of Peter Edwards. 
 
-Want to go somewhere else?
