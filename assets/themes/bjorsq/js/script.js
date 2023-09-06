@@ -24,11 +24,13 @@ window.addEventListener('DOMContentLoaded', event => {
     const podcast_list = document.getElementById('podcast');
     if ( podcast_list !== null ) {
         const audioElement = document.createElement( 'audio' );
-        podcast_list.querySelectorAll( 'li a' ).forEach( mp3link => {
+        podcast_list.querySelectorAll( 'li' ).forEach( item => {
+            let mp3link = item.querySelector( 'a' );
+            let details = item.querySelector( '.episode-details' );
             let playbutton = document.createElement( 'button' );
             playbutton.classList.add( 'playbutton' );
             playbutton.setAttribute( 'data-audiourl', mp3link.getAttribute( 'href' ) );
-            mp3link.parentNode.insertBefore( playbutton, mp3link );
+            details.parentNode.insertBefore( playbutton, details );
         });
         document.addEventListener('click', event => {
             if ( event.target.classList.contains( 'playbutton' ) ) {

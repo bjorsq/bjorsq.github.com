@@ -1,128 +1,149 @@
 a.rss {
-    position: relative;
-    display: inline-block;
-    background: $rss;
-    border: 2px solid $rss;
-    border-radius: .3rem;
-    padding: .5rem;
-    margin: .5rem 0;
-    color: $white;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-weight: bold;
-    transition: all .4s ease;
-    
-    
-    &:before {
-        content: "";
-        display: block;
-        position: absolute;
-        left: .5rem;
-        bottom: .6rem;
-        width: 0;
-        height: 0;
-        background-image: radial-gradient(
-            at bottom left,
-            $rss 0,
-            $rss 37%,
-            $white 40%,
-            $white 47%,
-            $rss 50%,
-            $rss 57%,
-            $white 60%,
-            $white 67%,
-            $rss 70%,
-            $rss 100%,
-        );
-        background-position: right -50% bottom -50%;
-        background-repeat: no-repeat;
-        transition: all .4s ease;
-    }
+  position: relative;
+  display: inline-block;
+  background: $rss;
+  border: 2px solid $rss;
+  border-radius: 0.3rem;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  color: $white;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  transition: all 0.4s ease;
 
+  &:before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0.5rem;
+    bottom: 0.6rem;
+    width: 0;
+    height: 0;
+    background-image: radial-gradient(
+      at bottom left,
+      $rss 0,
+      $rss 37%,
+      $white 40%,
+      $white 47%,
+      $rss 50%,
+      $rss 57%,
+      $white 60%,
+      $white 67%,
+      $rss 70%,
+      $rss 100%
+    );
+    background-position: right -50% bottom -50%;
+    background-repeat: no-repeat;
+    transition: all 0.4s ease;
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: $white;
+    left: 0.5rem;
+    top: 1.2rem;
+    width: 0;
+    height: 0;
+    border-radius: 0.3rem;
+    transition: all 0.4s ease;
+  }
+
+  &:hover,
+  &:focus {
+    color: $white;
+    padding-left: 1.75rem;
+    border-color: $dark-grey;
+
+    &:before {
+      width: 1rem;
+      height: 1rem;
+    }
     &:after {
-        content: "";
-        display: block;
-        position: absolute;
-        background: $white;
-        left: .5rem;
-        top: 1.2rem;
-        width: 0;
-        height: 0;
-        border-radius: .3rem;
-        transition: all .4s ease;
+      width: 0.3rem;
+      height: 0.3rem;
     }
-    
-    &:hover,
-    &:focus {
-        color: $white;
-        padding-left: 1.75rem;
-        border-color: $dark-grey;
-        
-        &:before {
-            width: 1rem;
-            height: 1rem;
-        }
-        &:after {
-            width:.3rem;
-            height:.3rem
-        }
-        
-    }
+  }
+}
+#podcast {
+  list-style: none;
+  padding:0;
+}
+#podcast li {
+  display: flex;
+  align-items: center;
+}
+.episode-link {
+  color: $link-colour;
+  &:hover {
+    color: $hover-colour;
+  }
 }
 .episode-link,
 .episode-description {
-    display: block;
-    padding-left: 2rem;
+  display: block;
 }
 .episode-postedon,
 .episode-description {
-    font-size: .825rem;
-    line-height: .825rem;
+  font-size: 0.825rem;
+  line-height: 0.825rem;
+}
+.episode-postedon,
+.episode-details,
+.button.playbutton {
+  padding: 0.25rem;
+  margin: 0.25rem 1rem;
 }
 .episode-postedon {
-    display: block;
-    clear: both;
-    border-bottom: 1px solid $light-grey;
-    padding-bottom: .175rem;
-    margin-bottom: .175rem;
+  display: block;
+  text-align: center;
+  border: 1px solid $medium-grey;
+  background: $light-grey;
+  border-radius: 0.5rem;
+  width: 3.5rem;
+  margin-left: 0;
 }
 .episode-description {
-    font-style: italic;
+  font-style: italic;
 }
 button.playbutton {
-    position: relative;
+  position: relative;
+  display: block;
+  float: left;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid $medium-grey;
+  background: $light-grey;
+  border-radius: 0.5rem;
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
     display: block;
-    float: left;
-    width: 1.5rem;
-    height: 1.5rem;
-    top: .25rem;
-    &:after {
-        content: "";
-        position: absolute;
-        top: .25rem;
-        left: .25rem;
-        display: block;
-        border: 0;
-        background: transparent;
-        box-sizing: border-box;
-        width: 0;
-        height: .8rem;
-      
-        border-color: transparent transparent transparent $dark-grey;
-        transition: 100ms all ease;
-        cursor: pointer;
-      
-        // play state
-        border-style: solid;
-        border-width: .4rem 0 .4rem .7rem;
-    }
-  
-    &.playing:after {
-      border-style: double;
-      border-width: 0px 0 0px .7rem;
-    }
-  
-    &:after:hover {
-      border-color: transparent transparent transparent $medium-grey;
-    }
+    border: 0;
+    background: transparent;
+    box-sizing: border-box;
+    width: 0;
+    height: 1rem;
+
+    border-color: transparent transparent transparent $dark-grey;
+    transition: 100ms all ease;
+    cursor: pointer;
+
+    // play state
+    border-style: solid;
+    border-width: 0.5rem 0 0.5rem 0.9rem;
+  }
+
+  &.playing:after {
+    border-style: double;
+    border-width: 0px 0 0px 0.9rem;
+  }
+
+  &:after:hover {
+    border-color: transparent transparent transparent $medium-grey;
+  }
 }
