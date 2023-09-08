@@ -162,7 +162,6 @@ var showTimer = startstop => {
     }
 };
 </script>
-<h2><em>For Ann Rising</em> using the Web Audio API</h2>
 <p>This is a version of James Tenney's <a href="https://www.youtube.com/watch?v=bbKbE8y95sg" target="_youtube"><em>For Ann (rising)</em></a> made entirely using the Web Audio API.</p>
 <p>These are notes on the piece taken from <em>The Music of James Tenney Volume 1: Contexts and Paradigms</em> by Robert Wannamaker (2021, University of Illinois Press, ISBN: <a href="https://www.press.uillinois.edu/books/?id=c043673" target="_wannamaker">978-0-252-04367-3</a>)</p>
 <blockquote>
