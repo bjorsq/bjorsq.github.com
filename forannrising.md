@@ -4,7 +4,6 @@ title: For Ann (rising) by James Tenney
 permalink: /far/
 ---
 
-<style type="text/css">html{box-sizing:border-box;font-size:16px;font-family:sans-serif}*,:after,:before{box-sizing:inherit}.button{appearance:none;background-color:#2ea44f;border:1px solid rgba(27,31,35,.15);border-radius:.5rem;box-shadow:rgba(27,31,35,.1) 0 1px 0;color:#fff;cursor:pointer;display:inline-block;font-size:1.2rem;font-weight:700;line-height:2rem;padding:.5rem 1rem;position:relative;text-align:center;text-decoration:none;user-select:none;-webkit-user-select:none;touch-action:manipulation;vertical-align:middle;white-space:nowrap}.button:focus:not(:focus-visible):not(.focus-visible){box-shadow:none;outline:0}.button:hover{background-color:#2c974b}.button:focus{box-shadow:rgba(46,164,79,.4) 0 0 0 3px;outline:0}.button:active{background-color:#298e46;box-shadow:rgba(20,70,32,.2) 0 1px 0 inset}</style>
 <script>
 var context = null;
 const octaveDuration = 4.2;
@@ -163,8 +162,9 @@ var showTimer = startstop => {
     }
 };
 </script>
-<p><a href="https://www.youtube.com/watch?v=bbKbE8y95sg" target="_youtube">Listen to the real thing</a>.</p>
-<p>From <em>The Music of James Tenney Volume 1: Contexts and Paradigms</em> by Robert Wannamaker (2021, University of Illinois Press, ISBN: <a href="https://www.press.uillinois.edu/books/?id=c043673" target="_wannamaker">978-0-252-04367-3</a>)</p>
+<h2><em>For Ann Rising</em> using the Web Audio API</h2>
+<p>This is a version of James Tenney's <a href="https://www.youtube.com/watch?v=bbKbE8y95sg" target="_youtube"><em>For Ann (rising)</em></a> made entirely using the Web Audio API.</p>
+<p>These are notes on the piece taken from <em>The Music of James Tenney Volume 1: Contexts and Paradigms</em> by Robert Wannamaker (2021, University of Illinois Press, ISBN: <a href="https://www.press.uillinois.edu/books/?id=c043673" target="_wannamaker">978-0-252-04367-3</a>)</p>
 <blockquote>
 The final version comprises 240 identical sine wave sweeps. Each of these lasts 37.8 seconds and rises linearly in pich at a rate of 4.2 seconds per octave for a total of nine octaves from A<sub>0</sub> to A<sub>9</sub>. Each sweep has a trapezoidal amplitude envelope that rises from zero to full gain in the first two octaves, stays at full gain for the five middle octaves, and drops from full to zero gain over the course of the top two octaves of each sweep. A new sweep starts every 2.8 seconds. The resulting pitch interval between registraslly adjacent sweeps is a minor sixth in 12TET. Once a full compliment of glissandi has entered, the aggregate texture persists without any further objective evolution whatsoever, repeating periodically every 2.8 seconds for more than 10 minutes. At any one moment during this span, thirteen or fourteen glissandi are simultaneously present, and seven or eight of them are at full gain. At the conclusion of the piece the last sine tones implacably rise into the treble, vanishing as they finish their glissandi so as to retrograde-invert the opening
 </blockquote>

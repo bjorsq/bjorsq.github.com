@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', event => {
     /* vimeo wall */
-    let vimeo_wall = document.getElementById('vimeo_wall');
+    const vimeo_wall = document.getElementById('vimeo_wall');
     if ( vimeo_wall !== null ) {
         let request = new XMLHttpRequest();
         request.open( 'GET', 'https://vimeo.com/api/v2/bjorsq/videos.json', true );
