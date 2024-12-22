@@ -4,28 +4,26 @@ title: curriculum vitae
 permalink: cv/index.html
 ---
 
-Objectives
-----------
+## Objectives
 
-I am currently working full-time at the University of Leeds as an Application Support Analyst, with specific responsibility for managing digital repositories.
+I am currently working full-time at the University of Leeds as an Application Support Analyst, with specific responsibility for managing digital repositories and other library systems. I also spend time working on the Digital Library Infrastructure Project, which seeks to improve search, access and use of the University’s digital rare and unique items (Cultural Collections) to enhance learning, research and collaboration.
 
 I am always looking for a new position in which I am encouraged to learn new skills, and utilise my current abilities on creative and interesting projects. One particular area where I wish to develop my skills the application of Agile methodologies to problem solving and software development.
 
 I am very hard working and committed to all the projects I undertake, and enjoy working with other individuals who have different skill sets. I love to solve seemingly intractable problems, both in programming and in those involving interpersonal dynamics between stakeholders in the projects I am involved with. My main strength is an ability to think outside the box and employ lateral approaches to problems. I thrive under pressure, and the most rewarding part of web development for me is applying new skills and new technologies to projects to add an extra dimension to them.
 
-Skills
-------
+## Skills
 
 ### Programming:
 
-* PHP (25 years)
-* Perl (15 years)
-* Python (5 years)
+* PHP (26 years)
+* Perl (17 years)
+* Python (6 years)
 * ASP (3 years)
-* JavaScript (27 years)
-* HTML (27 years)
-* CSS (23 years)
-* XML/SVG (22 years)
+* JavaScript (28 years)
+* HTML (28 years)
+* CSS (24 years)
+* XML/SVG (23 years)
 
 ### Software:
 
@@ -36,12 +34,11 @@ Skills
 * Authoring packages and IDEs including Sublime Text, VS Code and eclipse.
 * Image editing and multimedia packages including Photoshop, Illustrator, Gimp and Inkscape.
 
-Experience
-----------
+## Experience
 
-I have a broad range of programming skills utilising several different web technologies, but I am committed to using open source software. My PHP skills are excellent and I use Obeject-oriented design and design patterns in all of my projects. I am currently developing my skills with the [Laravel Framework](https://laravel.com/), [Zend Framework](framework.zend.com), and [Wordpress](www.wordpress.org). I have extensive knowledge of XHTML, XML, SVG, JavaScript/ECMAScript, and in-depth knowledge of a number of JavaScript frameworks, including [jQuery](http://jquery.com) and [Backbone](http://backbonejs.org/), [Angular](https://angularjs.org/) and [React](https://react.dev/). I also have extensive experience in the use of Google's web services and APIs (AJAX, Search and mapping). I have knowledge of the full development lifecycle, from writing detailed technical and functional specifications, developing systems from scratch and on top of an existing codebase. I use git to manage all my projects.
+I have a broad range of programming skills utilising several different web technologies, but I am committed to using open source software. My PHP skills are excellent and I use Obeject-oriented design and design patterns in all of my projects, which have used the [Laravel Framework](https://laravel.com/), [Zend Framework](framework.zend.com), and [Wordpress](www.wordpress.org). I have extensive knowledge of XHTML, XML, SVG, JavaScript/ECMAScript, and in-depth knowledge of a number of JavaScript frameworks, including [jQuery](http://jquery.com) and [Backbone](http://backbonejs.org/), [Angular](https://angularjs.org/) and [React](https://react.dev/). I also have extensive experience in the use of Google's web services and APIs (AJAX, Search and mapping). I have knowledge of the full development lifecycle, from writing detailed technical and functional specifications, developing systems from scratch and on top of an existing codebase. I use git to manage all my projects.
 
-I am currently developing my skills in Perl, as I have recently taken on a position which requires Perl skills. I am also developing my skills in Node, Python, and C#. I'm always looking for better ways to manage testing and workflows.
+I am currently developing my skills in Perl to support numerous [EPrints](https://www.eprints.org/) repositories, and working on software projects written in Python (using [Flask](https://flask.palletsprojects.com/)). I am developing my skills in the use of cloud platforms (AWS and Azure) with a focus on conatinerisation, cloud functions and CI/CD pipelines.
 
 Interests
 ---------
