@@ -32,8 +32,8 @@ method
 
 1. Roast the coriander seeds and peppercorns in a pan until aromatic, then grind coarsely in a mortar and pestle.
 2. Add the flours to a large bowl with the salt, coriander and pepper.
-3. Take the tablespoon of oil, tomatoes, yoghurt, ground coriander, chilli powder, turmeric, _garam masala_ and fresh coriander and blend to a sauce.
-4. Add the sauce to the flours and whisk to form a batter.
+3. Take the tablespoon of oil, tomatoes, yoghurt, ground coriander, chilli powder, turmeric, _garam masala_ and fresh coriander and blend.
+4. Add the mixture to the flours and whisk to form a batter.
 5. Add the fresh green chillies, cauliflower, cabbage and onion.
 6. Mix the vegetables into the batter so they are all well coated.
 7. Heat up some oil in a wok or deep fat fryer.
