@@ -17,7 +17,7 @@ tag: sides
 * 1 teaspoon cumin seeds
 * 1 teaspoon brown mustard seeds
 * 1 large onion, chopped
-* &frac23; teaspoon turmeric
+* &frac34; teaspoon turmeric
 * 2 teaspoons ground coriander
 * 1 teaspoon ground cumin
 * 1 teaspoon _garam masala_
