@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 * 225g (8oz) flat dried rice noodles
 * 50g (2oz) shallots
@@ -28,8 +27,7 @@ ingredients
 * handful fresh coriander sprigs
 * 3 tbsp coarsely chopped roasted peanuts for garnish
 
-method
-------
+## method
 
 1. Soak the rice noodles in a bowl of hot water for 25 minutes.
 2. While the noodles are soaking, prepare the vegetables. Peel and thinly slice the shallots and onion. Slice the spring onions at a slight angle into 2.5cm / 1in lengths. Seed and finely chop the chillies.

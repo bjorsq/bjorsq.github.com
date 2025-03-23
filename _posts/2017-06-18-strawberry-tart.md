@@ -6,22 +6,20 @@ category: recipes
 tag: tarts
 ---
 
-ingredients
------------
+## ingredients
 
- * 200g plain flour
- * 110g butter
- * 65g caster sgar
- * pinch of salt
+* 200g plain flour
+* 110g butter
+* 65g caster sgar
+* pinch of salt
 
- * 200ml double/whipping cream
- * couple of drops of vanilla essence or the zest of a lemon
- * 200g greek strained yoghurt
- * 2 tsp icing sugar
- * 500g fresh strawberries
+* 200ml double/whipping cream
+* couple of drops of vanilla essence or the zest of a lemon
+* 200g greek strained yoghurt
+* 2 tsp icing sugar
+* 500g fresh strawberries
 
-method
-------
+## method
 
 1. Whizz the flour, butter, sugar and salt in a food processor until it looks like damp crumbs
 2. Press the pastry into into a 9" non-stick tart tin - use a cup to flatten it out a bit - and prick the base with a fork.

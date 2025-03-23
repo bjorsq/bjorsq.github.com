@@ -6,8 +6,7 @@ category: recipes
 tag: pastry
 ---
 
-ingredients
------------
+## ingredients
 
 * 180g caster sugar
 * 450g plain flour
@@ -15,8 +14,7 @@ ingredients
 * 2 egg yolks
 * 60ml cold water
 
-method
-------
+## method
 
 1. Mix the flour and sugar in a bowl, and rub the butter into the mixture until it resembles breadcrumbs
 2. Add the egg yolks and water and mix to a soft dough - don't overwork it.

@@ -6,15 +6,13 @@ category: recipes
 tag: jam
 ---
 
-ingredients
------------
+## ingredients
 
 * 1kg Seville oranges, cleaned and halved
 * 1 unwaxed lemon
 * 2kg granulated sugar
 
-method
-------
+## method
 
 1. Squeeze the oranges and keep their juice. Scrape out the pith and pips with a metal spoon, again keeping everything. Juice the lemon, too, then put the lemon shells, orange pith and seeds into a square of muslin about 30 x 30cm, and tie it with string. Leave the string long – that way you can tie it to your wooden spoon, which will make it easier to lift out later.
 2. Cut each orange shell into 3 petals, then finely shred with a large, sharp knife. Put the peel into a preserving pan, tip in the juices, then sit the bag in the juice. Pour in 2.4 litres/4 pints cold water and leave to steep overnight.

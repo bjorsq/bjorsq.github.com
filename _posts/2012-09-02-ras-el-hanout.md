@@ -7,8 +7,7 @@ tag: spices
 
 This is the blend of spices I use in tagines and stews to give them a moroccan type flavour
 
-ingredients
------------
+## ingredients
 
 * 2 tsp ground ginger
 * 2 tsp shelled green cardamons
@@ -23,15 +22,13 @@ ingredients
 * 1 tsp paprika
 * &frac12; tsp fenugreek seeds
 
-method
-------
+## method
 
 1. Dry roast cumin, coriander, cloves, cinnamon, black pepper, fenugreek and cardamon in a heavy saucepan or frying pan.
 2. Blending to a powder in a mortar and pestle or spice mill. 
 3. Add all the other spices and store in a jar.
 
-usage
------
+## usage
 
 Add about half a teaspoon per serving to stews, etc.
 

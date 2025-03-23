@@ -6,8 +6,7 @@ category: recipes
 tag: sides
 ---
 
-ingredients
------------
+## ingredients
 
 * 1 tablesppon coriander seeds
 * 1 teaspoon whole black pepper
@@ -27,8 +26,7 @@ ingredients
 * &frac12; white cabbage, shredded
 * 1 large onion, sliced lengthways
 
-method
-------
+## method
 
 1. Roast the coriander seeds and peppercorns in a pan until aromatic, then grind coarsely in a mortar and pestle.
 2. Add the flours to a large bowl with the salt, coriander and pepper.

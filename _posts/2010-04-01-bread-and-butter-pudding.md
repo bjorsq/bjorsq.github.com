@@ -6,8 +6,7 @@ category: recipes
 tag: puddings
 ---
 
-ingredients
------------
+## ingredients
 
 * 25g (1oz) butter, plus extra for greasing
 * 8 thin slices bread
@@ -19,8 +18,7 @@ ingredients
 * 25g (1oz) granulated sugar
 * nutmeg, grated, to taste
 
-method
-------
+## method
 
 1. Grease a 1 litre pie dish with butter.
 2. Cut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.

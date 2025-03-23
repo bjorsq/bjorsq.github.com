@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 10oz. mixed dried fruit
 * 10fl oz. strong hot tea
@@ -17,8 +16,7 @@ ingredients
 * 1 egg
 * 12oz Self-raising flour
 
-method
-------
+## method
 
 1. Soak the fruit in the tea, cover and let stand overnight.
 2. Strain the fruit, saving the liquid.

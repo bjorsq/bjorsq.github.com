@@ -6,8 +6,7 @@ category: recipes
 tag: pastry
 ---
 
-ingredients
------------
+## ingredients
 
 * 255g plain flour
 * 75g strong bread flour
@@ -16,8 +15,7 @@ ingredients
 * 1 tsp salt
 * 1 beaten egg, for glazing
 
-method
-------
+## method
 
 1. Mix the flour and salt in a large bowl.
 2. Add half the butter (or the vegan margarine) to the flour and rub in to form crumbs,

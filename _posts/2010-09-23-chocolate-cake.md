@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 200g good quality dark chocolate, about 60% cocoa solids (or more)
 * 200g butter , cut in pieces
@@ -28,8 +27,7 @@ ingredients
 * 284ml carton double cream (pouring type)
 * 2 tbsp golden caster sugar
 
-method
-------
+## method
 
 1. Butter a 20cm round cake tin (7.5cm deep) and line the base.
 2. Preheat the oven to fan 140&deg;C, conventional 160&deg;C, gas 3.

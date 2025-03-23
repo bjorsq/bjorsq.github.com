@@ -6,8 +6,7 @@ tag: mains
 category: recipes
 ---
 
-ingredients
------------
+## ingredients
 
 * 1kg Chicken breast
 * 1 heaped tablespoon of finely chopped fresh ginger
@@ -28,8 +27,7 @@ ingredients
 * 50ml double cream
 * juice of &frac12; lemon
 
-method
-------
+## method
 
 1. Cut the chicken breasts into bite sized chunks
 2. Mix the chicken with the ginger, garlic and yogurt. Cover and marinade for 12 hours or in the fridge overnight. If you can't spare the time, just marinade for as long as you can.

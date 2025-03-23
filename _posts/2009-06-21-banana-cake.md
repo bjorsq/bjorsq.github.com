@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 2 ripe bananas (about 400g)
 * 150g softened butter
@@ -19,8 +18,7 @@ ingredients
 * 2 eggs, lightly beaten
 * 100ml vegetable oil
 
-method
-------
+## method
 
 1. Preheat the oven to 180&deg;C / 350&deg;F / gas 4.
 2. Butter a 900g loaf tin and line the bottom and sides with non-stick baking parchment</p>

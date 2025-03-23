@@ -6,10 +6,9 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
-for the cake:
+### for the cake
 
 * 375g Clementines
 * 6 eggs
@@ -17,21 +16,20 @@ for the cake:
 * 250g ground almonds
 * 1 tsp baking powder
 
-for the ganache filling:
+### for the ganache filling
 
 * 150g dark chocolate
 * 250ml double cream
 * 2 tbsp caster sugar
 
-for the frosting:
+### for the frosting
 
 * 60g softened butter
 * 120g cream cheese
 * 180g icing sugar
 * 1tsp vanilla extract
 
-method
-------
+## method
 
 1. Put the clementines in a pan with cold water and bring to the boil. Simmer for 2 hours.
 2. Drain and leave to cool, then remove the pips and blitz in a food processor (skins and all).

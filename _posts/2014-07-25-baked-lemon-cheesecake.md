@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 100g butter
 * 100g Digestive biscuits
@@ -20,8 +19,7 @@ ingredients
 * 3 large eggs
 * 284ml carton cream, yoghurt or soured cream
 
-method
-------
+## method
 
 1. Pre-heat the oven to 160&deg;C / 325&deg;F / gas 4.
 2. Crush the digestive biscuits and ginger nuts (put them in a plastic bag and whack it with a rolling pin)
@@ -33,4 +31,3 @@ method
 8. Pour into the cake tin
 9. Bake in the oven for 20 minutes, then reduce the heat to 100&deg;C / 200&deg;F / gas 1 and bake for a further 30 minutes.
 10. Switch off the oven, open the oven door and let the cheesecake cool slowly in the oven for an hour or so.
-

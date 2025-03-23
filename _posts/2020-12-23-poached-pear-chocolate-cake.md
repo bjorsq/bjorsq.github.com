@@ -6,10 +6,9 @@ category: recipes
 tag: cakes
 ---
 
-Ingredients
------------
+## ingredients
 
-For the Spiced Red Wine Poached Pears
+### For the Spiced Red Wine Poached Pears
 
 * 600ml dry red wine
 * 8 Bosc pears
@@ -21,7 +20,7 @@ For the Spiced Red Wine Poached Pears
 * 2 star anise
 * 2 cardamom pods
 
-For the Cake
+### For the Cake
 
 * 120g butter melted, plus a bit more for greasing
 * 150g all-purpose flour
@@ -33,14 +32,13 @@ For the Cake
 * 240ml spiced red wine
 * 1 teaspoon pure vanilla extract
 
-For the Chocolate Ganache
+### For the Chocolate Ganache
 
 * 110g dark chocolate
 * 80ml heavy whipping cream
 * 3 tablespoons spiced red wine
 
-Instructions
-------------
+## instructions
 
 1. To make the spiced red wine poached pears, bring all the ingredients (except for the pears) to a boil in a large saucepan and let simmer while you peel the pears, leaving the stem intact. Slice the bottom of the pears to create a flat surface so the pears can easily stand.
 2. Gently place the pears in the simmering poaching liquid and poach for 30 min, turning every 5 min or so, to ensure even color. 

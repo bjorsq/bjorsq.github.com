@@ -6,14 +6,14 @@ category: recipes
 tag: puddings
 ---
 
-ingredients
------------
+## ingredients
+
 * ripe peaches, rhubarb, apple, etc. cut into wedges
 * zest and juice of 1 lemon
 * 40 g soft brown sugar
 * 2.5 cm fresh ginger, peeled and finely chopped
 
-### For the cobbler topping:
+### For the cobbler topping
 
 * 40 g pine nuts
 * 100 g self-raising flour
@@ -21,9 +21,7 @@ ingredients
 * 100 g butter
 * 1tbsp demerara sugar
 
-
-method
-------
+## method
 
 1. Place the fruit, lemon sugar and ginger in a pan with a little water, and heat gently for 30 minutes until the fruit is stewed a little.
 2. Put the fruit into a dish or bowl

@@ -6,8 +6,7 @@ category: recipes
 tag: sides
 ---
 
-ingredients
------------
+## ingredients
 
 * 6 medium potatoes
 * olive oil
@@ -15,8 +14,7 @@ ingredients
 * 2 cloves garlic
 * salt and pepper
 
-method
-------
+## method
 
 1. Preheat the oven to 180&deg;C / 350&deg;F  / gas 4).
 2. Peel and slice the potatoes as thin as you can, by hand or using a mandolin or food processor.

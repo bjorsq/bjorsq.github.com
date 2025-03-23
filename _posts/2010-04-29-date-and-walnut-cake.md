@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 6 oz (175 g) dates, stoned and chopped
 * 1 level teaspoon bicarbonate of soda
@@ -24,14 +23,14 @@ ingredients
 * 3 oz (75 g) ground almonds
 * 3 oz (75 g) chopped walnuts
 
-### for the buttercream:
+### for the buttercream
 
 * 2 oz (55 g) icing sugar
 * 4 oz butter
 * rind from 1&frac12; lemons
 * 1 tablespoon lemon juice
 
-### for the icing:
+### for the icing
 
 * 4 oz (110 g) icing sugar, sifted
 * the grated rind of &frac12; lemon
@@ -39,8 +38,7 @@ ingredients
 * &frac12; oz (10 g) melted butter
 * 1 dessertspoon single cream
 
-method
-------
+## method
 
 1. Pre-heat the oven to 180&deg;C / 350&deg;F / gas mark 4.
 2. In a small bowl, pour 8 fl oz (225 ml) boiling water over the dates. Add the bicarbonate of soda, then the butter and stir until the butter has melted. Leave to cool.

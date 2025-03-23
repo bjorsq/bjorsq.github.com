@@ -6,18 +6,16 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
- * 250g digestive biscuit
- * 100g butter
- * 1 vanilla pod
- * 600g soft cheese
- * 100g icing sugar
- * 120ml double cream
+* 250g digestive biscuit
+* 100g butter
+* 1 vanilla pod
+* 600g soft cheese
+* 100g icing sugar
+* 120ml double cream
 
-method
-------
+## method
 
 1. Melt the butter in a saucepan over low heat.
 2. Break the digestive biscuits up into crumbs by placing in a plastic bag and whacking with a rolling pin.

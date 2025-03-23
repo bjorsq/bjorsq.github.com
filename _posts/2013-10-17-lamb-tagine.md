@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 * 600-700g diced lamb
 * 1 large onion, chopped
@@ -22,8 +21,7 @@ ingredients
 * Zest of one lemon
 * chopped parsley or coriander to garnish
 
-method
-------
+## method
 
 1. Fry the onion in the olive oil until it has softened
 2. Add the&nbsp;garlic, ginger and chilli, and continue to cook for 2 minutes
@@ -34,7 +32,7 @@ method
 7. Simmer for 10 minutes, then season with salt and pepper to taste
 8. Place in a tagine or dutch oven, and cook for 2-3 hours
 9. If using squash, add approximately 1 hour before you take it out of the oven
-10. When cooked, add the lemon zest and stir in, then garnish with fresh herb<br />
+10. When cooked, add the lemon zest and stir in, then garnish with fresh herb
 
 I also do a variation on this with vegetables and chickpeas, which takes a little less time to cook. The most important thing is to add them to the pot at the right time so they cook properly. So add root vegetables at the start, and add other vegetables which take less time to cook towards the end.
 

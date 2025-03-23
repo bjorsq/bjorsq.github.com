@@ -6,27 +6,25 @@ category: recipes
 tag: tarts
 ---
 
-ingredients
------------
+## ingredients
 
- * 225g plain flour
- * 2 tbsp caster sugar
- * &frac14; tsp salt
- * 165g cold butter
- * 1 tbsp cold water
+* 225g plain flour
+* 2 tbsp caster sugar
+* &frac14; tsp salt
+* 165g cold butter
+* 1 tbsp cold water
 
- * 110g butter
- * 110g caster sugar, plus 1 tbsp
- * 2 eggs
- * 110g ground almonds
- * 25g plain flour
- * &frac12; tsp baking powder
- * Zest of &frac12; lemon
- * 9 apricots
- * flaked almonds
+* 110g butter
+* 110g caster sugar, plus 1 tbsp
+* 2 eggs
+* 110g ground almonds
+* 25g plain flour
+* &frac12; tsp baking powder
+* Zest of &frac12; lemon
+* 9 apricots
+* flaked almonds
 
-method
-------
+## method
 
 1. Combine the flour, sugar, salt and butter for the pastry and rub in the butter (or use a food processor) to get crumbs. Bind the pastry with the cold water and chill for 30 mins.
 2. Grease a 25cm tart case and pre-heat the oven to 200&deg;C / 400&deg;F / gas mark 6

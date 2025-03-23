@@ -6,16 +6,14 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 1 cup sultanas
 * 1 cup sugar
 * 2 cups self-raising flour
 * 1 egg in a cup, topped up with milk
 
-method
-------
+## method
 
 1. Pre-heat the oven to gas mark 4 / 350&deg;F / 180&deg;C
 2. Mix all ingrdients in a large bowl

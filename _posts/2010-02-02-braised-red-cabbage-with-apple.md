@@ -6,8 +6,7 @@ category: recipes
 tag: sides
 ---
 
-ingredients
------------
+## ingredients
 
 * 1 small red cabbage
 * 25g butter
@@ -19,8 +18,7 @@ ingredients
 * 2 tbsp light muscovado sugar
 * 2 tbsp redcurrant jelly
 
-method
-------
+## method
 
 1. Finely slice the cabbage, discarding the core and any tough pieces. Melt the butter in a pan with a tight-fitting lid over a medium heat. Cook the onion uncovered for 5 minutes until soft but not browned.
 2. Stir in the spices then add the cabbage, apple, red wine vinegar and sugar plus 100ml cold water. Stir until thoroughly mixed and the sugar has dissolved. Season generously.

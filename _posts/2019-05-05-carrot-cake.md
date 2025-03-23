@@ -6,32 +6,30 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
-For the cake:
+### For the cake
 
- * 155ml sunflower oil
- * 230g self-raising flour
- * 1 tsp baking powder
- * 1&frac12; tsp ground cinnamon
- * &frac12; tsp mixed spice
- * &frac12; tsp ground ginger
- * 230g light brown muscovado sugar
- * Finely grated zest of 1 satsuma or mandarin, plus strips to decorate
- * 100g pecans, chopped
- * 260g carrots, grated
- * 3 eggs, beaten
+* 155ml sunflower oil
+* 230g self-raising flour
+* 1 tsp baking powder
+* 1&frac12; tsp ground cinnamon
+* &frac12; tsp mixed spice
+* &frac12; tsp ground ginger
+* 230g light brown muscovado sugar
+* Finely grated zest of 1 satsuma or mandarin, plus strips to decorate
+* 100g pecans, chopped
+* 260g carrots, grated
+* 3 eggs, beaten
 
-For the icing:
+### For the icing
 
- * 75g butter, softened
- * 300g full-fat cream cheese
- * 150g icing sugar
+* 75g butter, softened
+* 300g full-fat cream cheese
+* 150g icing sugar
 
-method
-------
- 
+## method
+
 1. Preheat the oven to 180&deg;C (160&deg;C fan assisted), 360&deg;F/320&deg;F, Gas Mark 4.
 2. Grease an 18cm loose-bottomed round cake tin and line with baking paper.
 3. Sift the flour, baking powder and spices into a large bowl.

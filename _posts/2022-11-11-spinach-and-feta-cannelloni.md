@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 ### canneloni
 
@@ -30,8 +29,7 @@ ingredients
 * 1 bay leaf
 * Handful of grated mozzarella
 
-method
-------
+## method
 
 1. Boil the spinach for 5 minutes, then drain and squeeze as much liquid out as you can.
 2. Chop the spinach and mint, and add to a bowl with the cheeses and egg. Add freshly ground black pepper to taste. Mix it all up with your hands!

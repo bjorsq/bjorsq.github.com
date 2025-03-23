@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 * 1 tbsp vegetable oil
 * 2 tsp cumin seeds
@@ -27,8 +26,7 @@ ingredients
 * 1 cup water
 * 70g creamed coconut
 
-method
-------
+## method
 
 1. Heat the oil, cumin seeds and onion in a saucepan on a medium heat. When the onion starts to brown, turn the heat down.
 2. Mean while, shell the cardamoms and grind with the cloves in a mortar and pestle.

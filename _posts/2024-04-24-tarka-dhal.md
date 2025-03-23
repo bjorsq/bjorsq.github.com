@@ -6,8 +6,7 @@ category: recipes
 tag: sides
 ---
 
-ingredients
------------
+## ingredients
 
 * 150g _masoor dhal_ (split red lentils)
 * 150g _moong dhal_ (yellow split mung beans)
@@ -25,8 +24,7 @@ ingredients
 * 3-5 fresh green chillies, chopped
 * 3-5 cloves garlic, chopped
 
-method
-------
+## method
 
 1. Mix the _dhals_ together and rinse thoroughly in warm water (at least 4 times), drain.
 2. Put the _dhals_ in a pan with 700ml of boiling water, bring to the boil and simmer for a couple of minutes until is starts to foam. Skim any froth from the surface, then add a teaspoon of oil and simmer for 25 minutes, stirring occasionally, until the _dhals_ are soft. Remove from the heat but **do not drain**.

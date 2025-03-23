@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 * 6, 8 or 12 Pork Sausages
 * 110g (4oz) Plain White Flour
@@ -15,8 +14,7 @@ ingredients
 * 2 Small Eggs
 * half tsp Salt
 
-method
-------
+## method
 
 1. Preheat the oven to 180&deg;C / 350&deg;F / gas mark 4 and place sausages in a lightly greased roasting tin
 2. Place the flour in a bowl, then make a well in the centre and break in the eggs. Mix in half the milk using a wooden spoon, work the mixture until smooth then add the remaining milk. Beat or whisk until fully combined and the surface is covered with tiny bubbles.

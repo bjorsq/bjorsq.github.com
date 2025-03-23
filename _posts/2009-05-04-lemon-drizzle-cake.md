@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 4oz butter
 * 6oz self-raising flour
@@ -18,8 +17,7 @@ ingredients
 * &frac12; cup lemon juice
 * 1 cup icing sugar
 
-method
-------
+## method
 
 1. Pre-heat the oven to gas mark 4 / 350&deg;F / 180&deg;C
 2. Cream the butter by beating in a bowl

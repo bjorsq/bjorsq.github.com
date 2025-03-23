@@ -6,24 +6,22 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
- * 200g caster sugar
- * 200g softened butter
- * 4 eggs, beaten
- * 200g self-raising flour
- * 1 tsp baking powder
- * 2 tbsp milk
+* 200g caster sugar
+* 200g softened butter
+* 4 eggs, beaten
+* 200g self-raising flour
+* 1 tsp baking powder
+* 2 tbsp milk
 
-for the filling:
+### for the filling
 
- * strawberry jam
- * fresh cream
- * icing sugar
+* strawberry jam
+* fresh cream
+* icing sugar
 
-method
-------
+## method
 
 1. Preheat the oven to 190&deg;C / 375&deg;F / gas 5.
 2. Butter two 20cm sandwich tins and line with non-stick baking paper.
@@ -33,4 +31,3 @@ method
 6. Turn onto a cooling rack and leave to cool completely.
 7. Spread the jam over the bottom of one of the sponges, top it with whipped cream and sandwich the second sponge on top.
 8. Dust with a little icing sugar before serving.
-

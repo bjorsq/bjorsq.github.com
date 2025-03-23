@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 ### For the shortbread
 
@@ -21,11 +20,9 @@ ingredients
 * 397g tin of condensed milk
 * 125g light muscovado sugar
 * 125g butter
-
 * 200g Chocolate
 
-method
-------
+## method
 
 1. Pre-heat the oven to 180&deg;C / 350&deg;F  / gas 4
 2. Combine the flour, butter sugar and cornflour for the shortbread in a food processor

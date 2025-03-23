@@ -6,13 +6,11 @@ category: recipes
 tag: bread
 ---
 
-starter
--------
+## starter
 
 Feed the starter with 75g strong white flour and 75g cold water every day if possible. If you miss a day or two, don't worry, just pour off the liquid 'hooch' and the crusty top part before you add the flour and water. If you're leaving it for more than 3 days, pop it in the fridge after a feed to put it to sleep.
 
-making the dough
-----------------
+## making the dough
 
 In the morning, after a feed, pour most of the starter (100g - 300g leaving a centimetre or so in the jar) into a mixing bowl. The starter is roughly 50:50 flour and water and I try to do a roughly 75% loaf, so I usually make it up like this:
 
@@ -26,15 +24,13 @@ I sometime use a mixture of flours with some wholemeal, spelt or rye flour - add
 
 Mix it all up in the bowl - it will be quite sticky and wet, but you just need to make sure it is mixed thoroughly (you don't need to work it). Use a paddle to get it all off your hand.
 
-proving
--------
+## proving
 
 Leave it covered in cling film until mid-afternoon - it should have risen a little by then. Over the next few hours, fold it over in the bowl using a paddle a few times.
 
 At about 6pm, prepare the proving basket by lining it with the cotton liner, and sprinkling a generous amount of brown rice flour in the liner. Try to coat the inside of the liner with a thin layer of flour. Pour the dough into the liner, using the paddle to coax it all out of the bowl. Sprinkle a little brown rice flour around the edges to stop it sticking to the liner when it rises.
 
-baking
-------
+## baking
 
 Sometimes I bake it in the morning, and sometimes at night. If you want to bake in the morning, put the basket in the fridge overnight, otherwise leave it out to rise a bit.
 

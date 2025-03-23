@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 * 1 pheasant weighing 1.25 kg (2&frac12; lbs)
 * 3 oz (75 g) back bacon
@@ -20,8 +19,7 @@ ingredients
 * 4 thin rashers streaky bacon
 * 125 ml (4 fl oz) &frac12; cup. dry white wine
 
-method
-------
+## method
 
 1. Wash and dry pheasant. Chop back bacon and Parma ham finely. Chop sage and combine with a little salt, pepper, lemon rind and the chopped bacon and ham.
 2. Preheat oven to 220&deg;C / 425&deg;F / gas mark 7.

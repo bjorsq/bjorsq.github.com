@@ -6,9 +6,9 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
-For the cake:
+## ingredients
+
+### For the cake
 
 * 6 oz (175 g) dark brown soft sugar
 * 2 large eggs
@@ -20,13 +20,13 @@ For the cake:
 * 7 oz (200 g) carrots, peeled and coarsely grated
 * 6 oz (175 g) sultanas
 
-For the syrup glaze:
+### For the syrup glaze
 
 * juice of 1 orange
 * 1 tbsp lemon juice
 * 1&frac12;oz (40 g) dark brown soft sugar
 
-For the topping:
+### For the topping
 
 * 6oz (175g) soft cheese
 * 2oz (50g) soft butter
@@ -34,8 +34,8 @@ For the topping:
 * 1 tsp vanilla extract
 * 1 tsp ground cinnamon, for dusting
 
-method
-------
+## method
+
 1. Preheat the oven to 170&deg;C / 325&deg;F / gas mark 3.
 2. Whisk the sugar, eggs and oil together in a bowl using an electric hand whisk for 2-3 minutes.
 3. Add the flour, bicarbonate of soda and the mixed spice into the bowl and stir.

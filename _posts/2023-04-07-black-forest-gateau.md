@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 ### chocolate sponges
 
@@ -43,8 +42,7 @@ ingredients
 * 450g cherries in kirsch
 * dusting of unsweetened cocoa powder
 
-instructions
-------------
+## instructions
 
 ### chocolate sponge
 

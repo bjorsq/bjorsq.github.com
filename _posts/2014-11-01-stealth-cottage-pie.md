@@ -6,8 +6,7 @@ category: recipes
 tag: mains
 ---
 
-ingredients
------------
+## ingredients
 
 * 700 g potatoes, skins on
 * 1 tablespoon flour, plus extra flour for dusting 
@@ -25,8 +24,7 @@ ingredients
 * 3 tablespoons chopped parsley
 * oil, for frying
 
-method
-------
+## method
 
 1. Boil the potatoes, drain, peel and mash.
 2. Stir in the flour, season with salt and set the potato dough aside.

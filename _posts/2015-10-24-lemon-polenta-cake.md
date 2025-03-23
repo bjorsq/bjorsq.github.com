@@ -6,8 +6,7 @@ category: recipes
 tag: cakes
 ---
 
-ingredients
------------
+## ingredients
 
 * 150g butter (plus some for greasing)
 * 150g caster sugar
@@ -18,8 +17,7 @@ ingredients
 * Zest and juice of 2 lemons
 * 100g icing sugar
 
-method
-------
+## method
 
 * Preheat the oven to 180&deg;C / 350&deg;F / gas mark 4.
 * Beat the butter and sugar till pale and whipped.
