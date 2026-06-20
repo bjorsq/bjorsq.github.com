@@ -1,4 +1,13 @@
-## ingredients
+---
+layout: post
+title: Briam
+excerpt: Taken from a recipe by Georgina Hayden in Nistisima, with a gew additions
+category: recipes
+tag: mains
+---
+
+ingredients
+-----------
 
 * 600g small waxy potatoes
 * 1 aubergine
@@ -16,12 +25,13 @@
 * fresh parsley
 * 200g feta cheese
 
-## method
+method
+------
 
 1. Heat the oven to 200&deg;C
-2. chop the aubergine and potatoes into similar sized pieces, lightly coat in olive iol and roast in a large roasting tin lined with greaseproof paper for 30 minutes.
-3. add the peppers, onion, chpped courgette and tomatoes, also lightly coated in olive oil and roast for a further 20 minutes.
-4. chop the harlic and add to a measuring jug with the thyme, oregano, chilli flakes, salt, pepper and tomato pur&eacute;e.
+2. chop the aubergine and potatoes into similar sized pieces, lightly coat in olive oil and roast in a large roasting tin lined with greaseproof paper for 30 minutes.
+3. add the peppers, onion, chopped courgette and tomatoes, also lightly coated in olive oil and roast for a further 30 minutes.
+4. chop the garlic and add to a measuring jug with the thyme, oregano, chilli flakes, salt, pepper and tomato pur&eacute;e.
 5. add boiling water to make up to 400ml.
 6. add to the roasted vegetables and roast for another 40 minutes at 180&deg;C
 7. garnish with chopped fresh parsley and crumbled fets.
