@@ -6,7 +6,7 @@
                 <li>
                     <span class="episode-postedon">{{ episode.date | date: "%b %d<br>%Y" }}</span>
                     <span class="episode-details">
-                        <a href="https://podcast.bjorsq.net/{{ episode.file }}" class="episode-link">{{ episode.title }}</a>
+                        <a href="https://media.bjorsq.net/podcast/{{ episode.file }}" class="episode-link">{{ episode.title }}</a>
                         <span class="episode-description">{{ episode.description  | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                     </span>
                 </li>
