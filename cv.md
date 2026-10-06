@@ -16,14 +16,14 @@ I am very hard working and committed to all the projects I undertake, and enjoy 
 
 ### Programming:
 
-* PHP (26 years)
-* Perl (17 years)
-* Python (6 years)
+* PHP (29 years)
+* Perl (20 years)
+* Python (7 years)
 * ASP (3 years)
-* JavaScript (28 years)
-* HTML (28 years)
-* CSS (24 years)
-* XML/SVG (23 years)
+* JavaScript (30 years)
+* HTML (30 years)
+* CSS (26 years)
+* XML/SVG (26 years)
 
 ### Software:
 
@@ -36,9 +36,9 @@ I am very hard working and committed to all the projects I undertake, and enjoy 
 
 ## Experience
 
-I have a broad range of programming skills utilising several different web technologies, but I am committed to using open source software. My PHP skills are excellent and I use Obeject-oriented design and design patterns in all of my projects, which have used the [Laravel Framework](https://laravel.com/), [Zend Framework](framework.zend.com), and [Wordpress](www.wordpress.org). I have extensive knowledge of XHTML, XML, SVG, JavaScript/ECMAScript, and in-depth knowledge of a number of JavaScript frameworks, including [jQuery](http://jquery.com) and [Backbone](http://backbonejs.org/), [Angular](https://angularjs.org/) and [React](https://react.dev/). I also have extensive experience in the use of Google's web services and APIs (AJAX, Search and mapping). I have knowledge of the full development lifecycle, from writing detailed technical and functional specifications, developing systems from scratch and on top of an existing codebase. I use git to manage all my projects.
+I have a broad range of programming skills utilising several different web technologies, and I am committed to using open source software. My PHP skills are excellent and I use Obeject-oriented design and design patterns in all of my projects, which have used the [Laravel Framework](https://laravel.com/), [Zend Framework](framework.zend.com), and [Wordpress](www.wordpress.org). I have extensive knowledge of XHTML, XML, SVG, JavaScript/ECMAScript, and in-depth knowledge of a number of JavaScript frameworks, including [jQuery](http://jquery.com) and [Backbone](http://backbonejs.org/), [Angular](https://angularjs.org/) and [React](https://react.dev/). I have knowledge of the full development lifecycle, from writing detailed technical and functional specifications, developing systems from scratch and on top of an existing codebase. I use git to manage all my projects.
 
-I am currently developing my skills in Perl to support numerous [EPrints](https://www.eprints.org/) repositories, and working on software projects written in Python (using [Flask](https://flask.palletsprojects.com/)). I am developing my skills in the use of cloud platforms (AWS and Azure) with a focus on conatinerisation, cloud functions and CI/CD pipelines.
+I am currently developing my skills in Perl to support numerous [EPrints](https://www.eprints.org/) repositories, and working on software projects written in Python (using [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/)). I am developing my skills in the use of cloud platforms (AWS and Azure) with a focus on conatinerisation, cloud functions and CI/CD pipelines. I am also engaged in online mapping projects using [Leaflet](https://leafletjs.com/), [MapLibre GL](https://maplibre.org/maplibre-gl-js/docs/) and [Allmnaps](https://allmaps.org/) and projects utilising [IIIF](https://iiif.io/) and [Linked.art](https://linked.art/).
 
 Interests
 ---------
@@ -48,7 +48,7 @@ My main personal interests are in art, music and literature. I have published a 
 Education
 ---------
 
-I attended schools in Lancashire, where I learnt enough to get into Leicester University in 1988 to study Chemistry with Biochemistry. I left university with a BSc (Hons) 2(ii) degree in Chemistry. In 1995 I started a Postgraduate Diploma in Information Management at the University of North London while working in Newham's Library Service as a librarian. I paid for the course and elected to job share in order to free up time for my studies, as my employers refused to support me (I am highly self-motivated and committed to continuing professional development). Some aspects of my degree (computer modelling water molecules to investigate solvation) and the diploma (fortran programming, HTML and Javascript, MARC cataloguing) made me realise that my interests lay in programming and markup languages. I have spent the last 27 years undergoing a programme of study - I learn new concepts very quickly and easily and I continually strive to improve the quality of my work.
+I attended schools in Lancashire, where I learnt enough to get into Leicester University in 1988 to study Chemistry with Biochemistry. I left university with a BSc (Hons) 2(ii) degree in Chemistry. In 1995 I started a Postgraduate Diploma in Information Management at the University of North London while working in Newham's Library Service as a librarian. I paid for the course and elected to job share in order to free up time for my studies, as my employers refused to support me (I am highly self-motivated and committed to continuing professional development). Some aspects of my degree (computer modelling water molecules to investigate solvation) and the diploma (fortran programming, HTML and Javascript, MARC cataloguing) made me realise that my interests lay in programming and markup languages. I have spent the last 31 years undergoing a programme of study - I learn new concepts very quickly and easily and I continually strive to improve the quality of my work.
 
 Employment History
 ------------------
